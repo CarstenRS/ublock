@@ -1,6 +1,7 @@
 ! Title: CarstenRS-personal
 ! Expires: 1 day (update frequency)
 ! Description: some cosmetics...
+! Homepage: https://raw.githubusercontent.com/CarstenRS/ublock/main/personal_filter.txt
 
 ! 2023-10-25 iframe-ad-domains:
 ||*.chip.*.com/assets/*-Chip-Banner-*.jpg$image
