@@ -1,3 +1,7 @@
+! Title: CarstenRS-personal
+! Expires: 1 day (update frequency)
+! Description: some cosmetics...
+
 ! 2023-10-25 iframe-ad-domains:
 ||*.chip.*.com/assets/*-Chip-Banner-*.jpg$image
 ||www.prepaid-wiki.de/wiki/HTMLets/Lebara_Banner.jpg$image
