@@ -87,6 +87,9 @@ computerbild.de###newsletter-teaser-widget
 ! 2022-11-11 https://www.conrad.de
 conrad.de##.cmsColumn__default.cmsColumn__layout2-75-25.cmsColumn__wrapper > .cmsColumn__item--2.cmsColumn__item
 
+! 2023-07-04 https://www.wolframalpha.com
+wolframalpha.com##.kPdgYi.cwjaCb.sc-34cb55e4-3.sc-34cb55e4-2._ZJzB._dGJe._3BQD
+
 ! 2021-09-14 https://twitter.com
 twitter.com##.css-1dbjc4n
 twitter.com##html:style(overflow: auto !important;)
@@ -98,8 +101,8 @@ bundesnetzagentur.de##.fixed-position.dapadding.fwo
 ! 2023-06-22 https://www.privateinternetaccess.com
 privateinternetaccess.com###chat-widget-iframe
 
-! 2023-07-04 https://www.wolframalpha.com
-wolframalpha.com##.kPdgYi.cwjaCb.sc-34cb55e4-3.sc-34cb55e4-2._ZJzB._dGJe._3BQD
+! 2023-11-01 https://www.bahndampf.de
+de##.brave_popupSections__wrap
 
 ! 2023-07-30 ups.com
 ups.com###ups-alertsWrap
