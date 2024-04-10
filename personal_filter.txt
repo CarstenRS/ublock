@@ -150,10 +150,12 @@ netzclub.net##.p-4.c-glassmorphism-box--blur.c-glassmorphism-box
 netzclub.net##.mt-4.c-glassmorphism-box--blur.c-glassmorphism-box
 netzclub.net##.c-media--netzclub-plus.c-media
 netzclub.net##.c-media__body--video.c-media__body
-netzclub.net##section[class="c-stage c-stage--pt-xl c-stage--pb-xl"]
-netzclub.net##section[class^="c-stage c-stage--pt-xl c-stage--pb-xl"] > .container-xl
+netzclub.net##section[class^="c-stage c-stage--pt-m c-stage--pb-s"]
+netzclub.net##section[class^="c-stage c-stage--pt-m c-stage--pb-xl"]
+netzclub.net##section[class^="c-stage c-stage--pt-xl c-order-process__app-teaser"]
+netzclub.net##section[class^="c-stage c-stage--pt-xl c-stage--pb-xl u-image-index-app-banner"] > .container-xl
+netzclub.net##section[class^="c-stage c-stage--pt-xl u-image-netzclub"] > .container-xl
 netzclub.net##section[class^="c-stage c-stage--pt-xxl c-stage--pb-xxl"] > .container-xl
-netzclub.net##section[class^="c-stage c-stage--pt-m c-stage--pb-"]
 netzclub.net##section[class^="c-stage c-stage--wave-1 c-stage--pt-xl"]
 netzclub.net##section[class^="c-stage c-stage--wave-2 c-stage--pt-"]
 netzclub.net##section[class^="c-stage c-stage--wave-3 c-stage--pt-"]
@@ -163,6 +165,7 @@ netzclub.net##section[class^="c-stage c-stage--wave-5 c-stage--pt-"]
 ||netzclub.net/img/layout/*.svg$image
 ||netzclub.net/img/*illustration*.svg$image
 ||netzclub.net/img/*-header.svg$image
+||netzclub.net/img/ribbon.svg$image
 ||netzclub.net/img/*.webp$image
 @@||netzclub.net/img/index-header.svg$image
 @@||netzclub.net/img/layout/avatar-*male.svg$image
