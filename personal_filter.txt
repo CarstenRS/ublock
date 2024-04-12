@@ -38,9 +38,9 @@ de##[src^="https://web-ads.10sq.net/"]
 ||web-ads.10sq.net/$subdocument
 
 ! 2023-03-04 Online-Zeitungs-Banner
-##div[class^="CoBrandHeaderstyled__CoBrandHeader-sc-"]
-##.licntj.CoBrandHeaderstyled__CoBrandHeader-sc-1fin6qg-0
-##.jrykTA.CoBrandHeaderstyled__CoBrandHeader-sc-1o6jk9k-0
+de##div[class^="CoBrandHeaderstyled__CoBrandHeader-sc-"]
+de##.licntj.CoBrandHeaderstyled__CoBrandHeader-sc-1fin6qg-0
+de##.jrykTA.CoBrandHeaderstyled__CoBrandHeader-sc-1o6jk9k-0
 
 ! 2023-11-10 https://www.chip.de
 chip.de###newsletter-subscription-popup
