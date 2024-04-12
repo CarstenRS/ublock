@@ -29,7 +29,6 @@ img.ui-portal.de##figure
 ! 2023-10-56 Cookie-Pop-Up + riesge Banner:
 ##div[class^="wmde-banner-"]
 ##[src^="/img/banner/"]
-##.buha-cookie-banner
 ###cookies
 ###cookie_consent_min_wrapper
 
@@ -102,7 +101,6 @@ apotix.de##.show.modal-cookie-slim.fade.modal-boxes
 
 ! 2022-11-03 https://www.computerbild.de
 computerbild.de###teaser-frame
-computerbild.de###newsletter-teaser-widget
 
 ! 2022-11-11 https://www.conrad.de
 conrad.de##.cmsColumn__default.cmsColumn__layout2-75-25.cmsColumn__wrapper > .cmsColumn__item--2.cmsColumn__item
