@@ -141,6 +141,7 @@ www.ddv.de###banner-hide
 
 ! 2023-10-27 https://www.duolingo.com
 duolingo.com##._20Ytt._3ug7_.Ekspr
+duolingo.com##._1bT62._2AIq8.QIFJN
 duolingo.com##.wm1bO.SQR8J
 duolingo.com##._1T8FO
 
