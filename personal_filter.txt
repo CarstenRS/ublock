@@ -196,6 +196,7 @@ faq.whatsapp.com###header-notices
 
 ! 2024-01-04 https://www.ebay.de
 ebay.de###widgets-placeholder
+ebay.de##.ohb-entry-tooltip
 
 ! 2023-12-04 https://s-b-h.de
 s-b-h.de###vinegar-bottle
