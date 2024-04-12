@@ -31,6 +31,7 @@ img.ui-portal.de##figure
 ##[src^="/img/banner/"]
 ###cookies
 ###cookie_consent_min_wrapper
+com##.modal-886ab
 
 ! 2023-10-01 https://www.dasoertliche.de
 de##[src^="https://web-ads.10sq.net/"]
