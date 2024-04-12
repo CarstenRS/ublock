@@ -27,26 +27,20 @@ img.ui-portal.de##div > .inverted
 img.ui-portal.de##figure
 
 ! 2023-10-56 Cookie-Pop-Up + riesge Banner:
-wikipedia.org##div[class^="wmde-banner-"]
-de##[src^="/img/banner/"]
-de##.buha-cookie-banner
-de###cookies
-net##[src^="/img/banner/"]
-net##.buha-cookie-banner
-net###cookies
-com##[src^="/img/banner/"]
-com##.buha-cookie-banner
-com###cookies
-com###cookie_consent_min_wrapper
+##div[class^="wmde-banner-"]
+##[src^="/img/banner/"]
+##.buha-cookie-banner
+###cookies
+###cookie_consent_min_wrapper
 
 ! 2023-10-01 https://www.dasoertliche.de
 de##[src^="https://web-ads.10sq.net/"]
 ||web-ads.10sq.net/$subdocument
 
 ! 2023-03-04 Online-Zeitungs-Banner
-de##div[class^="CoBrandHeaderstyled__CoBrandHeader-sc-"]
-de##.licntj.CoBrandHeaderstyled__CoBrandHeader-sc-1fin6qg-0
-de##.jrykTA.CoBrandHeaderstyled__CoBrandHeader-sc-1o6jk9k-0
+##div[class^="CoBrandHeaderstyled__CoBrandHeader-sc-"]
+##.licntj.CoBrandHeaderstyled__CoBrandHeader-sc-1fin6qg-0
+##.jrykTA.CoBrandHeaderstyled__CoBrandHeader-sc-1o6jk9k-0
 
 ! 2023-11-10 https://www.chip.de
 chip.de###newsletter-subscription-popup
