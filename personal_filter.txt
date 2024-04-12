@@ -246,7 +246,7 @@ youtube.com###content-wrapper
 familienportal.de##.bmfsfj-logo.icon > use
 
 ! 2022-11-07 https://www.gesetze-im-internet.de
-||www.gesetze-im-internet.de/img/lay/BfJ_2021_WebSVG_de_de.svg$image
+||gesetze-im-internet.de/img/lay/*.svg$image
 
 ! 2022-03-18 https://www.bundestag.de
 bundestag.de##.bt-sticky-share__button
