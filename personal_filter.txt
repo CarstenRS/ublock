@@ -182,6 +182,9 @@ startpage.com##.css-1pducxn
 startpage.com##.footer__w-desktop > .footer__blog-widget
 startpage.com##.css-idxg7u > .css-1ow5ikc
 
+! 2024-04-12 https://www.tk.de
+||tk.de/resource/image/*/tk-app-startseite-*.jpg$image
+
 ! 2023-11-24 https://discord.com
 discord.com##.layer_ec16dd.theme-dark
 
