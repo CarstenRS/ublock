@@ -109,6 +109,9 @@ conrad.de##.cmsColumn__default.cmsColumn__layout2-75-25.cmsColumn__wrapper > .cm
 ! 2023-07-04 https://www.wolframalpha.com
 wolframalpha.com##.kPdgYi.cwjaCb.sc-34cb55e4-3.sc-34cb55e4-2._ZJzB._dGJe._3BQD
 
+! 2024-04-15 https://oeffentlicher-dienst.info
+||oeffentlicher-dienst.info/_pic/*.gif$image
+
 ! 2021-09-14 https://twitter.com
 twitter.com##.css-1dbjc4n
 twitter.com##html:style(overflow: auto !important;)
