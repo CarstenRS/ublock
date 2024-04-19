@@ -233,6 +233,9 @@ web.whatsapp.com###pane-side > .x2lah0s
 ! 2023-09-15 https://calendar.google.com
 calendar.google.com##.QQYuzf
 
+! 2024-04-19 https://stura.uni-leipzig.de
+stura.uni-leipzig.de##.hero
+
 ! 2024-04-08 https://mein.konsum-leipzig.de
 ||mein-konsum-leipzig-dev.de/wp-content/uploads/*_Header.jpg$image
 mein.konsum-leipzig.de##div[style^="background-image"]
