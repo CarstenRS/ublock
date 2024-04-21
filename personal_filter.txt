@@ -74,6 +74,9 @@ welt.de##.c-dialog__inactivity.c-dialog__is-white.c-dialog
 ! 2022-11-02 https://www.spiegel.de
 spiegel.de##.justify-between.inline-flex
 
+! 2024-04-20 https://www.l-iz.de
+l-iz.de##.code-block
+
 ! 2022-09-12 https://dl.gmx.net
 gmx.net###service-right
 gmx.net##div[data-url^="http"]
