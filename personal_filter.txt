@@ -243,6 +243,9 @@ stura.uni-leipzig.de##.hero
 ||mein-konsum-leipzig-dev.de/wp-content/uploads/*_Header.jpg$image
 mein.konsum-leipzig.de##div[style^="background-image"]
 
+! 2024-04-25 https://app.robinsonliste.de
+||robinsonliste.de/img/mood*.jpg$image
+
 ! 2024-03-02 unnötiger Countdown bei Banken
 meine.santander.de##.SBHeaderLogoutSection__timerContainer___mNFfe
 meine.santander.de##.GlobalPositionBanner__devicesManagement___jH3Vt
