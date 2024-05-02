@@ -81,8 +81,6 @@ l-iz.de##.code-block
 gmx.net###service-right
 gmx.net##div[data-url^="http"]
 web.de##div[data-url^="http"]
-gmx.net##div[data-url=""]
-web.de##div[data-url=""]
 
 ! 2024-02-18 https://www.amazon.de
 amazon.de###primeDPUpsellContainer
@@ -251,6 +249,7 @@ mein.konsum-leipzig.de##div[style^="background-image"]
 meine.santander.de##.SBHeaderLogoutSection__timerContainer___mNFfe
 meine.santander.de##.GlobalPositionBanner__devicesManagement___jH3Vt
 meine.hanseaticbank.de##.tw-no-underline.tw-font-medium.tw-flex
+||meine.hanseaticbank.de/_nuxt/img/background-landscape*.jpg$image
 finanzen-zero.net##td:nth-of-type(5)
 finanzen-zero.net##th:nth-of-type(5)
 
