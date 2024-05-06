@@ -176,8 +176,7 @@ wbs.legal##.justify-content-center.g-4.row
 
 ! 2022-11-10 https://www.startpage.com
 startpage.com##.css-1pducxn
-startpage.com##.css-1ow5ikc
-startpage.com##.footer__w-desktop > .footer__blog-widget
+startpage.com##a[href="https://www.startpage.com/nix-zu-verbergen/"]
 
 ! 2024-04-12 https://www.tk.de
 ||tk.de/resource/image/*/tk-app-startseite-*.jpg$image
