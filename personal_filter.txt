@@ -244,6 +244,9 @@ mein.konsum-leipzig.de##div[style^="background-image"]
 ||robinsonliste.de/img/mood*.jpg$image
 ||robinsonliste.de/wp-content/uploads/*.jpg$image
 
+! 2024-05-08 https://sec.hpi.de
+||sec.hpi.de/ilc/img/*.jpg$image
+
 ! 2024-03-02 unnötiger Countdown bei Banken
 meine.santander.de##.SBHeaderLogoutSection__timerContainer___mNFfe
 meine.santander.de##.GlobalPositionBanner__devicesManagement___jH3Vt
