@@ -30,6 +30,7 @@ img.ui-portal.de##figure
 ##div[class^="wmde-banner-"]
 ##[src^="/img/banner/"]
 ###cookies
+###communice-cookiebar
 ###cookie_consent_min_wrapper
 com##.modal-886ab
 
