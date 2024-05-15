@@ -236,6 +236,7 @@ calendar.google.com##.QQYuzf
 
 ! 2024-04-19 https://stura.uni-leipzig.de
 stura.uni-leipzig.de##.hero
+uni-leipzig.de##a[data-footer^="Senatssitzung"]
 
 ! 2024-04-08 https://mein.konsum-leipzig.de
 ||mein-konsum-leipzig-dev.de/wp-content/uploads/*_Header.jpg$image
