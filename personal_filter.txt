@@ -15,7 +15,7 @@
 ||gstatic.com/youtube/img/promos/growth/*$image
 ||silbentrennung24.de/wp-content/themes/rsp24/images/bg_rightadbar.gif$image
 ||accounts.google.com/gsi/iframe/select?*&origin=*twitter.com*$subdocument
-||wolframalpha.com/_next/static/images/TourMedium_2OLGHg5g.png$image
+||wolframalpha.com/_next/static/images/TourMedium_*.png$image
 ||wolframcdn.com/side-images/Mathematica-heart.jpg$image
 ||cloudfront.net/widget/*.png$image
 ||gmx.net/uim/container/generic_adition_*.html$subdocument
@@ -107,9 +107,6 @@ computerbild.de###teaser-frame
 
 ! 2022-11-11 https://www.conrad.de
 conrad.de##.cmsColumn__default.cmsColumn__layout2-75-25.cmsColumn__wrapper > .cmsColumn__item--2.cmsColumn__item
-
-! 2023-07-04 https://www.wolframalpha.com
-wolframalpha.com##.kPdgYi.cwjaCb.sc-34cb55e4-3.sc-34cb55e4-2._ZJzB._dGJe._3BQD
 
 ! 2024-04-15 https://oeffentlicher-dienst.info
 ||oeffentlicher-dienst.info/_pic/*.gif$image
