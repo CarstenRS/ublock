@@ -106,6 +106,7 @@ apotix.de##.show.modal-cookie-slim.fade.modal-boxes
 computerbild.de###teaser-frame
 computerbild.de##.galleryTeaser
 computerbild.de##.md\:mx-teaser
+computerbild.de##.ecommerceButton
 
 ! 2022-11-11 https://www.conrad.de
 conrad.de##.cmsColumn__default.cmsColumn__layout2-75-25.cmsColumn__wrapper > .cmsColumn__item--2.cmsColumn__item
