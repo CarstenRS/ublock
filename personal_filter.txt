@@ -269,6 +269,7 @@ youtube.com###content-wrapper
 youtube.com###sponsor-button
 youtube.com###voice-search-button
 youtube.com###clarify-box
+youtube.com###flexible-item-buttons
 m.youtube.com##.feed-nudge-wrapper
 
 ! 2023-02-09 https://familienportal.de
