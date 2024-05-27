@@ -45,6 +45,7 @@ de##.jrykTA.CoBrandHeaderstyled__CoBrandHeader-sc-1o6jk9k-0
 
 ! 2023-11-10 https://www.chip.de
 chip.de###newsletter-subscription-popup
+chip.de##.Advanced-Boost-Widget
 ||videoplayer.chip.de/p/player/latest/index.html$subdocument
 
 ! 2023-11-10 https://www.prosieben.de
