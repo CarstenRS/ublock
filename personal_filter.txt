@@ -242,7 +242,7 @@ calendar.google.com##.QQYuzf
 ! 2024-04-19 www.uni-leipzig.de
 stura.uni-leipzig.de##.hero
 uni-leipzig.de##a[data-footer^="Senatssitzung"]
-||www.fmi.uni-leipzig.de/Static/img/raster.gif$image
+||uni-leipzig.de/Static/img/raster.gif$image
 
 ! 2024-04-08 https://mein.konsum-leipzig.de
 ||mein-konsum-leipzig-dev.de/wp-content/uploads/*_Header.jpg$image
