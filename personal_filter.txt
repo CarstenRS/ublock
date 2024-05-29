@@ -5,6 +5,7 @@
 
 ! 2023-10-25 iframe-ad-domains:
 ||trws.flaschenpost.de^
+||b2bedgesolutions.co^
 ||mercalar.com.br^
 ||xn--namens-nderung-cib.de^
 ||chip.*.com/assets/*-Chip-Banner-*.jpg$image
