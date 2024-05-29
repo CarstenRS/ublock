@@ -246,6 +246,7 @@ youtube.com###sponsor-button
 youtube.com###voice-search-button
 youtube.com###clarify-box
 youtube.com###flexible-item-buttons
+youtube.com##ytd-guide-signin-promo-renderer
 m.youtube.com##.feed-nudge-wrapper
 
 ! 2024-04-19 www.uni-leipzig.de
