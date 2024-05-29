@@ -87,6 +87,7 @@ web.de##div[data-url^="http"]
 
 ! 2024-02-18 https://www.amazon.de
 amazon.de###primeDPUpsellContainer
+amazon.de##.nav-signin-tt
 
 ! 2022-09-29 https://nydus.org
 ||nydus.org/stream/embedplayer_hq.php?id=prosieben$subdocument
