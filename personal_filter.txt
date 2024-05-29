@@ -239,6 +239,14 @@ web.whatsapp.com###pane-side > .x2lah0s
 ! 2023-09-15 https://calendar.google.com
 calendar.google.com##.QQYuzf
 
+! 2022-11-28 https://www.youtube.com
+youtube.com###content-wrapper
+youtube.com###sponsor-button
+youtube.com###voice-search-button
+youtube.com###clarify-box
+youtube.com###flexible-item-buttons
+m.youtube.com##.feed-nudge-wrapper
+
 ! 2024-04-19 www.uni-leipzig.de
 stura.uni-leipzig.de##.hero
 uni-leipzig.de##a[data-footer^="Senatssitzung"]
@@ -248,6 +256,10 @@ uni-leipzig.de##a[data-footer^="Senatssitzung"]
 ||mein-konsum-leipzig-dev.de/wp-content/uploads/*_Header.jpg$image
 mein.konsum-leipzig.de##div[style^="background-image"]
 mein.konsum-leipzig.de##.__panel
+
+! 29.05.2024 https://cim.allianz.de
+cim.allianz.de##app-header
+cim.allianz.de##app-footer
 
 ! 2024-04-25 https://www.robinsonliste.de
 ||robinsonliste.de/img/mood*.jpg$image
@@ -263,14 +275,6 @@ meine.hanseaticbank.de##.tw-no-underline.tw-font-medium.tw-flex
 ||meine.hanseaticbank.de/_nuxt/img/background-landscape*.jpg$image
 finanzen-zero.net##td:nth-of-type(5)
 finanzen-zero.net##th:nth-of-type(5)
-
-! 2022-11-28 https://www.youtube.com
-youtube.com###content-wrapper
-youtube.com###sponsor-button
-youtube.com###voice-search-button
-youtube.com###clarify-box
-youtube.com###flexible-item-buttons
-m.youtube.com##.feed-nudge-wrapper
 
 ! 2023-02-09 https://familienportal.de
 familienportal.de##.bmfsfj-logo.icon > use
