@@ -241,7 +241,7 @@ web.whatsapp.com###pane-side > .x2lah0s
 calendar.google.com##.QQYuzf
 
 ! 2022-11-28 https://www.youtube.com
-youtube.com###content-wrapper
+!youtube.com###content-wrapper
 youtube.com###sponsor-button
 youtube.com###voice-search-button
 youtube.com###clarify-box
