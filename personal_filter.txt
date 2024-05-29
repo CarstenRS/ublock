@@ -260,6 +260,7 @@ mein.konsum-leipzig.de##.__panel
 ! 29.05.2024 https://cim.allianz.de
 cim.allianz.de##app-header
 cim.allianz.de##app-footer
+allianz.de###user-assistance-contact-button
 
 ! 2024-04-25 https://www.robinsonliste.de
 ||robinsonliste.de/img/mood*.jpg$image
