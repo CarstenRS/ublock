@@ -84,6 +84,7 @@ l-iz.de##.code-block
 gmx.net###service-right
 gmx.net##div[data-url^="http"]
 web.de##div[data-url^="http"]
+gmx.net##.left-col-bottom
 
 ! 2024-02-18 https://www.amazon.de
 amazon.de###primeDPUpsellContainer
