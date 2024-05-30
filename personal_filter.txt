@@ -280,6 +280,7 @@ meine.santander.de##.SBHeaderLogoutSection__timerContainer___mNFfe
 meine.santander.de##.GlobalPositionBanner__devicesManagement___jH3Vt
 meine.hanseaticbank.de##.tw-no-underline.tw-font-medium.tw-flex
 ||meine.hanseaticbank.de/_nuxt/img/background-landscape*.jpg$image
+||commerzbank.de/ms/media/generated/*-DirektDepot-*-jpg*$image
 finanzen-zero.net##td:nth-of-type(5)
 finanzen-zero.net##th:nth-of-type(5)
 
