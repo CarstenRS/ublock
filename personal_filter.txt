@@ -258,6 +258,8 @@ m.youtube.com##.feed-nudge-wrapper
 stura.uni-leipzig.de##.hero
 uni-leipzig.de##a[data-footer^="Senatssitzung"]
 ||uni-leipzig.de/Static/img/raster.gif$image
+intranet.uni-leipzig.de###footer
+www.uni-leipzig.de###footer
 
 ! 2024-04-08 https://mein.konsum-leipzig.de
 ||mein-konsum-leipzig-dev.de/wp-content/uploads/*_Header.jpg$image
