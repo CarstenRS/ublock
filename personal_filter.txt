@@ -222,6 +222,8 @@ open.spotify.com##.GenericModal--animated.GenericModal > div > iframe
 open.spotify.com##.tippy-box
 open.spotify.com##.dz_h98rH9nZCwfPdnKgr
 open.spotify.com##.Popover__StyledPopover-sc-1iog353-0
+open.spotify.com##.encore-over-media-set.kVKSMm.ButtonInner-sc-14ud5tc-0
+open.spotify.com##.Upqw01TOXETOmR5Td7Dj.encore-inverted-light-set.gQWWCO.ButtonInner-sc-14ud5tc-0
 open.spotify.com##.sponsor-container
 
 ! 2023-11-07 facebook-pings:
