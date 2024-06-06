@@ -154,6 +154,7 @@ duolingo.com##._1T8FO
 netzclub.net##h1
 netzclub.net##.p-4.c-glassmorphism-box--blur.c-glassmorphism-box
 netzclub.net##.mt-4.c-glassmorphism-box--blur.c-glassmorphism-box
+netzclub.net##.c-balance-box__wrapper--nplus.c-balance-box__wrapper
 netzclub.net##.c-media--netzclub-plus.c-media
 netzclub.net##.c-media__body--video.c-media__body
 netzclub.net##section[class^="c-stage c-stage--pt-m c-stage--pb-s"]
