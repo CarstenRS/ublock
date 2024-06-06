@@ -261,6 +261,10 @@ uni-leipzig.de##a[data-footer^="Senatssitzung"]
 intranet.uni-leipzig.de###footer
 www.uni-leipzig.de###footer
 
+! 06.06.2024 https://www.uni-greifswald.de
+uni-greifswald.de##.footer-column--light.footer-column
+uni-greifswald.de##.footer-column--dark.footer-column > .footer__content-wrapper
+
 ! 2024-04-08 https://mein.konsum-leipzig.de
 ||mein-konsum-leipzig-dev.de/wp-content/uploads/*_Header.jpg$image
 mein.konsum-leipzig.de##div[style^="background-image"]
