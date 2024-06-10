@@ -164,6 +164,7 @@ netzclub.net##section[class^="c-stage c-stage--pt-xl c-stage--pb-xl u-image-inde
 netzclub.net##section[class^="c-stage c-stage--pt-xl u-image-netzclub"] > .container-xl
 netzclub.net##section[class^="c-stage c-stage--pt-xxl c-stage--pb-xxl"] > .container-xl
 netzclub.net##section[class^="c-stage c-stage--wave-1 c-stage--pt-xl"]
+netzclub.net##section[class^="c-stage c-stage--wave-1 c-stage--pt-m u-image-selfcare-header u-image-selfcare-header--"]
 netzclub.net##section[class^="c-stage c-stage--wave-2 c-stage--pt-"]
 netzclub.net##section[class^="c-stage c-stage--wave-3 c-stage--pt-"]
 netzclub.net##section[class^="c-stage c-stage--wave-4 c-stage--pt-"]
