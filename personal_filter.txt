@@ -249,6 +249,7 @@ calendar.google.com##.QQYuzf
 
 ! 2022-11-28 https://www.youtube.com
 youtube.com###primary-button.ytd-feed-nudge-renderer
+youtube.com##.yt-spec-button-view-model.interstitial-view-model-wiz__flex-item
 youtube.com###sponsor-button
 youtube.com###categoryPillParent
 youtube.com###voice-search-button
