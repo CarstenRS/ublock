@@ -254,6 +254,8 @@ youtube.com###categoryPillParent
 youtube.com###voice-search-button
 youtube.com###clarify-box
 youtube.com###flexible-item-buttons
+youtube.com###middle-row.ytd-watch-metadata
+youtube.com###content.ytd-info-panel-container-renderer
 youtube.com##ytd-guide-signin-promo-renderer
 m.youtube.com##.feed-nudge-wrapper
 
