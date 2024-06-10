@@ -264,6 +264,7 @@ m.youtube.com##.feed-nudge-wrapper
 stura.uni-leipzig.de##.hero
 uni-leipzig.de##a[data-footer^="Senatssitzung"]
 ||uni-leipzig.de/Static/img/raster.gif$image
+||uni-leipzig.de/apps/theming/img/background/*-clouds.jpg$image
 intranet.uni-leipzig.de###footer
 www.uni-leipzig.de###footer
 
