@@ -303,7 +303,7 @@ familienportal.de##.bmfsfj-logo.icon > use
 
 ! 2022-11-07 https://www.gesetze-im-internet.de
 ||gesetze-im-internet.de/img/lay/*.svg$image
-||bund.de/DE/themen/sport/euro2024/*Logo.svg$image
+bund.de##[src^="/DE/themen/sport/euro2024/"]
 
 ! 2022-03-18 https://www.bundestag.de
 bundestag.de##.bt-sticky-share__button
