@@ -276,6 +276,10 @@ uni-greifswald.de##.footer-column--dark.footer-column > .footer__content-wrapper
 ||mein-konsum-leipzig-dev.de/wp-content/uploads/*_Header.jpg$image
 mein.konsum-leipzig.de##div[style^="background-image"]
 mein.konsum-leipzig.de##.__panel
+mein.konsum-leipzig.de##.max-w-screen
+
+! 16.06.2024 https://regio-guide.de
+regio-guide.de##.consent-layer-detail__links
 
 ! 29.05.2024 https://cim.allianz.de
 cim.allianz.de##app-header
