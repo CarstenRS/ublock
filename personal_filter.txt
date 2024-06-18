@@ -25,6 +25,7 @@
 ||payback.de/banners/*.jpg$image
 ||radiosaw.de/saw-widgets/*.jpg$image
 ||img.ui-portal.de/eigenwerbung/*$image
+||genius.com/songs/8310610/apple_music_player$subdocument
 img.ui-portal.de##div > .inverted
 img.ui-portal.de##figure
 
