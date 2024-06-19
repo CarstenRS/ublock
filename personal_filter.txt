@@ -26,6 +26,7 @@
 ||radiosaw.de/saw-widgets/*.jpg$image
 ||img.ui-portal.de/eigenwerbung/*$image
 ||genius.com/songs/8310610/apple_music_player$subdocument
+com##[href^="https://www.kink.com/"]
 img.ui-portal.de##div > .inverted
 img.ui-portal.de##figure
 
