@@ -296,6 +296,9 @@ allianz.de###user-assistance-contact-button
 ! 2024-05-08 https://sec.hpi.de
 ||sec.hpi.de/ilc/img/*.jpg$image
 
+! 19.06.2024 https://accounts.misterspex.de
+||media.misterspex.com/image/upload/*/Login/login_*_person.png$image
+
 ! 2024-03-02 unnötiger Countdown bei Banken
 meine.santander.de##.SBHeaderLogoutSection__timerContainer___mNFfe
 meine.santander.de##.GlobalPositionBanner__devicesManagement___jH3Vt
