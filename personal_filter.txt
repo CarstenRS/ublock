@@ -29,6 +29,7 @@
 com##[href^="https://www.kink.com/"]
 img.ui-portal.de##div > .inverted
 img.ui-portal.de##figure
+@@||sueddeutsche.de/projekte/artikel/newsletter^$elemhide
 
 ! 2023-10-56 Cookie-Pop-Up + riesge Banner:
 ##div[class^="wmde-banner-"]
