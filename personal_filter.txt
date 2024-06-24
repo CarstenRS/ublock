@@ -256,6 +256,7 @@ youtube.com###primary-button.ytd-feed-nudge-renderer
 youtube.com##ytd-feed-nudge-renderer.ytd-item-section-renderer.style-scope
 youtube.com##.yt-spec-button-view-model.interstitial-view-model-wiz__flex-item
 youtube.com###sponsor-button
+youtube.com###donation-shelf
 youtube.com###categoryPillParent
 youtube.com###voice-search-button
 youtube.com###clarify-box
