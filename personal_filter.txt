@@ -86,7 +86,7 @@ spiegel.de##.justify-between.inline-flex
 ! 2024-04-20 https://www.l-iz.de
 l-iz.de##.code-block
 
-! 2022-09-12 https://dl.gmx.net
+! 2022-09-12 https://gmx.net or https://web.de
 gmx.net###service-right
 gmx.net##.left-col-bottom
 gmx.net##section[data-name="Mobilfunk"]
@@ -94,6 +94,7 @@ gmx.net##div[data-container="right"]
 gmx.net##div[data-url^="http"]
 web.de##div[data-container="right"]
 web.de##div[data-url^="http"]
+web.de##section[data-name="Mobilfunk"]
 
 ! 2024-02-18 https://www.amazon.de
 amazon.de###primeDPUpsellContainer
