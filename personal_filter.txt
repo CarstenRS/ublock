@@ -88,9 +88,12 @@ l-iz.de##.code-block
 
 ! 2022-09-12 https://dl.gmx.net
 gmx.net###service-right
-gmx.net##div[data-url^="http"]
-web.de##div[data-url^="http"]
 gmx.net##.left-col-bottom
+gmx.net##section[data-name="Mobilfunk"]
+gmx.net##div[data-container="right"]
+gmx.net##div[data-url^="http"]
+web.de##div[data-container="right"]
+web.de##div[data-url^="http"]
 
 ! 2024-02-18 https://www.amazon.de
 amazon.de###primeDPUpsellContainer
