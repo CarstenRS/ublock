@@ -199,6 +199,7 @@ startpage.com##a[href="https://www.startpage.com/nix-zu-verbergen/"]
 ! 2024-04-12 https://www.tk.de
 ||tk.de/resource/image/*/tk-*-startseite-*.jpg$image
 tk.de##.g-footer__cta
+tk.de###tkde-socialmedia-navi
 
 ! 2023-11-24 https://discord.com
 discord.com##.layer_ec16dd.theme-dark
