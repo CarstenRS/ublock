@@ -88,6 +88,7 @@ l-iz.de##.code-block
 
 ! 2022-09-12 https://gmx.net or https://web.de
 gmx.net###service-right
+gmx.net###upp-content
 gmx.net##.left-col-bottom
 gmx.net##section[data-name="Mobilfunk"]
 gmx.net##div[data-container="right"]
