@@ -53,6 +53,7 @@ de##.jrykTA.CoBrandHeaderstyled__CoBrandHeader-sc-1o6jk9k-0
 chip.de###newsletter-subscription-popup
 chip.de##.AffiliateLabel--Chip
 chip.de##.Advanced-Boost-Widget
+chip.de##.is-shopping
 ||videoplayer.chip.de/p/player/latest/index.html$subdocument
 
 ! 07.07.2024 https://www.netzwelt.de
