@@ -28,6 +28,9 @@
 ||genius.com/songs/8310610/apple_music_player$subdocument
 ||com/contents/content_sources/*kinkypath*.gif$image
 com##[href^="https://www.kink.com/"]
+com##[href^="https://www.boundhub.com/link/"]
+com##.p8lace
+com##.op5t
 img.ui-portal.de##div > .inverted
 img.ui-portal.de##figure
 @@||sueddeutsche.de/projekte/artikel/newsletter^$elemhide
