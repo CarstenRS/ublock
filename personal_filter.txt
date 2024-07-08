@@ -91,9 +91,6 @@ spiegel.de##.justify-between.inline-flex
 ! 2024-04-20 https://www.l-iz.de
 l-iz.de##.code-block
 
-! 06.07.2024 https://www.fielmann.de
-fielmann.de##aside
-
 ! 2022-09-12 https://gmx.net or https://web.de
 gmx.net###service-right
 gmx.net###upp-content
@@ -323,6 +320,7 @@ meine.santander.de##.GlobalPositionBanner__devicesManagement___jH3Vt
 meine.hanseaticbank.de##.tw-no-underline.tw-font-medium.tw-flex
 ||meine.hanseaticbank.de/_nuxt/img/background-landscape*.jpg$image
 ||commerzbank.de/ms/media/generated/*-jpg*$image
+||awa7.de/files/content/section*/getestet.jpg$image
 finanzen-zero.net##td:nth-of-type(5)
 finanzen-zero.net##th:nth-of-type(5)
 
