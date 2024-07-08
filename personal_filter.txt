@@ -273,9 +273,10 @@ web.whatsapp.com###pane-side > .x2lah0s
 calendar.google.com##.QQYuzf
 
 ! 2022-11-28 https://www.youtube.com
-youtube.com###primary-button.ytd-feed-nudge-renderer
+youtube.com##a[title="YouTube Premium"]
 youtube.com##ytd-feed-nudge-renderer.ytd-item-section-renderer.style-scope
 youtube.com##.yt-spec-button-view-model.interstitial-view-model-wiz__flex-item
+youtube.com###primary-button.ytd-feed-nudge-renderer
 youtube.com###sponsor-button
 youtube.com###donation-shelf
 youtube.com###categoryPillParent
