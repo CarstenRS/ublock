@@ -91,6 +91,13 @@ spiegel.de##.justify-between.inline-flex
 ! 2024-04-20 https://www.l-iz.de
 l-iz.de##.code-block
 
+! 08.07.2024 https://www.fielmann.de
+||storyblok.com/*/instagram.svg$image
+||storyblok.com/*/facebook.svg$image
+||storyblok.com/*/youtube.svg$image
+||storyblok.com/*/pinterest.svg$image
+||storyblok.com/*/welcome.*$image
+
 ! 2022-09-12 https://gmx.net or https://web.de
 gmx.net###service-right
 gmx.net###upp-content
