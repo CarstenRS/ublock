@@ -93,6 +93,7 @@ spiegel.de##.justify-between.inline-flex
 
 ! 2024-04-20 https://www.l-iz.de
 l-iz.de##.code-block
+l-iz.de##.wp-video
 
 ! 08.07.2024 https://www.fielmann.de
 fielmann.de##div[id^="banner-"]
