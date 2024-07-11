@@ -219,6 +219,7 @@ wbs.legal##.justify-content-center.g-4.row
 wbs.legal##section[id="topbar"]
 
 ! 2022-11-10 https://www.startpage.com
+startpage.com##.css-1751upu
 startpage.com##.css-1pducxn
 startpage.com##a[href="https://www.startpage.com/nix-zu-verbergen/"]
 
