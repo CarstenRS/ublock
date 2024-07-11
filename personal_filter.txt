@@ -276,6 +276,9 @@ web.whatsapp.com##.x1qughib.x2lwn1j.xeuugli.x12fk4p8.x1oa3qoh.xozqiw3.x78zum5.x1
 web.whatsapp.com###pane-side > .x2lah0s
 
 ! 2023-09-15 https://*.google.com
+www.google.com##.ssOUyb
+www.google.com##.uU7dJb
+www.google.com##.XDyW0e
 calendar.google.com##.QQYuzf
 mail.google.com##.aoR
 
