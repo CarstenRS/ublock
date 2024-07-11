@@ -44,8 +44,8 @@ facebook.com##[aria-label*="Marketplace"] object:has(> a[href^="/ads/"] > span:h
 ! >> GOOGLE (begin) <<
 
 ! Google consent, "before you continue"
-www.google.*##^script:has-text(consentCookiePayload)
-www.google.*##+js(acis, document.cookie, YES+)
+google.*##^script:has-text(consentCookiePayload)
+google.*##+js(acis, document.cookie, YES+)
 google.*##+js(aeld, DOMContentLoaded, CONSENT)
 ||consent.google.com^
 
