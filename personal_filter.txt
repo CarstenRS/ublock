@@ -2,6 +2,7 @@
 ! Expires: 1 day (update frequency)
 ! Description: some cosmetics...
 ! Homepage: https://raw.githubusercontent.com/CarstenRS/ublock/main/personal_filter.txt
+! Last modified: 2024-07-12
 
 ! 2023-10-25 iframe-ad-domains:
 ||trws.flaschenpost.de^

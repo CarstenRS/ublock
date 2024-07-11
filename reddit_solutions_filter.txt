@@ -16,7 +16,7 @@ facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])) div:n
 facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])) :is(h3,h4) [role=button]:has-text(/Follow|Join/):upward([aria-posinset],[aria-describedby]:not([aria-posinset])):style(height: 0 !important; overflow: hidden !important;)
 
 ! Use only if you actually have these: Suggested posts with the label next to the post date
-www.facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])):has-text(Suggested for you):style(height: 0 !important; overflow: hidden !important;)
+facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])):has-text(Suggested for you):style(height: 0 !important; overflow: hidden !important;)
 
 ! People You May Know
 facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])):has([href="/friends/"]):style(height: 0 !important; overflow: hidden !important;)
@@ -52,7 +52,6 @@ google.*##+js(aeld, DOMContentLoaded, CONSENT)
 ! "People also search for"
 google.*##[id^="eob_"]
 
-
 ! Google login dialogs on various pages
 ||accounts.google.com/gsi/*$xhr,script,3p
 
@@ -63,19 +62,10 @@ google.*##[id^="eob_"]
 ! >> REDDIT (begin) <<
 
 ! Reddit app ad
-reddit.com##.XPromoPopupRpl
 reddit.com##xpromo-new-app-selector
-reddit.com##.bottom-bar, .XPromoBottomBar
-reddit.com##.useApp,.TopNav__promoButton
+reddit.com##.bottom-bar
+reddit.com##.useApp
 reddit.com##body:style(pointer-events:auto!important;)
-
-! uBO Annoyances has also this:
-! https://github.com/uBlockOrigin/uAssets/issues/6826
-reddit.com##.XPromoPopup
-reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
-reddit.com##.XPromoInFeed
-amp.reddit.com##.AppSelectorModal__body
-amp.reddit.com##.upsell_banner
 
 ! extras:
 reddit.com##xpromo-app-selector
@@ -92,3 +82,5 @@ reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward
 ||strapi.reddit.com^$xhr,domain=reddit.com
 
 ! >> REDDIT (end) <<
+
+
