@@ -49,6 +49,7 @@ de##[src^="https://web-ads.10sq.net/"]
 ||web-ads.10sq.net/$subdocument
 
 ! 2023-03-04 Online-Zeitungs-Banner
+||cmp-sp.*.de/index.html$subdocument
 de##div[class^="CoBrandHeaderstyled__CoBrandHeader-sc-"]
 de##.licntj.CoBrandHeaderstyled__CoBrandHeader-sc-1fin6qg-0
 de##.jrykTA.CoBrandHeaderstyled__CoBrandHeader-sc-1o6jk9k-0
@@ -116,6 +117,9 @@ gmx.net##div[data-url^="http"]
 web.de##div[data-container="right"]
 web.de##div[data-url^="http"]
 web.de##section[data-name="Mobilfunk"]
+! Falls "still don't care about cookies:
+gmx.net##.permission-core-iframe
+web.de##.permission-core-iframe
 
 ! 2024-02-18 https://www.amazon.de
 amazon.de###primeDPUpsellContainer
