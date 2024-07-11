@@ -105,7 +105,7 @@ fielmann.de##div[id^="banner-"]
 
 ! 2022-09-12 https://gmx.net or https://web.de
 gmx.net###service-right
-gmx.net###upp-content
+gmx.net##.nav-upp-banner
 gmx.net##.promotionbox__container
 gmx.net##.left-col-bottom
 gmx.net##section[data-name="Mobilfunk"]
@@ -274,8 +274,9 @@ web.whatsapp.com##.o4u7okr9.i2cterl7.gjuq5ydh.dnb887gk.p357zi0d.nu7pwgvd.ktfrpxi
 web.whatsapp.com##.x1qughib.x2lwn1j.xeuugli.x12fk4p8.x1oa3qoh.xozqiw3.x78zum5.x1g77sc7.xdl72j9.xs83m0k.x1c4vz4f
 web.whatsapp.com###pane-side > .x2lah0s
 
-! 2023-09-15 https://calendar.google.com
+! 2023-09-15 https://*.google.com
 calendar.google.com##.QQYuzf
+mail.google.com##.aoR
 
 ! 2022-11-28 https://www.youtube.com
 youtube.com##a[title="YouTube Premium"]
