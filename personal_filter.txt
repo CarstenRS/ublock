@@ -97,6 +97,7 @@ l-iz.de##.wp-video
 
 ! 08.07.2024 https://www.fielmann.de
 fielmann.de##div[id^="banner-"]
+fielmann.de##body:style(overflow: auto !important;)
 ||storyblok.com/*/instagram.svg$image
 ||storyblok.com/*/facebook.svg$image
 ||storyblok.com/*/youtube.svg$image
