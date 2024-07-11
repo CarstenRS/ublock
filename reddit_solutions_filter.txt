@@ -1,4 +1,4 @@
-! Title: Reddit Solutions Clean filter
+! Title: Reddit Solutions filter
 ! Expires: 1 day (update frequency)
 ! Description: Filters for news sites (supports less sites than the extension/add-on)
 ! Homepage: https://raw.githubusercontent.com/CarstenRS/ublock/main/reddit_solutions_filter.txt
