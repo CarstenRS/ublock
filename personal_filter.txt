@@ -297,6 +297,9 @@ mail.google.com##.aoR
 mozilla.org##.wnp-footer-donate
 mozilla.org##.footer-donate
 
+! 12.07.2024 https://www.instagram.com
+instagram.com##.x3hkoc4
+
 ! 2022-11-28 https://www.youtube.com
 youtube.com##a[title="YouTube Premium"]
 youtube.com##ytd-feed-nudge-renderer.ytd-item-section-renderer.style-scope
