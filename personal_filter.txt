@@ -61,6 +61,9 @@ chip.de##.Advanced-Boost-Widget
 chip.de##.is-shopping
 ||videoplayer.chip.de/p/player/latest/index.html$subdocument
 
+! 12.07.2024 https://www.flaschenpost.de
+flaschenpost.de##.fp_modal
+
 ! 07.07.2024 https://www.netzwelt.de
 netzwelt.de###header
 
