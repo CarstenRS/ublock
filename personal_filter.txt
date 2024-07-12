@@ -63,6 +63,7 @@ chip.de##.is-shopping
 
 ! 12.07.2024 https://www.flaschenpost.de
 flaschenpost.de##.fp_modal
+flaschenpost.de##.px-md-4
 
 ! 07.07.2024 https://www.netzwelt.de
 netzwelt.de###header
