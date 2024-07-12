@@ -119,9 +119,11 @@ gmx.net##.left-col-bottom
 gmx.net##section[data-name="Mobilfunk"]
 gmx.net##div[data-container="right"]
 gmx.net##div[data-url^="http"]
+gmx.net##.dialog-app__blocker
 web.de##div[data-container="right"]
 web.de##div[data-url^="http"]
 web.de##section[data-name="Mobilfunk"]
+web.de##.dialog-app__blocker
 ! Falls "still don't care about cookies:
 gmx.net##.permission-core-iframe
 web.de##.permission-core-iframe
