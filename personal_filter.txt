@@ -63,6 +63,7 @@ chip.de##.is-shopping
 
 ! 12.07.2024 https://www.flaschenpost.de
 flaschenpost.de##div[data-v-070f22c1=""]
+flaschenpost.de##p[data-v-c9ebd152=""]
 flaschenpost.de##button[data-testid="bpytcH0GkAtjmZakRMjs"]
 flaschenpost.de##button[data-testid="I_A3EMPKXYqH7uNqXVM73"]
 
