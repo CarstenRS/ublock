@@ -62,8 +62,7 @@ chip.de##.is-shopping
 ||videoplayer.chip.de/p/player/latest/index.html$subdocument
 
 ! 12.07.2024 https://www.flaschenpost.de
-flaschenpost.de##.fp_modal
-flaschenpost.de##.px-md-4
+flaschenpost.de##div[data-v-070f22c1=""]
 flaschenpost.de##button[data-testid="bpytcH0GkAtjmZakRMjs"]
 flaschenpost.de##button[data-testid="I_A3EMPKXYqH7uNqXVM73"]
 
