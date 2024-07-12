@@ -266,7 +266,7 @@ tuttimedoc.com##.OQ8Tzd
 
 ! 2023-08-29 https://open.spotify.com
 open.spotify.com##.GenericModal--animated.GenericModal > div > iframe
-open.spotify.com##.tippy-box
+open.spotify.com##div[id^="tippy"]
 open.spotify.com##.dz_h98rH9nZCwfPdnKgr
 open.spotify.com##.Popover__StyledPopover-sc-1iog353-0
 open.spotify.com##.encore-over-media-set.kVKSMm.ButtonInner-sc-14ud5tc-0
