@@ -115,6 +115,7 @@ fielmann.de##body:style(overflow: auto !important;)
 ! 2022-09-12 https://gmx.net or https://web.de
 gmx.net###service-right
 gmx.net##.nav-upp-banner
+gmx.net##.appbanner
 gmx.net##.promotionbox__container
 gmx.net##.left-col-bottom
 gmx.net##section[data-name="Mobilfunk"]
