@@ -103,6 +103,9 @@ spiegel.de##body:style(overflow: auto !important;)
 spiegel.de##div[data-area="paywall"]
 ||sp-spiegel-de.spiegel.de/index.html
 
+! 15.07.2024 https://www.focus.de
+focus.de##article[id^="teaser-"]
+
 ! 2022-11-03 https://www.computerbild.de
 computerbild.de###teaser-frame
 computerbild.de##.galleryTeaser
