@@ -100,6 +100,7 @@ welt.de##.c-dialog__inactivity.c-dialog__is-white.c-dialog
 ! 2022-11-02 https://www.spiegel.de
 spiegel.de##.justify-between.inline-flex
 spiegel.de##body:style(overflow: auto !important;)
+spiegel.de##div[data-area="paywall"]
 ||sp-spiegel-de.spiegel.de/index.html
 
 ! 2022-11-03 https://www.computerbild.de
