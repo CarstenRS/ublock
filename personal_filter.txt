@@ -44,9 +44,8 @@ img.ui-portal.de##figure
 ###cookie_consent_min_wrapper
 com##.modal-886ab
 
-! 2023-10-01 https://www.dasoertliche.de
-de##[src^="https://web-ads.10sq.net/"]
-||web-ads.10sq.net/$subdocument
+! 2024-07-15 Tracking von google-embeddings:
+||google.com/maps/embed$subdocument
 
 ! 2023-03-04 Online-Zeitungs-Banner
 ||cmp.*.de/index.html$subdocument
@@ -54,6 +53,10 @@ de##[src^="https://web-ads.10sq.net/"]
 de##div[class^="CoBrandHeaderstyled__CoBrandHeader-sc-"]
 de##.licntj.CoBrandHeaderstyled__CoBrandHeader-sc-1fin6qg-0
 de##.jrykTA.CoBrandHeaderstyled__CoBrandHeader-sc-1o6jk9k-0
+
+! 2023-10-01 https://www.dasoertliche.de
+de##[src^="https://web-ads.10sq.net/"]
+||web-ads.10sq.net/$subdocument
 
 ! 2023-11-10 https://www.chip.de
 chip.de###newsletter-subscription-popup
