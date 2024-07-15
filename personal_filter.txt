@@ -49,6 +49,7 @@ de##[src^="https://web-ads.10sq.net/"]
 ||web-ads.10sq.net/$subdocument
 
 ! 2023-03-04 Online-Zeitungs-Banner
+||cmp.*.de/index.html$subdocument
 ||cmp-sp.*.de/index.html$subdocument
 de##div[class^="CoBrandHeaderstyled__CoBrandHeader-sc-"]
 de##.licntj.CoBrandHeaderstyled__CoBrandHeader-sc-1fin6qg-0
