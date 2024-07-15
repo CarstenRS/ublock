@@ -245,7 +245,7 @@ wbs.legal##.justify-content-center.g-4.row
 wbs.legal##section[id="topbar"]
 
 ! 2024-07-15 https://www.leipzig-minigolf.de
-||leipzig-minigolf.de/images/hg-*.jpg
+||leipzig-minigolf.de/images/hg-*.jpg$image
 
 ! 2022-11-10 https://www.startpage.com
 startpage.com##.css-1751upu
