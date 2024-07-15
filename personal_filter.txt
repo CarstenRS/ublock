@@ -99,6 +99,14 @@ welt.de##.c-dialog__inactivity.c-dialog__is-white.c-dialog
 
 ! 2022-11-02 https://www.spiegel.de
 spiegel.de##.justify-between.inline-flex
+spiegel.de##body:style(overflow: auto !important;)
+||sp-spiegel-de.spiegel.de/index.html
+
+! 2022-11-03 https://www.computerbild.de
+computerbild.de###teaser-frame
+computerbild.de##.galleryTeaser
+computerbild.de##.md\:mx-teaser
+computerbild.de##.ecommerceButton
 
 ! 2024-04-20 https://www.l-iz.de
 l-iz.de##.code-block
@@ -157,12 +165,6 @@ komoot.de##div.css-oj67du:nth-of-type(1)
 
 ! 2022-10-12 https://www.apotix.de
 apotix.de##.show.modal-cookie-slim.fade.modal-boxes
-
-! 2022-11-03 https://www.computerbild.de
-computerbild.de###teaser-frame
-computerbild.de##.galleryTeaser
-computerbild.de##.md\:mx-teaser
-computerbild.de##.ecommerceButton
 
 ! 2022-11-11 https://www.conrad.de
 conrad.de##.cmsColumn__default.cmsColumn__layout2-75-25.cmsColumn__wrapper > .cmsColumn__item--2.cmsColumn__item
