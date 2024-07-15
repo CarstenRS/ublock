@@ -139,6 +139,12 @@ amazon.de##.nav-signin-tt
 ||nydus.org/stream/embedplayer_hq.php?id=prosieben$subdocument
 nydus.org###ab
 
+! 15.07.2024 https://techdocs.akamai.com
+akamai.com###maintenance-modal
+
+! 15.07.2024 https://www.haufe.de
+haufe.de##.product-box
+
 ! 2023-11-03 https://ipinfo.io
 ipinfo.io##.xl\:-ml-32.lg\:mb-40.mb-24
 
