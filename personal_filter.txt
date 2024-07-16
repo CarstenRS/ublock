@@ -145,8 +145,8 @@ akamai.com###maintenance-modal
 ! 15.07.2024 https://www.haufe.de
 haufe.de##.product-box
 
-! 16.07.2024 https://hallespektrum.de
-hallespektrum.de##.widget_codewidget
+! 16.07.2024 https://hallespektrum.de or https://dubisthalle.de
+hallespektrum.de,dubisthalle.de##h3:has-text("Werbung")
 
 ! 2023-11-03 https://ipinfo.io
 ipinfo.io##.xl\:-ml-32.lg\:mb-40.mb-24
