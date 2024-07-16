@@ -63,6 +63,9 @@ de##.jrykTA.CoBrandHeaderstyled__CoBrandHeader-sc-1o6jk9k-0
 ||privacy.promobil.de/index.html$subdocument
 promobil.de##body:style(overflow: auto !important;)
 
+! 16.07.2024 https://www.carwow.de
+||consent.carwow.de/index.html$subdocument
+
 ! 2023-11-10 https://www.chip.de
 chip.de###newsletter-subscription-popup
 chip.de##.AffiliateLabel--Chip
