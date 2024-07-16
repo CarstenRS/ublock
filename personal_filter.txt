@@ -118,6 +118,9 @@ computerbild.de##.galleryTeaser
 computerbild.de##.md\:mx-teaser
 computerbild.de##.ecommerceButton
 
+! 16.07.2024 https://www.bild.de
+bild.de##.offer-module
+
 ! 2024-04-20 https://www.l-iz.de
 l-iz.de##.code-block
 l-iz.de##.wp-video
