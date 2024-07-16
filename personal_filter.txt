@@ -80,7 +80,7 @@ chip.de##.is-shopping
 ||videoplayer.chip.de/p/player/latest/index.html$subdocument
 ||chip.*.com/assets/*-Chip-Banner-*.jpg$image
 
-! 12.07.2024 https://www.flaschenpost.de
+! 2024-07-12 https://www.flaschenpost.de
 flaschenpost.de##div[data-v-070f22c1=""]
 flaschenpost.de##p[data-v-c9ebd152=""]
 flaschenpost.de##button[data-testid="bpytcH0GkAtjmZakRMjs"]
@@ -113,7 +113,7 @@ zeit.de##.gate--paid.gate
 welt.de##.c-inactivity-hint
 welt.de##.c-dialog__inactivity.c-dialog__is-white.c-dialog
 
-! 07.07.2024 https://www.netzwelt.de
+! 2024-07-07 https://www.netzwelt.de
 netzwelt.de###header
 
 ! 2022-11-02 https://www.spiegel.de
@@ -122,7 +122,7 @@ spiegel.de##body:style(overflow: auto !important;)
 spiegel.de##div[data-area="paywall"]
 ||sp-spiegel-de.spiegel.de/index.html
 
-! 15.07.2024 https://www.focus.de
+! 2024-07-15 https://www.focus.de
 focus.de##article[id^="teaser-"]
 
 ! 2022-11-03 https://www.computerbild.de
@@ -131,17 +131,17 @@ computerbild.de##.galleryTeaser
 computerbild.de##.md\:mx-teaser
 computerbild.de##.ecommerceButton
 
-! 16.07.2024 https://www.bild.de
+! 2024-07-16 https://www.bild.de
 bild.de##.offer-module
 
 ! 2024-04-20 https://www.l-iz.de
 l-iz.de##.code-block
 l-iz.de##.wp-video
 
-! 16.07.2024 https://hallespektrum.de or https://dubisthalle.de
+! 2024-07-16 https://hallespektrum.de or https://dubisthalle.de
 hallespektrum.de,dubisthalle.de##h3:has-text("Werbung")
 
-! 08.07.2024 https://www.fielmann.de
+! 2024-07-08 https://www.fielmann.de
 fielmann.de##div[id^="banner-"]
 fielmann.de##body:style(overflow: auto !important;)
 ||storyblok.com/*/instagram.svg$image
@@ -158,13 +158,13 @@ amazon.de##.nav-signin-tt
 ||nydus.org/stream/embedplayer_hq.php?id=prosieben$subdocument
 nydus.org###ab
 
-! 15.07.2024 https://techdocs.akamai.com
+! 2024-07-15 https://techdocs.akamai.com
 akamai.com###maintenance-modal
 
-! 15.07.2024 https://www.haufe.de
+! 2024-07-15 https://www.haufe.de
 haufe.de##.product-box
 
-! 16.07.2024 https://qualitaet-ist-mehrwert.de
+! 2024-07-16 https://qualitaet-ist-mehrwert.de
 qualitaet-ist-mehrwert.de##.elementor-sticky--active
 
 ! 2023-11-03 https://ipinfo.io
@@ -323,11 +323,11 @@ mail.google.com##.aoR
 ||accounts.google.com/gsi/iframe/select?*&origin=*twitter.com*$subdocument
 ||gstatic.com/youtube/img/promos/growth/*$image
 
-! 12.07.2024 https://www.mozilla.org
+! 2024-07-12 https://www.mozilla.org
 mozilla.org##.wnp-footer-donate
 mozilla.org##.footer-donate
 
-! 12.07.2024 https://www.instagram.com
+! 2024-07-12 https://www.instagram.com
 instagram.com##.x3hkoc4
 
 ! 2022-11-28 https://www.youtube.com
@@ -354,7 +354,7 @@ uni-leipzig.de##a[data-footer^="Senatssitzung"]
 intranet.uni-leipzig.de###footer
 www.uni-leipzig.de###footer
 
-! 06.06.2024 https://www.uni-greifswald.de
+! 2024-06-06 https://www.uni-greifswald.de
 uni-greifswald.de##.footer-column--light.footer-column
 uni-greifswald.de##.footer-column--dark.footer-column > .footer__content-wrapper
 
@@ -364,13 +364,13 @@ mein.konsum-leipzig.de##div[style^="background-image"]
 mein.konsum-leipzig.de##.__panel
 mein.konsum-leipzig.de##.max-w-screen
 
-! 16.06.2024 https://regio-guide.de
+! 2024-06-16 https://regio-guide.de
 regio-guide.de##.consent-layer-detail__links
 
 ! 2023-06-22 https://www.privateinternetaccess.com
 privateinternetaccess.com###chat-widget-iframe
 
-! 29.05.2024 https://cim.allianz.de
+! 2024-05-19 https://cim.allianz.de
 cim.allianz.de##app-header
 cim.allianz.de##app-footer
 allianz.de###user-assistance-contact-button
@@ -404,7 +404,7 @@ familienportal.de##.bmfsfj-logo.icon > use
 ! 2024-04-15 https://oeffentlicher-dienst.info
 ||oeffentlicher-dienst.info/_pic/*.gif$image
 
-! 19.06.2024 https://accounts.misterspex.de
+! 2024-06-19 https://accounts.misterspex.de
 ||media.misterspex.com/image/upload/*/Login/login_*_person.png$image
 
 ! 2022-03-18 https://www.bund.de
