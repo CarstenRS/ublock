@@ -189,6 +189,7 @@ duolingo.com##._1T_BQ._2cnFr._16rRh
 duolingo.com##._1bT62._2AIq8.QIFJN
 duolingo.com##.wm1bO.SQR8J
 duolingo.com##._1T8FO
+duolingo.com##div[id="overlays"]
 
 ! 2023-10-05 https://www.netzclub.net
 netzclub.net##h1
