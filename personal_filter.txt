@@ -72,6 +72,10 @@ de##.jrykTA.CoBrandHeaderstyled__CoBrandHeader-sc-1o6jk9k-0
 promobil.de##body:style(overflow: auto !important;)
 promobil.de##.commercial
 
+! 17.07.2024 https://regio-guide.de
+regio-guide.de##.content-ltr.sub-modal-view__content
+regio-guide.de##button[aria-label="Alle Analyse-Techniken akzeptieren"]
+
 ! 2023-11-10 https://www.chip.de
 chip.de###newsletter-subscription-popup
 chip.de##.AffiliateLabel--Chip
