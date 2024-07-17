@@ -61,6 +61,9 @@ gmx.net,web.de##.appbanner
 ||gmx.net/uim/container/generic_adition_*.html$subdocument
 ||gmx.net/*/nonfriendlyiframe.html$subdocument
 ||gmx.net/permission/*/core.html$subdocument
+||web.de/uim/container/generic_adition_*.html$subdocument
+||web.de/*/nonfriendlyiframe.html$subdocument
+||web.de/permission/*/core.html$subdocument
 
 ! 2023-03-04 Online-Zeitungs-Banner
 ||cmp.*.de/index.html$subdocument
