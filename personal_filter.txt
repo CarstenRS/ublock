@@ -42,7 +42,6 @@ img.ui-portal.de##figure
 com##.modal-886ab
 
 ! 2024-07-16 cookie-Banner von deutschen Seiten:
-regio-guide.de##.consent-layer-modal-navigation
 fahrschule-dovermann.de##div[consent-skip-blocker="1"]
 continental-reifen.de##.cmpwrapper
 ||consent.carwow.de/index.html$subdocument
