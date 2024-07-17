@@ -59,8 +59,8 @@ gmx.net,web.de##div[data-url^="http"]
 gmx.net,web.de##.dialog-app__blocker
 gmx.net,web.de##.appbanner
 ||gmx.net/uim/container/generic_adition_*.html$subdocument
-||gmx.net/uim/connector/live/v2/nonfriendlyiframe.html$subdocument
-||gmx.net/permission/live/portal/v1/ppp/core.html$subdocument
+||gmx.net/*/nonfriendlyiframe.html$subdocument
+||gmx.net/permission/*/ppp/core.html$subdocument
 
 ! 2023-03-04 Online-Zeitungs-Banner
 ||cmp.*.de/index.html$subdocument
