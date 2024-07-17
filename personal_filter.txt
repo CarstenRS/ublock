@@ -42,6 +42,7 @@ img.ui-portal.de##figure
 com##.modal-886ab
 
 ! 2024-07-16 cookie-Banner von deutschen Seiten:
+regio-guide.de##.consent-layer-modal
 fahrschule-dovermann.de##div[consent-skip-blocker="1"]
 continental-reifen.de##.cmpwrapper
 ||consent.carwow.de/index.html$subdocument
@@ -363,9 +364,6 @@ uni-greifswald.de##.footer-column--dark.footer-column > .footer__content-wrapper
 mein.konsum-leipzig.de##div[style^="background-image"]
 mein.konsum-leipzig.de##.__panel
 mein.konsum-leipzig.de##.max-w-screen
-
-! 2024-06-16 https://regio-guide.de
-regio-guide.de##.consent-layer-detail__links
 
 ! 2023-06-22 https://www.privateinternetaccess.com
 privateinternetaccess.com###chat-widget-iframe
