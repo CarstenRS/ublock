@@ -68,6 +68,7 @@ gmx.net,web.de##.appbanner
 ! 2023-03-04 Online-Zeitungs-Banner
 ||cmp.*.de/index.html$subdocument
 ||cmp-sp.*.de/index.html$subdocument
+de##span[data-testid="paid-icon"]
 de##div[class^="CoBrandHeaderstyled__CoBrandHeader-sc-"]
 de##.licntj.CoBrandHeaderstyled__CoBrandHeader-sc-1fin6qg-0
 de##.jrykTA.CoBrandHeaderstyled__CoBrandHeader-sc-1o6jk9k-0
