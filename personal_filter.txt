@@ -104,6 +104,9 @@ correctiv.org##.corre-popup-faktencheck
 de##[src^="https://web-ads.10sq.net/"]
 ||web-ads.10sq.net/*$subdocument
 
+! 2024-07-19 https://www.mdr.de
+mdr.de##.sharing-menu-article
+
 ! 2022-11-03 https://www.faz.net
 faz.net##.ctn-PaywallInfo.js-ctn-PaywallInfo
 faz.net##.ctn-PaywallTeasers.js-ctn-PaywallTeasers
