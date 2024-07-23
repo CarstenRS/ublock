@@ -163,9 +163,13 @@ fielmann.de##body:style(overflow: auto !important;)
 ||storyblok.com/*/pinterest.svg$image
 ||storyblok.com/*/welcome.*$image
 
+
+
 ! 2024-02-18 https://www.amazon.de
 amazon.de###primeDPUpsellContainer
 amazon.de##.nav-signin-tt
+amazon.de##.sw-atc-single-container.sw-card-container.a-span6.a-column
+amazon.de##.prime-popover-link
 
 ! 2022-09-29 https://nydus.org
 ||nydus.org/stream/embedplayer_hq.php?id=prosieben$subdocument
@@ -262,6 +266,9 @@ wbs.legal##section[id="topbar"]
 prosieben.de##.css-c01g7a
 prosieben.de##.css-1a0i1jj
 prosieben.de##.cleverpush-p7-confirm
+
+! 22.07.2024 https://en.wikipedia.org
+wikipedia.org##.vector-column-end
 
 ! 2022-11-10 https://www.startpage.com
 startpage.com##.css-1751upu
