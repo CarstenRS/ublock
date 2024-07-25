@@ -307,12 +307,9 @@ edapark-hamburg.com##.divibars
 tuttimedoc.com##.OQ8Tzd
 
 ! 2023-08-29 https://open.spotify.com
-open.spotify.com##.GenericModal--animated.GenericModal > div > iframe
 open.spotify.com##div[data-testid="popover"]
-open.spotify.com##.dz_h98rH9nZCwfPdnKgr
-open.spotify.com##.Popover__StyledPopover-sc-1iog353-0
-open.spotify.com##.encore-over-media-set.kVKSMm.ButtonInner-sc-14ud5tc-0
-open.spotify.com##.Upqw01TOXETOmR5Td7Dj.encore-inverted-light-set.gQWWCO.ButtonInner-sc-14ud5tc-0
+open.spotify.com##button[data-testid="upgrade-button"]
+open.spotify.com##a[href="/download"]
 open.spotify.com##.sponsor-container
 
 ! 2023-11-07 facebook-pings:
