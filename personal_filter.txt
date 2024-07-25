@@ -151,8 +151,8 @@ bild.de##.offer-module
 l-iz.de##.code-block
 l-iz.de##.wp-video
 
-! 2024-07-16 https://hallespektrum.de or https://dubisthalle.de
-hallespektrum.de,dubisthalle.de##h3:has-text("Werbung")
+! 2024-07-16 https://hallespektrum.de or https://dubisthalle.de or googlewatchblog.de
+hallespektrum.de,dubisthalle.de,googlewatchblog.de##h3,h4:has-text("Werbung")
 
 ! 2024-07-08 https://www.fielmann.de
 fielmann.de##div[id^="banner-"]
