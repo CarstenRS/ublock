@@ -262,6 +262,9 @@ wbs.legal##.block-inner > .g-0.row > div.col-md-6.col-12
 wbs.legal##.justify-content-center.g-4.row
 wbs.legal##section[id="topbar"]
 
+! 25.07.2024 https://www.finanztip.de
+finanztip.de##.twingle-floating-element
+
 ! 2023-11-10 https://www.prosieben.de
 prosieben.de##.css-c01g7a
 prosieben.de##.css-1a0i1jj
