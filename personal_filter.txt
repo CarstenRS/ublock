@@ -350,6 +350,7 @@ instagram.com##.x3hkoc4
 
 ! 2022-11-28 https://www.youtube.com
 youtube.com##a[title="YouTube Premium"]
+youtube.com##tp-yt-paper-dialog[class="style-scope ytd-popup-container"]
 youtube.com##ytd-feed-nudge-renderer.ytd-item-section-renderer.style-scope
 youtube.com##.yt-spec-button-view-model.interstitial-view-model-wiz__flex-item
 youtube.com###primary-button.ytd-feed-nudge-renderer
