@@ -370,6 +370,7 @@ youtube.com###flexible-item-buttons
 youtube.com###middle-row.ytd-watch-metadata
 youtube.com###content.ytd-info-panel-container-renderer
 youtube.com##ytd-guide-signin-promo-renderer
+youtube.com##ytd-live-chat-frame[collapsed=""]
 m.youtube.com##.feed-nudge-wrapper
 
 ! 2024-04-19 www.uni-leipzig.de
