@@ -317,6 +317,7 @@ open.spotify.com##div[data-testid="popover"]
 open.spotify.com##button[data-testid="upgrade-button"]
 open.spotify.com##a[href="/download"]
 open.spotify.com##.sponsor-container
+open.spotify.com##div[style$="transition-duration: 300ms;"]
 
 ! 2023-11-07 facebook-pings:
 ||edge-star-shv-*-*.facebook.com^
