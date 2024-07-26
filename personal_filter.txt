@@ -143,6 +143,7 @@ computerbild.de###teaser-frame
 computerbild.de##.galleryTeaser
 computerbild.de##.md\:mx-teaser
 computerbild.de##.ecommerceButton
+computerbild.de##.gaiaWrapper
 
 ! 2024-07-16 https://www.bild.de
 bild.de##.offer-module
