@@ -97,6 +97,10 @@ flaschenpost.de##button[data-testid="bpytcH0GkAtjmZakRMjs"]
 flaschenpost.de##button[data-testid="I_A3EMPKXYqH7uNqXVM73"]
 ||trws.flaschenpost.de^
 
+! 28.07.2024 https://off-campers.com
+off-campers.com##.pb-5.pt-3.whitespace-pre-line
+off-campers.com##button[form="cookie-consent-form"][value="acceptAll"]
+
 ! 2023-11-17 https://correctiv.org
 correctiv.org##.corre-popup-faktencheck
 
