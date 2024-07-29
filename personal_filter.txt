@@ -328,6 +328,10 @@ open.spotify.com##.sponsor-container
 open.spotify.com##div[style$="transition-duration: 300ms;"]
 
 ! 2023-11-07 facebook-pings:
+com##button[data-test^="login"][data-test$="facebook"]
+com##button[data-test$="login"][data-test^="facebook"]
+com##button[data-testid^="login"][data-testid$="facebook"]
+com##button[data-testid$="login"][data-testid^="facebook"]
 ||edge-star-shv-*-*.facebook.com^
 ||edge-star-mini-shv-*-*.facebook.com^
 ||graph.facebook.com^
