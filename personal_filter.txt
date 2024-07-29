@@ -410,6 +410,9 @@ mein.konsum-leipzig.de##.max-w-screen
 ! 2023-06-22 https://www.privateinternetaccess.com
 privateinternetaccess.com###chat-widget-iframe
 
+! 29.07.2024 https://de.quora.com
+||quoracdn.net/*_frontend_assets.images.home_page_bg_desktop.*.png$image
+
 ! 2024-05-19 https://cim.allianz.de
 cim.allianz.de##app-header
 cim.allianz.de##app-footer
