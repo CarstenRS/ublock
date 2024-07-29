@@ -408,6 +408,8 @@ cim.allianz.de##app-footer
 allianz.de###user-assistance-contact-button
 
 ! 2024-04-25 https://www.robinsonliste.de
+app.robinsonliste.de##div[class="donation-tier"]
+app.robinsonliste.de##div[class="d-flex justify-center mt-5"]
 ||robinsonliste.de/img/mood*.jpg$image
 ||robinsonliste.de/wp-content/uploads/*.jpg$image
 
