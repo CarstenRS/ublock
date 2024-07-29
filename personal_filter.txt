@@ -332,6 +332,7 @@ com##button[data-test^="login"][data-test$="facebook"]
 com##button[data-test$="login"][data-test^="facebook"]
 com##button[data-testid^="login"][data-testid$="facebook"]
 com##button[data-testid$="login"][data-testid^="facebook"]
+de##button[aria-label^="Einloggen"][aria-label$="facebook"]
 ||edge-star-shv-*-*.facebook.com^
 ||edge-star-mini-shv-*-*.facebook.com^
 ||graph.facebook.com^
