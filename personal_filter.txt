@@ -91,6 +91,7 @@ chip.de##.is-shopping
 ||chip.*.com/assets/*-Chip-Banner-*.jpg$image
 
 ! 2024-07-12 https://www.flaschenpost.de
+flaschenpost.de##.fp_modal
 flaschenpost.de##div[data-v-070f22c1=""]
 flaschenpost.de##p[data-v-c9ebd152=""]
 flaschenpost.de##button[data-testid="bpytcH0GkAtjmZakRMjs"]
