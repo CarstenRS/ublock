@@ -328,14 +328,15 @@ open.spotify.com##.sponsor-container
 open.spotify.com##div[style$="transition-duration: 300ms;"]
 
 ! 2023-11-07 facebook-pings:
-com##button[data-test^="login"][data-test$="facebook"]
-com##button[data-test$="login"][data-test^="facebook"]
-com##button[data-testid^="login"][data-testid$="facebook"]
-com##button[data-testid$="login"][data-testid^="facebook"]
-com##div[class$="login_button_facebook"]
-com##a[href^="/webmaster/login/authorizefacebook"]
-com##a[href^="/connect/facebook"]
-de##button[aria-label^="Einloggen"][aria-label$="facebook"]
+##button[data-test^="login"][data-test$="facebook"]
+##button[data-test$="login"][data-test^="facebook"]
+##button[data-testid^="login"][data-testid$="facebook"]
+##button[data-testid$="login"][data-testid^="facebook"]
+##div[class$="login_button_facebook"]
+##div[aria-label^="Weiter"][aria-label$="Facebook"]
+##a[href^="/webmaster/login/authorizefacebook"]
+##a[href^="/connect/facebook"]
+##button[aria-label^="Einloggen"][aria-label$="facebook"]
 ||edge-star-shv-*-*.facebook.com^
 ||edge-star-mini-shv-*-*.facebook.com^
 ||graph.facebook.com^
