@@ -362,7 +362,6 @@ faq.whatsapp.com###header-notices
 www.google.com##.ssOUyb
 www.google.com##.uU7dJb
 www.google.com##.XDyW0e
-calendar.google.com##.QQYuzf
 mail.google.com##.aoR
 ||google.com/maps/embed$subdocument
 ||accounts.google.com/gsi/iframe/select?*&origin=*twitter.com*$subdocument
