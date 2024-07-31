@@ -9,6 +9,7 @@
 !fahrschule-dovermann.de#@#div[consent-skip-blocker="1"]
 
 ! 2023-10-25 iframe-ad-domains:
+||com-erneuerung.com^
 ||b2bedgesolutions.co^
 ||b2bcommerciale.co^
 ||mercalar.com.br^
