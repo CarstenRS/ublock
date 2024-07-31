@@ -417,6 +417,9 @@ mein.konsum-leipzig.de##.max-w-screen
 ! 2023-06-22 https://www.privateinternetaccess.com
 privateinternetaccess.com###chat-widget-iframe
 
+! 01.08.2024 https://www.festung-koenigstein.de
+festung-koenigstein.de###prefooter > .inside
+
 ! 29.07.2024 https://de.quora.com
 ||quoracdn.net/*_frontend_assets.images.home_page_bg_desktop.*.png$image
 
