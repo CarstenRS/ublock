@@ -232,6 +232,8 @@ juracademy.de##.col-md-5.sidebar
 www.ddv.de###banner-hide
 
 ! 2023-10-27 https://www.duolingo.com
+duolingo.com##button[data-test="plus-continue"]
+duolingo.com##.ZTjh6._2tNGm
 duolingo.com##._20Ytt._3ug7_.Ekspr
 duolingo.com##._1T_BQ._2cnFr._16rRh
 duolingo.com##._1bT62._2AIq8.QIFJN
