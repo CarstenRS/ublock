@@ -372,7 +372,6 @@ www.google.com##.XDyW0e
 mail.google.com##.aoR
 ||google.com/maps/embed$subdocument
 ||accounts.google.com/gsi/iframe/select?*&origin=*twitter.com*$subdocument
-||gstatic.com/youtube/img/promos/growth/*$image
 
 ! 2024-07-12 https://www.mozilla.org
 mozilla.org##.wnp-footer-donate
@@ -383,9 +382,8 @@ instagram.com##.x3hkoc4
 
 ! 2022-11-28 https://www.youtube.com
 youtube.com##a[title="YouTube Premium"]
-youtube.com##tp-yt-paper-dialog[class="style-scope ytd-popup-container"]
+youtube.com##button-view-model[class="yt-spec-button-view-model"]
 youtube.com##ytd-feed-nudge-renderer.ytd-item-section-renderer.style-scope
-youtube.com##.yt-spec-button-view-model.interstitial-view-model-wiz__flex-item
 youtube.com###primary-button.ytd-feed-nudge-renderer
 youtube.com###sponsor-button
 youtube.com###donation-shelf
@@ -399,6 +397,7 @@ youtube.com###country-code
 youtube.com##ytd-guide-signin-promo-renderer
 youtube.com##ytd-live-chat-frame[collapsed=""]
 m.youtube.com##.feed-nudge-wrapper
+||gstatic.com/youtube/img/promos/growth/*$image
 
 ! 2024-04-19 www.uni-leipzig.de
 stura.uni-leipzig.de##.hero
