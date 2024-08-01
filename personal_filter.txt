@@ -114,6 +114,7 @@ de##[src^="https://web-ads.10sq.net/"]
 
 ! 2024-07-19 https://www.mdr.de
 mdr.de##.sharing-menu-article
+mdr.de##.Iframe
 
 ! 2022-11-03 https://www.faz.net
 faz.net##.ctn-PaywallInfo.js-ctn-PaywallInfo
