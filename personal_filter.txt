@@ -329,6 +329,9 @@ edapark-hamburg.com##.divibars
 ! 2024-08-01 https://www.quora.com
 quora.com##div[class="q-box qu-zIndex--inline_overlay"]
 
+! 02.08.2024 https://weather.com
+weather.com##aside[aria-label="Sidebar"]
+
 ! 2024-05-17 https://www.tuttimedoc.com
 tuttimedoc.com##.OQ8Tzd
 
