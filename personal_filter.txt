@@ -317,6 +317,7 @@ s-b-h.de###vinegar-bottle
 
 ! 2023-12-12 https://web.skype.com
 skype.com##.r-nuir7j.css-1dbjc4n
+live.com###GoPremiumButton_container
 
 ! 2023-12-12 https://web.telegram.org
 web.telegram.org##.RF4n_8QOkb5FMXcpbmBW.ListItem-button
