@@ -357,8 +357,7 @@ open.spotify.com##div[style$="transition-duration: 300ms;"]
 ||graph.facebook.com^
 
 ! 2023-09-04 https://web.whatsapp.com
-web.whatsapp.com##header
-web.whatsapp.com#@#header[class^="_amid"]
+web.whatsapp.com##header:not(._amid)
 web.whatsapp.com##button[aria-label^="Archiviert"]
 web.whatsapp.com##div[class^="x1ky8ojb"]
 web.whatsapp.com##div[class^="x1c4vz4f xs83m0k xdl72j9 x1g77sc7 x78zum5 xozqiw3 x1oa3qoh x12fk4p8 xeuugli x2lwn1j x1qughib"]
