@@ -357,15 +357,12 @@ open.spotify.com##div[style$="transition-duration: 300ms;"]
 ||graph.facebook.com^
 
 ! 2023-09-04 https://web.whatsapp.com
-web.whatsapp.com##.x1ky8ojb
-web.whatsapp.com##._1135V
-web.whatsapp.com##._2O4d9
-web.whatsapp.com##._199zF
-web.whatsapp.com##.ercejckq.g0rxnol2
-web.whatsapp.com##.xfo81ep.x1n2onr6
-web.whatsapp.com##.o4u7okr9.i2cterl7.gjuq5ydh.dnb887gk.p357zi0d.nu7pwgvd.ktfrpxia.j7l1k36l.lb5m6g5c.m0h2a7mj.tvf2evcx
-web.whatsapp.com##.x1qughib.x2lwn1j.xeuugli.x12fk4p8.x1oa3qoh.xozqiw3.x78zum5.x1g77sc7.xdl72j9.xs83m0k.x1c4vz4f
-web.whatsapp.com###pane-side > .x2lah0s
+web.whatsapp.com##header
+web.whatsapp.com#@#header[class^="_amid"]
+web.whatsapp.com##button[aria-label^="Archiviert"]
+web.whatsapp.com##div[class^="x1ky8ojb"]
+web.whatsapp.com##div[class^="x1c4vz4f xs83m0k xdl72j9 x1g77sc7 x78zum5 xozqiw3 x1oa3qoh x12fk4p8 xeuugli x2lwn1j x1qughib"]
+||static.whatsapp.net/rsrc.php/v3/*.png$image
 
 ! 2023-12-31 https://faq.whatsapp.com
 faq.whatsapp.com###header-notices
