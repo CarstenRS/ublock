@@ -79,6 +79,14 @@ de##.jrykTA.CoBrandHeaderstyled__CoBrandHeader-sc-1o6jk9k-0
 promobil.de##body:style(overflow: auto !important;)
 promobil.de##.commercial
 
+! 2024-08-18 https://www.polarsteps.com
+polarsteps.com##div[class^="get-the-app-banner-module"]
+
+! 2024-08-19 https://www.immobilienscout24.de
+immobilienscout24.de##div[class$="premium-stats-not-entitled"]
+immobilienscout24.de##h4[data-qa^="is24qa-services-"],div[data-is24-feature]
+immobilienscout24.de##div[class^="criteriagroup margin-top-l"]
+
 ! 17.07.2024 https://regio-guide.de
 regio-guide.de##.content-ltr.sub-modal-view__content
 regio-guide.de##button[aria-label="Alle Analyse-Techniken akzeptieren"]
