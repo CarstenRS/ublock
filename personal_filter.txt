@@ -87,7 +87,14 @@ immobilienscout24.de##div[class$="premium-stats-not-entitled"]
 immobilienscout24.de##h4[data-qa^="is24qa-services-"],div[data-is24-feature]
 immobilienscout24.de##div[class^="criteriagroup margin-top-l"]
 
-! 17.07.2024 https://regio-guide.de
+! 2024-08-20 https://www.thunderbird.net
+thunderbird.net##a[class^="donate-banner"]
+
+! 2024-08-20 https://kommunal.de
+kommunal.de###popup-circle-block
+
+
+! 2024-07-17 https://regio-guide.de
 regio-guide.de##.content-ltr.sub-modal-view__content
 regio-guide.de##button[aria-label="Alle Analyse-Techniken akzeptieren"]
 
