@@ -160,6 +160,7 @@ netzwelt.de###header
 spiegel.de##.justify-between.inline-flex
 spiegel.de##body:style(overflow: auto !important;)
 spiegel.de##div[data-area="paywall"]
+spiegel.de##div[x-effect^="if ($store.ThirdpartyConsent.accepted)"]
 ||sp-spiegel-de.spiegel.de/index.html
 
 ! 2024-07-15 https://www.focus.de
@@ -239,6 +240,7 @@ x.com##.css-1dbjc4n
 x.com##html:style(overflow: auto !important;)
 x.com###btlw-\{c0ab436e-cfa6-453f-ac48-df20bcce2c07\}
 x.com##a[data-testid="premium-signup-tab"]
+x.com##div[data-testid="BottomBar"]
 
 ! 2023-05-04 https://www.bundesnetzagentur.de
 bundesnetzagentur.de##.fixed-position.dapadding.fwo
