@@ -149,6 +149,9 @@ zeit.de##.gate--paid.gate
 ! 2022-11-11 https://www.welt.de
 welt.de##.c-inactivity-hint
 welt.de##.c-dialog__inactivity.c-dialog__is-white.c-dialog
+welt.de##[class$="is-commercial"]
+welt.de##.c-skeleton--oembed
+welt.de##.c-oembed--error
 
 ! 2024-07-07 https://www.netzwelt.de
 netzwelt.de###header
@@ -227,11 +230,15 @@ apotix.de##.show.modal-cookie-slim.fade.modal-boxes
 ! 2022-11-11 https://www.conrad.de
 conrad.de##.cmsColumn__default.cmsColumn__layout2-75-25.cmsColumn__wrapper > .cmsColumn__item--2.cmsColumn__item
 
+! 2024-07-12 https://www.instagram.com
+instagram.com##.x3hkoc4
+
 ! 2021-09-14 https://x.com
 x.com##circle
 x.com##.css-1dbjc4n
 x.com##html:style(overflow: auto !important;)
 x.com###btlw-\{c0ab436e-cfa6-453f-ac48-df20bcce2c07\}
+x.com##a[data-testid="premium-signup-tab"]
 
 ! 2023-05-04 https://www.bundesnetzagentur.de
 bundesnetzagentur.de##.fixed-position.dapadding.fwo
@@ -393,8 +400,11 @@ mail.google.com##.aoR
 mozilla.org##.wnp-footer-donate
 mozilla.org##.footer-donate
 
-! 2024-07-12 https://www.instagram.com
-instagram.com##.x3hkoc4
+! 20.08.2024 https://blog.thunderbird.net
+thunderbird.net##a[title="Donate"]
+
+! 21.08.2024 https://www.paypal.com
+paypal.com###sticky-qr-badge
 
 ! 2022-11-28 https://www.youtube.com
 youtube.com##a[title="YouTube Premium"]
@@ -474,6 +484,7 @@ meine.santander.de##.GlobalPositionBanner__devicesManagement___jH3Vt
 meine.hanseaticbank.de##.tw-no-underline.tw-font-medium.tw-flex
 ||meine.hanseaticbank.de/_nuxt/img/background-landscape*.jpg$image
 ||commerzbank.de/ms/media/generated/*-jpg*$image
+commerzbank.de##p[class^="sublineCard"][class$="--info-text "]
 ||awa7.de/files/content/section*/getestet.jpg$image
 finanzen-zero.net##td:nth-of-type(5)
 finanzen-zero.net##th:nth-of-type(5)
