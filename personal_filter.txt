@@ -85,6 +85,7 @@ polarsteps.com##div[class^="get-the-app-banner-module"]
 ! 2024-08-22 https://www.wohnungsswap.de
 wohnungsswap.de##.cookie-modal-wrapper
 wohnungsswap.de##.image-container
+wohnungsswap.de##.map-container
 
 ! 2024-08-19 https://www.immobilienscout24.de
 immobilienscout24.de##div[class$="premium-stats-not-entitled"]
