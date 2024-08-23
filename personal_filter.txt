@@ -277,6 +277,8 @@ duolingo.com##._1T8FO
 ! 2023-10-05 https://www.netzclub.net
 netzclub.net##h1
 netzclub.net##a[href="/plus"]
+netzclub.net###logout-modal
+netzclub.net##.show.modal-backdrop
 netzclub.net##.p-4.c-glassmorphism-box--blur.c-glassmorphism-box
 netzclub.net##.mt-4.c-glassmorphism-box--blur.c-glassmorphism-box
 netzclub.net##.c-balance-box__wrapper--nplus.c-balance-box__wrapper
