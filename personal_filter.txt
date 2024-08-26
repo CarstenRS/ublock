@@ -357,6 +357,11 @@ live.com###GoPremiumButton_container
 web.telegram.org##.RF4n_8QOkb5FMXcpbmBW.ListItem-button
 web.telegram.org##.info.OS2LWzdu > .subtitle
 
+! 2024-08-26 https://www.stadtradeln.de
+||stadtradeln.de/images/banner-dashboard.gif$image
+stadtradeln.de###ad-banner
+stadtradeln.de##.social-links > .hidden-xs
+
 ! 2024-01-09 https://www.edapark-hamburg.com
 edapark-hamburg.com##.divibars
 
