@@ -354,7 +354,7 @@ skype.com##.r-nuir7j.css-1dbjc4n
 live.com###GoPremiumButton_container
 
 ! 2023-12-12 https://web.telegram.org
-web.telegram.org##div[class="NewChatButton"]
+web.telegram.org##div[class^="NewChatButton"]
 web.telegram.org##.RF4n_8QOkb5FMXcpbmBW.ListItem-button
 web.telegram.org##.info.OS2LWzdu > .subtitle
 
