@@ -498,6 +498,9 @@ app.robinsonliste.de##div[class="d-flex justify-center mt-5"]
 ! 29.07.2024 https://app.element.io
 ||app.element.io/themes/element/img/backgrounds/*.jpg$image
 
+! 2024-08-28 https://antrag.vwfs.de
+vwfs.de##.teaser
+
 ! 2024-03-02 unnötiger Countdown bei Banken
 meine.santander.de##.SBHeaderLogoutSection__timerContainer___mNFfe
 meine.santander.de##.GlobalPositionBanner__devicesManagement___jH3Vt
