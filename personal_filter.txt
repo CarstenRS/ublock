@@ -331,6 +331,7 @@ wikipedia.org##.vector-column-end
 startpage.com##.css-1751upu
 startpage.com##.css-1pducxn
 startpage.com##a[href="https://www.startpage.com/nix-zu-verbergen/"]
+startpage.com##a[aria-label="Hol dir die App"]
 
 ! 2024-04-12 https://www.tk.de
 ||tk.de/resource/image/*/tk-*-startseite-*.jpg$image
@@ -500,6 +501,9 @@ app.robinsonliste.de##div[class="d-flex justify-center mt-5"]
 ! 2024-03-02 unnötiger Countdown bei Banken
 meine.santander.de##.SBHeaderLogoutSection__timerContainer___mNFfe
 meine.santander.de##.GlobalPositionBanner__devicesManagement___jH3Vt
+meine.santander.de##.SBLoadingSpinner__loading___pGRuE > .loader
+||contents.santander.de/content/meinesantander/meinesantander---global/de/banner*.html$subdocument
+||contents.santander.de/content/meinesantander/meinesantander---global/de/*-Offer.html$subdocument
 meine.hanseaticbank.de##.tw-no-underline.tw-font-medium.tw-flex
 ||meine.hanseaticbank.de/_nuxt/img/background-landscape*.jpg$image
 ||commerzbank.de/ms/media/generated/*-jpg*$image
