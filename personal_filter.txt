@@ -362,6 +362,7 @@ web.telegram.org##.info.OS2LWzdu > .subtitle
 
 ! 2024-08-26 https://www.stadtradeln.de
 ||stadtradeln.de/images/banner-dashboard.gif$image
+stadtradeln.de##div[class="footer-partner"]
 stadtradeln.de###ad-banner
 stadtradeln.de##.social-links > .hidden-xs
 
@@ -529,6 +530,9 @@ familienportal.de##.bmfsfj-logo.icon > use
 
 ! 2024-06-19 https://accounts.misterspex.de
 ||media.misterspex.com/image/upload/*/Login/login_*_person.png$image
+
+! 2024-08-28 https://www.buzer.de
+buzer.de##.anzl,.anz_unten
 
 ! 2022-03-18 https://www.bund.de
 bund.de##[src^="/DE/themen/sport/euro2024/"]
