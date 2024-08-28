@@ -91,8 +91,6 @@ wohnungsswap.de##.cookie-modal-wrapper
 wohnungsswap.de##.image-container
 wohnungsswap.de##.map-container
 
-
-
 ! 2024-08-19 https://www.immobilienscout24.de
 immobilienscout24.de##div[class$="premium-stats-not-entitled"]
 immobilienscout24.de##h4[data-qa^="is24qa-services-"],div[data-is24-feature]
@@ -140,6 +138,9 @@ de##[src^="https://web-ads.10sq.net/"]
 ! 2024-07-19 https://www.mdr.de
 mdr.de##.sharing-menu-article
 mdr.de##.Iframe
+
+! 2024-28-28 https://www.lvz.de
+lvz.de##div[class$=" cXybNF"]
 
 ! 2022-11-03 https://www.faz.net
 faz.net##.ctn-PaywallInfo.js-ctn-PaywallInfo
