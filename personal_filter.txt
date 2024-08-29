@@ -503,6 +503,7 @@ app.robinsonliste.de##div[class="d-flex justify-center mt-5"]
 
 ! 2024-08-28 https://antrag.vwfs.de
 vwfs.de##.teaser
+||vwfs.de/UI/img/hero_login_*.jpg$image
 
 ! 2024-03-02 unnötiger Countdown bei Banken
 meine.santander.de##.SBHeaderLogoutSection__timerContainer___mNFfe
