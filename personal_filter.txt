@@ -90,6 +90,8 @@ wohnungsswap.de##.freemium-banner
 wohnungsswap.de##.cookie-modal-wrapper
 wohnungsswap.de##.image-container
 wohnungsswap.de##.map-container
+wohnungsswap.de##.info-modal-container
+wohnungsswap.de##div:remove-class(blur-content)
 
 ! 2024-08-19 https://www.immobilienscout24.de
 immobilienscout24.de##div[class$="premium-stats-not-entitled"]
