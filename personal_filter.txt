@@ -207,6 +207,7 @@ fielmann.de##body:style(overflow: auto !important;)
 
 ! 2024-02-18 https://www.amazon.de
 amazon.de###primeDPUpsellContainer
+amazon.de###a-popover-lgtbox
 amazon.de##.nav-signin-tt
 amazon.de##.sw-atc-single-container.sw-card-container.a-span6.a-column
 amazon.de##.prime-popover-link
