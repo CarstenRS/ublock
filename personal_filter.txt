@@ -9,6 +9,7 @@
 !fahrschule-dovermann.de#@#div[consent-skip-blocker="1"]
 
 ! 2023-10-25 iframe-ad-domains:
+||tipico.de^
 ||com-erneuerung.com^
 ||b2bedgesolutions.co^
 ||b2bcommerciale.co^
@@ -520,6 +521,7 @@ commerzbank.de##p[class^="sublineCard"][class$="--info-text "]
 ||awa7.de/files/content/section*/getestet.jpg$image
 finanzen-zero.net##td:nth-of-type(5)
 finanzen-zero.net##th:nth-of-type(5)
+finanzen-zero.net##instrument-details-push-hint[class="ng-star-inserted"]
 
 ! 2023-02-09 https://familienportal.de
 familienportal.de##.bmfsfj-logo.icon > use
