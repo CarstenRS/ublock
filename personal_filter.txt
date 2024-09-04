@@ -236,6 +236,9 @@ coronafreepass.de##.right-0.bottom-0.fixed
 ! 2024-07-28 https://signin.7pass.de
 ||7pass.de/*/coverwall-avod.jpeg$image
 
+! 2024-09-04 https://www.joyn.de
+joyn.de##us-button
+
 ! 2023-10-25 https://www.komoot.de
 komoot.de##div.css-oj67du:nth-of-type(1)
 
