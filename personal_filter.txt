@@ -370,7 +370,12 @@ web.telegram.org##.RF4n_8QOkb5FMXcpbmBW.ListItem-button
 web.telegram.org##.info.OS2LWzdu > .subtitle
 
 ! 2024-08-26 https://www.stadtradeln.de
+login.stadtradeln.de##.iframe_wrapper
+login.stadtradeln.de##a[href^="https://www.facebook.com/"]
 ||stadtradeln.de/images/banner-dashboard.gif$image
+||stadtradeln.de/*fileadmin/*inhalte/00_Home/SR_Slider_*.jpg$image
+||stadtradeln.de/*fileadmin/*inhalte/00_Home/Headerbild_*.jpg$image
+||stadtradeln.de/*fileadmin/*_SR_Buehne_App_*.jpg$image
 stadtradeln.de##div[class="footer-partner"]
 stadtradeln.de###ad-banner
 stadtradeln.de##.social-links > .hidden-xs
@@ -505,10 +510,6 @@ app.robinsonliste.de##div[class="d-flex justify-center mt-5"]
 
 ! 2024-05-08 https://sec.hpi.de
 ||sec.hpi.de/ilc/img/*.jpg$image
-
-! 06.09.2024 https://login.stadtradeln.de
-login.stadtradeln.de##.iframe_wrapper
-login.stadtradeln.de##a[href^="https://www.facebook.com/"]
 
 ! 29.07.2024 https://app.element.io
 ||app.element.io/themes/element/img/backgrounds/*.jpg$image
