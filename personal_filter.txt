@@ -412,6 +412,8 @@ open.spotify.com##div[style$="transition-duration: 300ms;"]
 ||edge-star-shv-*-*.facebook.com^
 ||edge-star-mini-shv-*-*.facebook.com^
 ||graph.facebook.com^
+facebook.com##.xg6iff7.x1c4vz4f.xl56j7k
+facebook.com##.x1n2onr6.xg6iff7.xippug5
 
 ! 2023-09-04 https://web.whatsapp.com
 web.whatsapp.com##header:not(._amid)
