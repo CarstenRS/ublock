@@ -506,8 +506,15 @@ app.robinsonliste.de##div[class="d-flex justify-center mt-5"]
 ! 2024-05-08 https://sec.hpi.de
 ||sec.hpi.de/ilc/img/*.jpg$image
 
+! 06.09.2024 https://login.stadtradeln.de
+login.stadtradeln.de##.iframe_wrapper
+login.stadtradeln.de##a[href^="https://www.facebook.com/"]
+
 ! 29.07.2024 https://app.element.io
 ||app.element.io/themes/element/img/backgrounds/*.jpg$image
+
+! 07.09.2024 https://rcds.loxonet.com
+||rcds.loxonet.com/images/system/*.jpg$image
 
 ! 2024-08-28 https://antrag.vwfs.de
 vwfs.de##.teaser
