@@ -84,6 +84,9 @@ promobil.de##.commercial
 ! 2024-08-18 https://www.polarsteps.com
 polarsteps.com##div[class^="get-the-app-banner-module"]
 
+! 08.09.2024 https://www.smartzone.de
+smartzone.de##.toast-ad-block-wrapper
+
 ! 2024-08-22 https://www.wohnungsswap.de
 ! 23.08.2024 https://www.wohnungsswap.de
 ||wohnungsswap.de/img/stars-green.*.svg$image
@@ -214,6 +217,8 @@ amazon.de##div[class="a-modal-scroller a-declarative"]
 amazon.de##.nav-signin-tt
 amazon.de##.sw-atc-single-container.sw-card-container.a-span6.a-column
 amazon.de##.prime-popover-link
+amazon.de##div[data-toaster-type="AIS_INGRESS"]
+amazon.com##div[data-toaster-type="AIS_INGRESS"]
 
 ! 2022-09-29 https://nydus.org
 ||nydus.org/stream/embedplayer_hq.php?id=prosieben$subdocument
