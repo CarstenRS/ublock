@@ -202,6 +202,23 @@ l-iz.de##.wp-video
 ! 2024-07-16 https://hallespektrum.de or https://dubisthalle.de or googlewatchblog.de
 hallespektrum.de,dubisthalle.de,googlewatchblog.de##h3,h4:has-text("Werbung")
 
+! 11.09.2024 https://www.pflege.de
+pflege.de##div[class^="voting-popup"]
+
+! 12.09.2024 https://www.evz.de
+evz.de###newsletterModal
+
+! 12.09.2024 https://euflight.de
+euflight.de##.wrapper > .image
+euflight.de##.content-inner > .badge
+
+! 13.09.2024 https://www.merkur.de
+merkur.de##.wv_story_el_pinpoll.id-StoryElement-embed
+
+! 14.09.2024 https://www.techtarget.com
+techtarget.com##.youtube-iframe-container
+techtarget.com###pillar-ribbon
+
 ! 2024-07-08 https://www.fielmann.de
 fielmann.de##div[id^="banner-"]
 fielmann.de##body:style(overflow: auto !important;)
@@ -347,6 +364,7 @@ startpage.com##.css-1751upu
 startpage.com##.css-1pducxn
 startpage.com##a[href="https://www.startpage.com/nix-zu-verbergen/"]
 startpage.com##a[aria-label="Hol dir die App"]
+startpage.com##.wiki-qi-container-see-more > .result > .see-more-container
 
 ! 2024-04-12 https://www.tk.de
 ||tk.de/resource/image/*/tk-*-startseite-*.jpg$image
@@ -448,6 +466,9 @@ thunderbird.net##a[title="Donate"]
 
 ! 21.08.2024 https://www.paypal.com
 paypal.com###sticky-qr-badge
+
+! 2024-09-14 https://www.reddit.com
+reddit.com##alert-controller
 
 ! 2022-11-28 https://www.youtube.com
 youtube.com##a[title="YouTube Premium"]
