@@ -492,6 +492,7 @@ youtube.com##ytd-live-chat-frame[collapsed=""]
 !youtube.com##ytd-browse[page-subtype="home"] ytd-rich-section-renderer
 youtube.com##ytd-mini-guide-entry-renderer[aria-label="Shorts"]
 youtube.com##ytd-rich-shelf-renderer[is-shorts=""]
+youtube.com##button[aria-label^="Benachrichtigung "]
 m.youtube.com##.feed-nudge-wrapper
 ||gstatic.com/youtube/img/promos/growth/*$image
 
