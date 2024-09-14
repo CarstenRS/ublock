@@ -36,6 +36,7 @@ com##.op5t
 img.ui-portal.de##div > .inverted
 img.ui-portal.de##figure
 de## div > div:has-text("Es konnte keine Verbindung zum reCAPTCHA-Dienst hergestellt werden. Überprüfe deine Internetverbindung und aktualisiere die Seite, um eine reCAPTCHA-Aufgabe zu erhalten.")
+de##body > div > div:has-text("Es konnte keine Verbindung zum reCAPTCHA-Dienst hergestellt werden. Überprüfe deine Internetverbindung und aktualisiere die Seite, um eine reCAPTCHA-Aufgabe zu erhalten.")
 
 ! 2023-10-56 Cookie-Pop-Up + riesge Banner:
 ##div[class^="wmde-banner-"]
@@ -487,8 +488,10 @@ youtube.com###content.ytd-info-panel-container-renderer
 youtube.com###country-code
 youtube.com##ytd-guide-signin-promo-renderer
 youtube.com##ytd-live-chat-frame[collapsed=""]
-youtube.com##ytd-browse[page-subtype="home"] ytd-rich-section-renderer
-youtube.com##tp-yt-paper-dialog[class="style-scope ytd-popup-container"][role="dialog"]
+!youtube.com##tp-yt-paper-dialog[class="style-scope ytd-popup-container"][role="dialog"]
+!youtube.com##ytd-browse[page-subtype="home"] ytd-rich-section-renderer
+youtube.com##ytd-mini-guide-entry-renderer[aria-label="Shorts"]
+youtube.com##ytd-rich-shelf-renderer[is-shorts=""]
 m.youtube.com##.feed-nudge-wrapper
 ||gstatic.com/youtube/img/promos/growth/*$image
 
