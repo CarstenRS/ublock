@@ -493,6 +493,10 @@ youtube.com##ytd-live-chat-frame[collapsed=""]
 youtube.com##ytd-mini-guide-entry-renderer[aria-label="Shorts"]
 youtube.com##ytd-rich-shelf-renderer[is-shorts=""]
 youtube.com##button[aria-label^="Benachrichtigung "]
+youtube.com##a[href^="/feed/storefront?"]
+youtube.com##a[href^="/feed/trending?"]
+youtube.com##a[href^="/channel/"]
+youtube.com##a[href="/gaming"]
 m.youtube.com##.feed-nudge-wrapper
 ||gstatic.com/youtube/img/promos/growth/*$image
 
