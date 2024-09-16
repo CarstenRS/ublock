@@ -131,6 +131,10 @@ flaschenpost.de##button[data-testid="bpytcH0GkAtjmZakRMjs"]
 flaschenpost.de##button[data-testid="I_A3EMPKXYqH7uNqXVM73"]
 ||trws.flaschenpost.de^
 
+! 2024-09-15 https://shop.deutschepost.de
+shop.deutschepost.de###quickaccess-right
+shop.deutschepost.de###quickNewsletterRegister,#quickAccessNewsletter
+
 ! 28.07.2024 https://off-campers.com
 off-campers.com##.pb-5.pt-3.whitespace-pre-line
 off-campers.com##button[form="cookie-consent-form"][value="acceptAll"]
