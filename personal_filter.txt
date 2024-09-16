@@ -233,6 +233,9 @@ fielmann.de##body:style(overflow: auto !important;)
 ||storyblok.com/*/pinterest.svg$image
 ||storyblok.com/*/welcome.*$image
 
+! 2024-06-19 https://accounts.misterspex.de
+||media.misterspex.com/image/upload/*/Login/login_*_person.png$image
+
 ! 2024-02-18 https://www.amazon.de
 amazon.de###primeDPUpsellContainer
 amazon.de###a-popover-lgtbox
@@ -535,6 +538,9 @@ privateinternetaccess.com###chat-widget-iframe
 ! 01.08.2024 https://www.festung-koenigstein.de
 festung-koenigstein.de###prefooter > .inside
 
+! 2024-07-15 https://www.leipzig-minigolf.de
+||leipzig-minigolf.de/images/hg-*.jpg$image
+
 ! 29.07.2024 https://de.quora.com
 ||quoracdn.net/*_frontend_assets.images.home_page_bg_desktop.*.png$image
 
@@ -581,17 +587,11 @@ finanzen-zero.net##instrument-details-push-hint[class="ng-star-inserted"]
 ! 2023-02-09 https://familienportal.de
 familienportal.de##.bmfsfj-logo.icon > use
 
-! 2024-07-15 https://www.leipzig-minigolf.de
-||leipzig-minigolf.de/images/hg-*.jpg$image
-
 ! 2022-11-07 https://www.gesetze-im-internet.de
 ||gesetze-im-internet.de/img/lay/*.svg$image
 
 ! 2024-04-15 https://oeffentlicher-dienst.info
 ||oeffentlicher-dienst.info/_pic/*.gif$image
-
-! 2024-06-19 https://accounts.misterspex.de
-||media.misterspex.com/image/upload/*/Login/login_*_person.png$image
 
 ! 2024-08-28 https://www.buzer.de
 buzer.de##.anzl,.anz_unten
