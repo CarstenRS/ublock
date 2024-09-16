@@ -47,9 +47,9 @@ de##body > div > div:has-text("Es konnte keine Verbindung zum reCAPTCHA-Dienst h
 com##.modal-886ab
 
 ! 2024-07-16 cookie-Banner von deutschen Seiten:
+||consent.*.de/index.html$subdocument
 fahrschule-dovermann.de##div[consent-skip-blocker="1"]
 continental-reifen.de##.cmpwrapper
-||consent.carwow.de/index.html$subdocument
 
 ! 2022-09-12 https://gmx.net or https://web.de
 gmx.net,web.de###service-right
