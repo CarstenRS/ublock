@@ -8,7 +8,8 @@
 !gmx.net,web.de#@#.permission-core-iframe
 !fahrschule-dovermann.de#@#div[consent-skip-blocker="1"]
 
-! 2023-10-25 iframe-ad-domains:
+! 2024-09-17 blocked tracking/ad-domains
+||web-ads.10sq.net/^
 ||trackingworlds.com^
 ||tipico.de^
 ||com-erneuerung.com^
@@ -16,6 +17,16 @@
 ||b2bcommerciale.co^
 ||mercalar.com.br^
 ||xn--namens-nderung-cib.de^
+
+! 2023-10-56 Cookie-Pop-Up + riesge Banner:
+##div[class^="wmde-banner-"]
+##[src^="/img/banner/"]
+###cookies
+###communice-cookiebar
+###cookie_consent_min_wrapper
+com##.modal-886ab
+
+! 2023-10-25 iframe-images:
 ||prepaid-wiki.de/wiki/HTMLets/Lebara_Banner.jpg$image
 ||reviewvpn.com/best-firestick-apps-form$subdocument
 ||web.threema.ch/img/wallpaper_light.png?$image
@@ -26,25 +37,7 @@
 ||cloudfront.net/widget/*.png$image
 ||payback.de/banners/*.jpg$image
 ||radiosaw.de/saw-widgets/*.jpg$image
-||img.ui-portal.de/eigenwerbung/*$image
 ||genius.com/songs/8310610/apple_music_player$subdocument
-||com/contents/content_sources/*kinkypath*.gif$image
-com##[href^="https://www.kink.com/"]
-com##[href^="https://www.boundhub.com/link/"]
-com##.p8lace
-com##.op5t
-img.ui-portal.de##div > .inverted
-img.ui-portal.de##figure
-de## div > div:has-text("Es konnte keine Verbindung zum reCAPTCHA-Dienst hergestellt werden. Überprüfe deine Internetverbindung und aktualisiere die Seite, um eine reCAPTCHA-Aufgabe zu erhalten.")
-de##body > div > div:has-text("Es konnte keine Verbindung zum reCAPTCHA-Dienst hergestellt werden. Überprüfe deine Internetverbindung und aktualisiere die Seite, um eine reCAPTCHA-Aufgabe zu erhalten.")
-
-! 2023-10-56 Cookie-Pop-Up + riesge Banner:
-##div[class^="wmde-banner-"]
-##[src^="/img/banner/"]
-###cookies
-###communice-cookiebar
-###cookie_consent_min_wrapper
-com##.modal-886ab
 
 ! 2024-07-16 cookie-Banner von deutschen Seiten:
 ||consent.*.de/index.html$subdocument
@@ -69,6 +62,16 @@ gmx.net,web.de##.appbanner
 ||web.de/uim/container/generic_adition_*.html$subdocument
 ||web.de/*/nonfriendlyiframe.html$subdocument
 ||web.de/permission/*/core.html$subdocument
+||img.ui-portal.de/eigenwerbung/*$image
+img.ui-portal.de##div > .inverted
+img.ui-portal.de##figure
+
+! 2024-09-16 Miscellaneous:
+||com/contents/content_sources/*kinkypath*.gif$image
+com##[href^="https://www.kink.com/"]
+com##[href^="https://www.boundhub.com/link/"]
+com##.p8lace
+com##.op5t
 
 ! 2023-03-04 Online-Zeitungs-Banner
 ||cmp.*.de/index.html$subdocument
@@ -146,7 +149,6 @@ correctiv.org##.corre-popup-faktencheck
 dasoertliche.de##iframe[data-cmp-src^="https://www.dasoertliche.de/?cmd=teaser"]
 dasoertliche.de##.teaser
 de##[src^="https://web-ads.10sq.net/"]
-||web-ads.10sq.net/*$subdocument
 
 ! 2024-07-19 https://www.mdr.de
 mdr.de##.sharing-menu-article
@@ -477,6 +479,8 @@ paypal.com###sticky-qr-badge
 
 ! 2024-09-14 https://www.reddit.com
 reddit.com##alert-controller
+de## div > div:has-text("Es konnte keine Verbindung zum reCAPTCHA-Dienst hergestellt werden. Überprüfe deine Internetverbindung und aktualisiere die Seite, um eine reCAPTCHA-Aufgabe zu erhalten.")
+de##body > div > div:has-text("Es konnte keine Verbindung zum reCAPTCHA-Dienst hergestellt werden. Überprüfe deine Internetverbindung und aktualisiere die Seite, um eine reCAPTCHA-Aufgabe zu erhalten.")
 
 ! 2022-11-28 https://www.youtube.com
 youtube.com##a[title="YouTube Premium"]
