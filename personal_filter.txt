@@ -426,6 +426,15 @@ weather.com##aside[aria-label="Sidebar"]
 ! 2024-05-17 https://www.tuttimedoc.com
 tuttimedoc.com##.OQ8Tzd
 
+! 17.09.2024 https://de.roborock.com
+roborock.com##.subscribe-modal
+
+! 18.09.2024 https://stackoverflow.com
+stackoverflow.com###noscript-warning
+stackexchange.com###noscript-warning
+stackoverflow.com##li[class="js-recent-tag"]
+stackoverflow.com##li[class^="js-recent-tags-heading"]
+
 ! 2023-08-29 https://open.spotify.com
 open.spotify.com##div[data-testid="popover"]
 open.spotify.com##button[data-testid="upgrade-button"]
@@ -479,6 +488,7 @@ paypal.com###sticky-qr-badge
 
 ! 2024-09-14 https://www.reddit.com
 reddit.com##alert-controller
+reddit.com##body > div > div
 de## div > div:has-text("Es konnte keine Verbindung zum reCAPTCHA-Dienst hergestellt werden. Überprüfe deine Internetverbindung und aktualisiere die Seite, um eine reCAPTCHA-Aufgabe zu erhalten.")
 de##body > div > div:has-text("Es konnte keine Verbindung zum reCAPTCHA-Dienst hergestellt werden. Überprüfe deine Internetverbindung und aktualisiere die Seite, um eine reCAPTCHA-Aufgabe zu erhalten.")
 
@@ -525,6 +535,10 @@ leipzig.de##ul[class="third-level"]
 
 ! 01.08.2024 https://www.berlin.de
 berlin.de##.image
+
+! 19.09.2024 https://arxiv.org
+arxiv.org###support-ack
+arxiv.org##.sponsors
 
 ! 2024-06-06 https://www.uni-greifswald.de
 uni-greifswald.de##.footer-column--light.footer-column
