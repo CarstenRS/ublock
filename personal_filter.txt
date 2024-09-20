@@ -12,6 +12,7 @@
 ||web-ads.10sq.net/^
 ||trackingworlds.com^
 ||tipico.de^
+||huberwills.com^
 ||com-erneuerung.com^
 ||b2bedgesolutions.co^
 ||b2bcommerciale.co^
