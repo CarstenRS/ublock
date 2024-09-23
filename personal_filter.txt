@@ -259,6 +259,12 @@ akamai.com###maintenance-modal
 ! 2024-07-15 https://www.haufe.de
 haufe.de##.product-box
 
+! 22.09.2024 https://www.edureka.co
+edureka.co##.free-webinar-reg-box
+
+! 22.09.2024 https://code.tutsplus.com
+tutsplus.com###cta_toast_popup
+
 ! 2024-07-16 https://qualitaet-ist-mehrwert.de
 qualitaet-ist-mehrwert.de##.elementor-sticky--active
 
@@ -400,6 +406,7 @@ skype.com##.r-nuir7j.css-1dbjc4n
 live.com###GoPremiumButton_container
 
 ! 2023-12-12 https://web.telegram.org
+web.telegram.org##.story-toggler-wrapper
 web.telegram.org##div[class^="NewChatButton"]
 web.telegram.org##.RF4n_8QOkb5FMXcpbmBW.ListItem-button
 web.telegram.org##.info.OS2LWzdu > .subtitle
@@ -499,6 +506,7 @@ youtube.com##.yt-spec-button-view-model.interstitial-view-model-wiz__flex-item
 youtube.com##ytd-feed-nudge-renderer.ytd-item-section-renderer.style-scope
 youtube.com###primary-button.ytd-feed-nudge-renderer
 youtube.com##button[aria-label="Kanalmitglied werden"]
+youtube.com##.sponsorThumbnailLabel
 youtube.com###sponsor-button
 youtube.com###donation-shelf
 youtube.com###categoryPillParent
@@ -519,6 +527,10 @@ youtube.com##a[href^="/feed/storefront?"]
 youtube.com##a[href^="/feed/trending?"]
 youtube.com##a[href^="/channel/"]
 youtube.com##a[href="/gaming"]
+youtube.com##+js(set,yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
+youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
+youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
+youtube.com##+js(set, Object.prototype.hasAllowedstreamAd, true)
 m.youtube.com##.feed-nudge-wrapper
 ||gstatic.com/youtube/img/promos/growth/*$image
 
@@ -596,6 +608,7 @@ meine.santander.de##.SBLoadingSpinner__loading___pGRuE > .loader
 meine.hanseaticbank.de##.tw-no-underline.tw-font-medium.tw-flex
 ||meine.hanseaticbank.de/_nuxt/img/background-landscape*.jpg$image
 ||commerzbank.de/ms/media/generated/*-jpg*$image
+||commerzbank.de/ms/media/generated/*-jpeg*$image
 commerzbank.de##p[class^="sublineCard"][class$="--info-text "]
 commerzbank.de##.Table-module_tableFooterAlignRight__tiK4- > .lsgs-577b7--grid-column > .Table-module_balancePerSection__O9GhR
 ||awa7.de/files/content/section*/getestet.jpg$image
