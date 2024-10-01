@@ -90,6 +90,22 @@ promobil.de##.commercial
 ! 2024-08-18 https://www.polarsteps.com
 polarsteps.com##div[class^="get-the-app-banner-module"]
 
+! 25.09.2024 https://www.heise.de
+www.heise.de##.article-header__image
+
+! 25.09.2024 https://bankenverband.de
+bankenverband.de##div[class*=" newsletter-popup_overlay_"]
+
+! 30.09.2024 https://www.datenschutz-praxis.de
+www.datenschutz-praxis.de##.visible.newsletter-sticky-cta
+
+! 30.09.2024 https://www.prigge-recht.de
+www.prigge-recht.de##.lazyloading
+www.prigge-recht.de##.wp-block-embed__wrapper
+
+! 01.10.2024 https://octopusenergy.de
+octopusenergy.de##svg[xmlns^="http://www.w3.org/"]
+
 ! 08.09.2024 https://www.smartzone.de
 smartzone.de##.toast-ad-block-wrapper
 
@@ -242,7 +258,7 @@ fielmann.de##body:style(overflow: auto !important;)
 ! 2024-02-18 https://www.amazon.de
 amazon.de###primeDPUpsellContainer
 amazon.de###a-popover-lgtbox
-amazon.de##div[class="a-modal-scroller a-declarative"]
+!amazon.de##div[class="a-modal-scroller a-declarative"]
 amazon.de##.nav-signin-tt
 amazon.de##.sw-atc-single-container.sw-card-container.a-span6.a-column
 amazon.de##.prime-popover-link
