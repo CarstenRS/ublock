@@ -105,6 +105,7 @@ www.prigge-recht.de##.wp-block-embed__wrapper
 
 ! 01.10.2024 https://octopusenergy.de
 octopusenergy.de##svg[xmlns^="http://www.w3.org/"]
+||octopusenergy.de/img/banner_*.svg$image
 
 ! 08.09.2024 https://www.smartzone.de
 smartzone.de##.toast-ad-block-wrapper
