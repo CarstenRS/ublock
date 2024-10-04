@@ -18,6 +18,7 @@
 ||b2bcommerciale.co^
 ||mercalar.com.br^
 ||xn--namens-nderung-cib.de^
+||peruvianasd.shop^
 
 ! 2023-10-56 Cookie-Pop-Up + riesge Banner:
 ##div[class^="wmde-banner-"]
@@ -102,6 +103,9 @@ www.datenschutz-praxis.de##.visible.newsletter-sticky-cta
 ! 30.09.2024 https://www.prigge-recht.de
 www.prigge-recht.de##.lazyloading
 www.prigge-recht.de##.wp-block-embed__wrapper
+
+! 02.10.2024 https://www.elbkanzlei.com
+elbkanzlei.com##.animated.dialog-lightbox-widget-content.dialog-widget-content
 
 ! 01.10.2024 https://octopusenergy.de
 octopusenergy.de##svg[xmlns^="http://www.w3.org/"]
