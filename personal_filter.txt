@@ -104,6 +104,9 @@ www.datenschutz-praxis.de##.visible.newsletter-sticky-cta
 www.prigge-recht.de##.lazyloading
 www.prigge-recht.de##.wp-block-embed__wrapper
 
+! 06.10.2024 https://rsw.beck.de
+rsw.beck.de##.collapsed.sticky
+
 ! 02.10.2024 https://www.elbkanzlei.com
 elbkanzlei.com##.animated.dialog-lightbox-widget-content.dialog-widget-content
 
@@ -230,6 +233,9 @@ l-iz.de##.wp-video
 
 ! 2024-07-16 https://hallespektrum.de or https://dubisthalle.de or googlewatchblog.de
 hallespektrum.de,dubisthalle.de,googlewatchblog.de##h3,h4:has-text("Werbung")
+
+! 2024-10-14 https://www.burg-halle.de
+||burg-halle.de/home/*/weltkarte-rund-transp_*.png$image
 
 ! 11.09.2024 https://www.pflege.de
 pflege.de##div[class^="voting-popup"]
@@ -471,6 +477,7 @@ open.spotify.com##button[data-testid="upgrade-button"]
 open.spotify.com##a[href="/download"]
 open.spotify.com##.sponsor-container
 open.spotify.com##div[style$="transition-duration: 300ms;"]
+open.spotify.com##div[data-testid="notification-dot"]
 
 ! 2023-11-07 facebook-pings:
 ##button[data-test^="login"][data-test$="facebook"]
@@ -619,7 +626,7 @@ app.robinsonliste.de##div[class="d-flex justify-center mt-5"]
 
 ! 2024-08-28 https://antrag.vwfs.de
 vwfs.de##.teaser
-||vwfs.de/UI/img/hero_login_*.jpg$image
+||vwfs.de/UI/img/hero_*.jpg$image
 
 ! 2024-03-02 unnötiger Countdown bei Banken
 meine.santander.de##.SBHeaderLogoutSection__timerContainer___mNFfe
