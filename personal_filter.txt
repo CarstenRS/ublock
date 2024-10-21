@@ -9,7 +9,7 @@
 !fahrschule-dovermann.de#@#div[consent-skip-blocker="1"]
 
 ! 2024-09-17 blocked tracking/ad-domains
-||web-ads.10sq.net/^
+||web-ads.10sq.net^
 ||trackingworlds.com^
 ||tipico.de^
 ||huberwills.com^
@@ -19,6 +19,7 @@
 ||mercalar.com.br^
 ||xn--namens-nderung-cib.de^
 ||peruvianasd.shop^
+||puroligert.com^
 
 ! 2023-10-56 Cookie-Pop-Up + riesge Banner:
 ##div[class^="wmde-banner-"]
