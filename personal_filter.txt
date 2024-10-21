@@ -420,7 +420,7 @@ startpage.com##a[aria-label="Hol dir die App"]
 startpage.com##.wiki-qi-container-see-more > .result > .see-more-container
 
 ! 2024-04-12 https://www.tk.de
-||tk.de/resource/image/*/tk-*-startseite-*.jpg$image
+||tk.de/resource/image/*/*-*-*.jpg$image
 tk.de##.g-footer__cta
 tk.de###tkde-socialmedia-navi
 
