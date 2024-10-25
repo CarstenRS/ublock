@@ -615,6 +615,9 @@ festung-koenigstein.de###prefooter > .inside
 ! 2024-07-15 https://www.leipzig-minigolf.de
 ||leipzig-minigolf.de/images/hg-*.jpg$image
 
+! 23.10.2024 https://unbox.at
+||unbox.at/assets/images/unbox-cover.jpg$image
+
 ! 29.07.2024 https://de.quora.com
 ||quoracdn.net/*_frontend_assets.images.home_page_bg_desktop.*.png$image
 
@@ -624,8 +627,12 @@ cim.allianz.de##app-footer
 allianz.de###user-assistance-contact-button
 
 ! 2024-04-25 https://www.robinsonliste.de
-app.robinsonliste.de##div[class="donation-tier"]
-app.robinsonliste.de##div[class="d-flex justify-center mt-5"]
+robinsonliste.de##div[class="donation-tier"]
+robinsonliste.de##div[class="d-flex justify-center mt-5"]
+robinsonliste.de##div[id^="elementor-popup-modal-"]
+robinsonliste.de##.v-dialog__content--active
+robinsonliste.de##.v-overlay__scrim
+robinsonliste.de##body:style(overflow: auto !important;)
 ||robinsonliste.de/img/mood*.jpg$image
 ||robinsonliste.de/wp-content/uploads/*.jpg$image
 
@@ -659,6 +666,7 @@ finanzen-zero.net##td:nth-of-type(5)
 finanzen-zero.net##th:nth-of-type(5)
 finanzen-zero.net##instrument-details-push-hint[class="ng-star-inserted"]
 finanzen-zero.net##ngb-alert:has-text("Deine IBAN für eine Überweisung auf Dein finanzen.net zero Verrechnungskonto lautet:")
+finanzen-zero.net##div[class^="zero-surface"]:has-text("SEPA-Lastschriftverfahren zu Gunsten meines finanzen.net zero Verrechnungskontos")
 
 ! 2023-02-09 https://familienportal.de
 familienportal.de##.bmfsfj-logo.icon > use
