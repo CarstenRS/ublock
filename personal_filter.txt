@@ -189,6 +189,7 @@ mdr.de##.Iframe
 
 ! 2024-28-28 https://www.lvz.de
 lvz.de##div[class$=" cXybNF"]
+lvz.de##div[class^="Adstyled__MinHeightContainerForStickyAd"]
 
 ! 2022-11-03 https://www.faz.net
 faz.net##.ctn-PaywallInfo.js-ctn-PaywallInfo
@@ -533,6 +534,7 @@ paypal.com###sticky-qr-badge
 
 ! 2024-09-14 https://www.reddit.com
 reddit.com##alert-controller
+reddit.com###main-content > .absolute
 reddit.com##body > div > div
 de## div > div:has-text("Es konnte keine Verbindung zum reCAPTCHA-Dienst hergestellt werden. Überprüfe deine Internetverbindung und aktualisiere die Seite, um eine reCAPTCHA-Aufgabe zu erhalten.")
 de##body > div > div:has-text("Es konnte keine Verbindung zum reCAPTCHA-Dienst hergestellt werden. Überprüfe deine Internetverbindung und aktualisiere die Seite, um eine reCAPTCHA-Aufgabe zu erhalten.")
