@@ -625,6 +625,12 @@ festung-koenigstein.de###prefooter > .inside
 ! 2024-10-29 https://www.paketda.de
 paketda.de##.userMenuNotifications
 
+! 2024-10-31 https://www.promenaden-hauptbahnhof-leipzig.de
+||promenaden-hauptbahnhof-leipzig.de/fileadmin/user_upload/newsletter-*.jpg$image
+promenaden-hauptbahnhof-leipzig.de##div[id^="mdl-modal"]
+promenaden-hauptbahnhof-leipzig.de##div[id^="mdl-overlay"]
+promenaden-hauptbahnhof-leipzig.de##body:style(overflow: auto !important;)
+
 ! 29.07.2024 https://de.quora.com
 ||quoracdn.net/*_frontend_assets.images.home_page_bg_desktop.*.png$image
 
