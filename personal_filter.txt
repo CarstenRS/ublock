@@ -119,8 +119,10 @@ rsw.beck.de##.collapsed.sticky
 elbkanzlei.com##.animated.dialog-lightbox-widget-content.dialog-widget-content
 
 ! 01.10.2024 https://octopusenergy.de
-octopusenergy.de##svg[xmlns^="http://www.w3.org/"]
-||octopusenergy.de/img/banner_*.svg$image
+octopusenergy.de##.cxajZV
+octopusenergy.de##div[size],svg[size],svg[xmlns^="http://www.w3.org/"]
+octopusenergy.de##figure[class^="sc-1ipakth"]
+||octopusenergy.de/img/*banner*.svg$image
 
 ! 08.09.2024 https://www.smartzone.de
 smartzone.de##.toast-ad-block-wrapper
