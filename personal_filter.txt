@@ -504,8 +504,17 @@ open.spotify.com##div[data-testid="notification-dot"]
 ||edge-star-shv-*-*.facebook.com^
 ||edge-star-mini-shv-*-*.facebook.com^
 ||graph.facebook.com^
-facebook.com##.xg6iff7.x1c4vz4f.xl56j7k
-facebook.com##.x1n2onr6.xg6iff7.xippug5
+
+! 2024-11-08 https://www.facebook.com
+facebook.com##div:has(> footer[aria-label="Facebook"][role="contentinfo"])
+!facebook.com##div[role="main"] div[aria-hidden="true"][data-visualcompletion="ignore"] ~ div:has-text(Stories)
+facebook.com##div[role="complementary"] span:nth-of-type(1) ~ div:nth-of-type(2):has-text(Birthdays)
+facebook.com##div[style="height: 0px;"] + div > div:nth-of-type(1):has(h2 > span:has-text(About))
+facebook.com##div[aria-describedby] h4 > span > a[href]:not([href*="section_header_type"]):matches-attr(href="/__cft__\[0\]=[-\w]{270,}/"):upward(div[aria-describedby])
+facebook.com##div[role="complementary"]
+facebook.com##div[class="x6ikm8r x10wlt62"]
+facebook.com##div[aria-valuetext^="Wird geladen"]
+facebook.com##form[action="/logout.php?button_location=settings&button_name=logout"]
 
 ! 2023-09-04 https://web.whatsapp.com
 web.whatsapp.com##header:not(._amid)
