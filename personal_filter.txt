@@ -297,6 +297,9 @@ akamai.com###maintenance-modal
 ! 2024-07-15 https://www.haufe.de
 haufe.de##.product-box
 
+! 2024-11-11 https://jsonformatter.org
+jsonformatter.org###ablocker-big
+
 ! 22.09.2024 https://www.edureka.co
 edureka.co##.free-webinar-reg-box
 
@@ -331,6 +334,7 @@ conrad.de##.cmsColumn__default.cmsColumn__layout2-75-25.cmsColumn__wrapper > .cm
 ! 2024-07-12 https://www.instagram.com
 instagram.com##.x3hkoc4
 instagram.com##._abpk
+instagram.com##div[class="x1bs97v6 x1q0q8m5 xso031l x11aubdm xnc8uc2"]
 
 ! 2021-09-14 https://x.com
 x.com##circle
@@ -426,6 +430,7 @@ startpage.com##.css-1751upu
 startpage.com##.css-1pducxn
 startpage.com##a[href="https://www.startpage.com/nix-zu-verbergen/"]
 startpage.com##a[aria-label="Hol dir die App"]
+startpage.com##div[class^="Firefox-promo"]
 startpage.com##.wiki-qi-container-see-more > .result > .see-more-container
 
 ! 2024-04-12 https://www.tk.de
