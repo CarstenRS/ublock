@@ -406,6 +406,11 @@ netzclub.net##section[class^="c-stage c-stage--wave-5 c-stage--pt-"]
 @@||netzclub.net/img/netzclub-logo.webp$image
 @@||netzclub.net/img/video-icon.webp$image
 
+! 18.11.2024 https://service.freephone.gmx.net
+service.freephone.gmx.net##.hide-tablet.appStoerer
+||imagepool.freephone.gmx.net/*GMX_*_Header*.jpg$image
+||imagepool.freephone.gmx.net/*/datenschutz/*-page-datenschutz-*.jpg$image
+
 ! 2023-08-28 https://www.wbs.legal
 wbs.legal##.block-inner > .g-0.row > div.col-md-6.col-12
 wbs.legal##.justify-content-center.g-4.row
