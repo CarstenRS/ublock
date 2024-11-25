@@ -124,6 +124,12 @@ octopusenergy.de##div[size],svg[size],svg[xmlns^="http://www.w3.org/"]
 octopusenergy.de##figure[class^="sc-1ipakth"]
 ||octopusenergy.de/img/*banner*.svg$image
 
+! 24.11.2024 https://www.viewstats.com
+viewstats.com##.notification-banner
+
+! 24.11.2024 https://chatgpt.com
+chatgpt.com##.bottom-full.absolute
+
 ! 08.09.2024 https://www.smartzone.de
 smartzone.de##.toast-ad-block-wrapper
 
@@ -334,6 +340,7 @@ conrad.de##.cmsColumn__default.cmsColumn__layout2-75-25.cmsColumn__wrapper > .cm
 ! 2024-07-12 https://www.instagram.com
 instagram.com##.x3hkoc4
 instagram.com##._abpk
+instagram.com##.x1nhvcw1 > .x11aubdm
 instagram.com##div[class="x1bs97v6 x1q0q8m5 xso031l x11aubdm xnc8uc2"]
 
 ! 2021-09-14 https://x.com
@@ -408,7 +415,8 @@ netzclub.net##section[class^="c-stage c-stage--wave-5 c-stage--pt-"]
 
 ! 18.11.2024 https://service.freephone.gmx.net
 service.freephone.gmx.net##.hide-tablet.appStoerer
-||imagepool.freephone.gmx.net/*GMX_*_Header*.jpg$image
+service.freephone.gmx.net##.p-logout-options
+||imagepool.freephone.gmx.net/_Header*$image
 ||imagepool.freephone.gmx.net/*/datenschutz/*-page-datenschutz-*.jpg$image
 
 ! 2023-08-28 https://www.wbs.legal
