@@ -303,6 +303,9 @@ akamai.com###maintenance-modal
 ! 2024-07-15 https://www.haufe.de
 haufe.de##.product-box
 
+! 03.12.2024 https://gutschein.coupert.com
+gutschein.coupert.com##.m-go-top-type13
+
 ! 2024-11-11 https://jsonformatter.org
 jsonformatter.org###ablocker-big
 
@@ -592,8 +595,10 @@ youtube.com###flexible-item-buttons
 youtube.com###middle-row.ytd-watch-metadata
 youtube.com###content.ytd-info-panel-container-renderer
 youtube.com###country-code
+youtube.com###related
 youtube.com##ytd-guide-signin-promo-renderer
 youtube.com##ytd-live-chat-frame[collapsed=""]
+youtube.com##.ytp-endscreen-content
 !youtube.com##tp-yt-paper-dialog[class="style-scope ytd-popup-container"][role="dialog"]
 !youtube.com##ytd-browse[page-subtype="home"] ytd-rich-section-renderer
 youtube.com##ytd-reel-shelf-renderer[class="style-scope ytd-item-section-renderer"][modern-typography=""]
@@ -705,6 +710,7 @@ meine.santander.de##.SBLoadingSpinner__loading___pGRuE > .loader
 ||contents.santander.de/content/meinesantander/meinesantander---global/de/banner*.html$subdocument
 ||contents.santander.de/content/meinesantander/meinesantander---global/de/*-Offer.html$subdocument
 meine.hanseaticbank.de##.tw-no-underline.tw-font-medium.tw-flex
+meine.hanseaticbank.de##div[data-test-id="refresh-session-link"]
 ||meine.hanseaticbank.de/_nuxt/img/background-landscape*.jpg$image
 ||commerzbank.de/ms/media/generated/*-jpg*$image
 ||commerzbank.de/ms/media/generated/*-jpeg*$image
