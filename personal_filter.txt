@@ -713,8 +713,11 @@ meine.santander.de##.SBLoadingSpinner__loading___pGRuE > .loader
 meine.hanseaticbank.de##.tw-no-underline.tw-font-medium.tw-flex
 meine.hanseaticbank.de##div[data-test-id="refresh-session-link"]
 ||meine.hanseaticbank.de/_nuxt/img/background-landscape*.jpg$image
-||commerzbank.de/ms/media/generated/*-jpg*$image
-||commerzbank.de/ms/media/generated/*-jpeg*$image
+||commerzbank.de/*/media/generated/*$image
+||commerzbank.de/*/media/generated/*spendenaktion-*$image
+||commerzbank.de/*/media/anwendungen/online-banking-neuer-anstrich-*$image
+commerzbank.de##figure[class$="--picture"]
+commerzbank.de##a[href="http://www.commerzbank.de/arche"]
 commerzbank.de##p[class^="sublineCard"][class$="--info-text "]
 commerzbank.de##.Table-module_tableFooterAlignRight__tiK4- > .lsgs-577b7--grid-column > .Table-module_balancePerSection__O9GhR
 ||awa7.de/files/content/section*/getestet.jpg$image
