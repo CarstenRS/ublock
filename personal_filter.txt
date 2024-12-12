@@ -380,7 +380,7 @@ duolingo.com##.wm1bO.SQR8J
 duolingo.com##._1Fnem._1ATOC
 duolingo.com##._1T8FO
 duolingo.com##.MGk8p
-duolingo.com##div[data-focus-lock-disabled="false"]
+!duolingo.com##div[data-focus-lock-disabled="false"]
 duolingo.com##div[style="background: rgb(var(--color-cardinal));"]
 duolingo.com##body:style(overflow: auto !important;)
 
