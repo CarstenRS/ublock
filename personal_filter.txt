@@ -370,7 +370,9 @@ juracademy.de##.col-md-5.sidebar
 ! 2024-02-07 https://www.ddv.de
 www.ddv.de###banner-hide
 
-! 2023-10-27 https://www.duolingo.com
+! 12.12.2024 https://www.duolingo.com
+duolingo.com###overlays
+duolingo.com##div[class="_16rRh _2cnFr _1T_BQ"]
 duolingo.com##button[data-test="plus-continue"]
 duolingo.com##.ZTjh6._2tNGm
 duolingo.com##._20Ytt._3ug7_.Ekspr
@@ -382,7 +384,7 @@ duolingo.com##._1T8FO
 duolingo.com##.MGk8p
 !duolingo.com##div[data-focus-lock-disabled="false"]
 duolingo.com##div[style="background: rgb(var(--color-cardinal));"]
-duolingo.com##body:style(overflow: auto !important;)
+!duolingo.com##body:style(overflow: auto !important;)
 
 ! 2023-10-05 https://www.netzclub.net
 netzclub.net##h1
