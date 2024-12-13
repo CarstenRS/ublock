@@ -373,17 +373,18 @@ www.ddv.de###banner-hide
 ! 12.12.2024 https://www.duolingo.com
 duolingo.com##div[class="_16rRh _2cnFr _1T_BQ"]
 duolingo.com##button[data-test="plus-continue"]
+duolingo.com##button:has-text("Free Trial")
 duolingo.com##.ZTjh6._2tNGm
 duolingo.com##._20Ytt._3ug7_.Ekspr
 duolingo.com##._1T_BQ._2cnFr._16rRh
 duolingo.com##._1bT62._2AIq8.QIFJN
 duolingo.com##.wm1bO.SQR8J
-!duolingo.com##._1Fnem._1ATOC
-!duolingo.com###overlays
 duolingo.com##._1T8FO
 duolingo.com##.MGk8p
-!duolingo.com##div[data-focus-lock-disabled="false"]
 duolingo.com##div[style="background: rgb(var(--color-cardinal));"]
+!duolingo.com##._1Fnem._1ATOC
+!duolingo.com###overlays
+!duolingo.com##div[data-focus-lock-disabled="false"]
 !duolingo.com##body:style(overflow: auto !important;)
 
 ! 2023-10-05 https://www.netzclub.net
