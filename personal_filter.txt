@@ -372,8 +372,10 @@ www.ddv.de###banner-hide
 
 ! 12.12.2024 https://www.duolingo.com
 duolingo.com##div[class="_16rRh _2cnFr _1T_BQ"]
+duolingo.com##img[data-test="plus-offer-logo"]
 duolingo.com##button[data-test="plus-continue"]
 duolingo.com##button:has-text("Free Trial")
+duolingo.com##div[data-test="purchase-step-active"][class="_1FCGQ _27QcW"]
 duolingo.com##.ZTjh6._2tNGm
 duolingo.com##._20Ytt._3ug7_.Ekspr
 duolingo.com##._1T_BQ._2cnFr._16rRh
