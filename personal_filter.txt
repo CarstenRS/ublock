@@ -384,6 +384,7 @@ duolingo.com##.wm1bO.SQR8J
 duolingo.com##._1T8FO
 duolingo.com##.MGk8p
 duolingo.com##div[style="background: rgb(var(--color-cardinal));"]
+||duolingo.com/videos/promo/Duolingo*.mp4$media
 !duolingo.com##._1Fnem._1ATOC
 !duolingo.com###overlays
 !duolingo.com##div[data-focus-lock-disabled="false"]
@@ -450,6 +451,9 @@ wikipedia.org##.vector-column-end
 ! 2022-11-10 https://www.startpage.com
 startpage.com##.css-1751upu
 startpage.com##.css-1pducxn
+startpage.com##.privacy-extension-and-app-widget
+startpage.com##.below-the-fold
+startpage.com##.hide-promo
 startpage.com##a[href="https://www.startpage.com/nix-zu-verbergen/"]
 startpage.com##a[aria-label="Hol dir die App"]
 startpage.com##div[class^="Firefox-promo"]
