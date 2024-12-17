@@ -303,6 +303,13 @@ akamai.com###maintenance-modal
 ! 2024-07-15 https://www.haufe.de
 haufe.de##.product-box
 
+! 17.12.2024 https://www.ivs-gmbh.net
+||static.wixstatic.com/media/*/mylau.jpg$image
+||wixmp.com/logo-internal/*/website.png$image
+
+! 17.12.2024 https://www.vermietet.de
+vermietet.de##.ad-banner
+
 ! 03.12.2024 https://gutschein.coupert.com
 gutschein.coupert.com##.m-go-top-type13
 
@@ -595,6 +602,7 @@ youtube.com##.yt-spec-button-view-model.interstitial-view-model-wiz__flex-item
 youtube.com##ytd-feed-nudge-renderer.ytd-item-section-renderer.style-scope
 youtube.com###primary-button.ytd-feed-nudge-renderer
 youtube.com##button[aria-label="Kanalmitglied werden"]
+youtube.com##button[aria-label="Erstellen"]
 youtube.com##.sponsorThumbnailLabel
 youtube.com###sponsor-button
 youtube.com###donation-shelf
