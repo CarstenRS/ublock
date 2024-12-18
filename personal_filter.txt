@@ -721,6 +721,10 @@ robinsonliste.de##body:style(overflow: auto !important;)
 vwfs.de##.teaser
 ||vwfs.de/UI/img/hero_*.jpg$image
 
+! 18.12.2024 https://www.revolut.com
+revolut.com##div[class*="OverlayBase__InternalOverlayBase-rui__sc-"]
+||assets.revolut.com/published-assets-v3/*$image
+
 ! 2024-03-02 unnötiger Countdown bei Banken
 meine.santander.de##.SBHeaderLogoutSection__timerContainer___mNFfe
 meine.santander.de##.GlobalPositionBanner__devicesManagement___jH3Vt
