@@ -51,6 +51,7 @@ continental-reifen.de##.cmpwrapper
 gmx.net,web.de###service-right
 gmx.net,web.de##.nav-upp-banner
 gmx.net,web.de##.promotionbox__container
+gmx.net,web.de##.ftd-box-promote
 gmx.net,web.de##.permission-core-iframe
 gmx.net,web.de##.ppp-layer
 gmx.net,web.de##.left-col-bottom
