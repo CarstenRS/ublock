@@ -71,11 +71,11 @@ gmx.net,web.de##webmailer-dap-right
 ||img.ui-portal.de/eigenwerbung/*$image
 img.ui-portal.de##div > .inverted
 img.ui-portal.de##figure
-navigator.gmx.net##a.navigator__item:nth-of-type(5)
-navigator.gmx.net##a.navigator__item:nth-of-type(6)
-navigator.gmx.net##a.navigator__item:nth-of-type(7)
-navigator.gmx.net##a.navigator__item:nth-of-type(8)
-navigator.gmx.net##a.navigator__item:nth-of-type(9)
+navigator.gmx.net,navigator.web.de##a.navigator__item:nth-of-type(5)
+navigator.gmx.net,navigator.web.de##a.navigator__item:nth-of-type(6)
+navigator.gmx.net,navigator.web.de##a.navigator__item:nth-of-type(7)
+navigator.gmx.net,navigator.web.de##a.navigator__item:nth-of-type(8)
+navigator.gmx.net,navigator.web.de##a.navigator__item:nth-of-type(9)
 
 ! 2024-09-16 Miscellaneous:
 ||com/contents/content_sources/*kinkypath*.gif$image
