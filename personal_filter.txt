@@ -467,6 +467,7 @@ startpage.com##.below-the-fold
 startpage.com##.hide-promo
 startpage.com##a[href="https://www.startpage.com/nix-zu-verbergen/"]
 startpage.com##div[class^="pa-bg"]:has-text("Werbeanzeigen")
+startpage.com##span[class^="w-gl-attribution"]:has-text("Web-Ergebnisse")
 startpage.com##a[aria-label="Hol dir die App"]
 startpage.com##div[class^="Firefox-promo"]
 startpage.com##.wiki-qi-container-see-more > .result > .see-more-container
