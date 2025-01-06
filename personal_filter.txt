@@ -290,6 +290,7 @@ amazon.de###a-popover-lgtbox
 !amazon.de##div[class="a-modal-scroller a-declarative"]
 amazon.de##.nav-signin-tt
 amazon.de##.sw-atc-single-container.sw-card-container.a-span6.a-column
+amazon.de##.sns-recommendations.a-carousel-transition-slide
 amazon.de##.prime-popover-link
 amazon.de##div[data-toaster-type="AIS_INGRESS"]
 amazon.com##div[data-toaster-type="AIS_INGRESS"]
@@ -752,6 +753,7 @@ commerzbank.de##.Table-module_tableFooterAlignRight__tiK4- > .lsgs-577b7--grid-c
 finanzen-zero.net##td:nth-of-type(5)
 finanzen-zero.net##th:nth-of-type(5)
 finanzen-zero.net##instrument-details-push-hint[class="ng-star-inserted"]
+finanzen-zero.net##a[class$=" product ad ng-star-inserted"]
 finanzen-zero.net##ngb-alert:has-text("Deine IBAN für eine Überweisung auf Dein finanzen.net zero Verrechnungskonto lautet:")
 finanzen-zero.net##div[class^="zero-surface"]:has-text("SEPA-Lastschriftverfahren zu Gunsten meines finanzen.net zero Verrechnungskontos")
 
