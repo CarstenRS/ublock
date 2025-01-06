@@ -623,6 +623,8 @@ youtube.com###country-code
 youtube.com###related
 youtube.com##ytd-guide-signin-promo-renderer
 youtube.com##ytd-live-chat-frame[collapsed=""]
+youtube.com##div[aria-label="Synchronisiert"]
+youtube.com##ytd-rich-item-renderer:has-text("ANSTEHEND")
 youtube.com##.ytp-endscreen-content
 !youtube.com##tp-yt-paper-dialog[class="style-scope ytd-popup-container"][role="dialog"]
 !youtube.com##ytd-browse[page-subtype="home"] ytd-rich-section-renderer
