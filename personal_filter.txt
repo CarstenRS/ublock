@@ -46,6 +46,7 @@ com##.modal-886ab
 ||consent.*.de/index.html$subdocument
 fahrschule-dovermann.de##div[consent-skip-blocker="1"]
 continental-reifen.de##.cmpwrapper
+de##freiwillig-zahlen
 
 ! 2022-09-12 https://gmx.net or https://web.de
 gmx.net,web.de###service-right
@@ -91,6 +92,7 @@ de##span[data-testid="paid-icon"]
 de##div[class^="CoBrandHeaderstyled__CoBrandHeader-sc-"]
 de##.licntj.CoBrandHeaderstyled__CoBrandHeader-sc-1fin6qg-0
 de##.jrykTA.CoBrandHeaderstyled__CoBrandHeader-sc-1o6jk9k-0
+net,de##.paywall.wall
 
 ! 2024-07-16 https://www.promobil.de
 ||privacy.promobil.de/index.html$subdocument
@@ -99,6 +101,9 @@ promobil.de##.commercial
 
 ! 2024-08-18 https://www.polarsteps.com
 polarsteps.com##div[class^="get-the-app-banner-module"]
+
+! 08.01.2025 https://www.insa-consulere.de
+insa-consulere.de###ccBar.visible
 
 ! 25.09.2024 https://www.heise.de
 www.heise.de##.article-header__image
