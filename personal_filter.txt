@@ -108,6 +108,9 @@ insa-consulere.de###ccBar.visible
 ! 25.09.2024 https://www.heise.de
 www.heise.de##.article-header__image
 
+! 14.01.2025 https://buchen.teilauto.net
+buchen.teilauto.net##.loginModal.modal
+
 ! 25.09.2024 https://bankenverband.de
 bankenverband.de##div[class*=" newsletter-popup_overlay_"]
 
@@ -480,6 +483,7 @@ startpage.com##.wiki-qi-container-see-more > .result > .see-more-container
 
 ! 2024-04-12 https://www.tk.de
 ||tk.de/resource/image/*/*-*-*.jpg$image
+tk.de##div[data-tk-teaser-name^="Sie haben gekündigt!"]
 tk.de##.consent-manager
 tk.de##.g-footer__cta
 tk.de###tkde-socialmedia-navi
@@ -764,6 +768,10 @@ finanzen-zero.net##instrument-details-push-hint[class="ng-star-inserted"]
 finanzen-zero.net##a[class$=" product ad ng-star-inserted"]
 finanzen-zero.net##ngb-alert:has-text("Deine IBAN für eine Überweisung auf Dein finanzen.net zero Verrechnungskonto lautet:")
 finanzen-zero.net##div[class^="zero-surface"]:has-text("SEPA-Lastschriftverfahren zu Gunsten meines finanzen.net zero Verrechnungskontos")
+
+! 15.01.2025 https://banking.dkb.de
+banking.dkb.de##body:style(overflow: auto !important;)
+||images.ctfassets.net/*.jpg$image
 
 ! 2023-02-09 https://familienportal.de
 familienportal.de##.bmfsfj-logo.icon > use
