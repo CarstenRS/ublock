@@ -839,6 +839,7 @@ norisbank.de##img[title^="Sind Ihre Adressdaten aktuell?"]
 norisbank.de##td[class="col02 separator"]
 norisbank.de##td[class="col03"]
 norisbank.de##a[data-title="Dispo-Kredit¹⁾ ändern"]
+norisbank.de##a[href*="/call.click.for.credit.init.do?subaccountCfc=00&overdraftLimit="]
 norisbank.de##img[title="Logo norisbank"]
 ||norisbank.de/dam/norisbank/de/shared/assets/buehnen/infoservice-buehne-*.jpg$image
 ||norisbank.de/dam/norisbank/de/shared/assets/buehnen/tagesgeldkonto-buehne-*.jpg$image
