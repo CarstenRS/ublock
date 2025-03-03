@@ -838,7 +838,7 @@ norisbank.de##a[title="Link zu 'InfoServices'"]
 norisbank.de##a[title^="Link zu "][title$="Betrugsmaschen'"]
 norisbank.de##img[title^="Sind Ihre Adressdaten aktuell?"]
 norisbank.de##td[class="col02 separator"]
-norisbank.de##td[class="col03"]
+norisbank.de##td[class="col03"]:has(div[id="bank.blz.identifier"])
 norisbank.de##a[data-title="Dispo-Kredit¹⁾ ändern"]
 norisbank.de##a[href*="/call.click.for.credit.init.do?subaccountCfc=00&overdraftLimit="]
 norisbank.de##li:has(a[href$="/authorization/authorization.switch.do?tab=mTAN"])
@@ -848,6 +848,9 @@ norisbank.de##td:has-text("(Dispositionskredit"):style(color: gray !important)
 norisbank.de##span[id="currentAccountBalance"]:style(color: black !important)
 norisbank.de##div[class="advice"] > p:has-text(" eingeräumte Kontoüberziehung")
 norisbank.de##div[class="formContainer"] > form > p:has-text("/ (E|e)ingeräumte Kontoüberziehung/")
+norisbank.de##table[summary="Tabellarische Übersicht Ihrer Konten"] > thead > tr > th[id^="col03"]
+norisbank.de##table[summary="Tabellarische Übersicht Ihrer Konten"] > tbody > tr:has(a[title="Übersicht Ihrer Konten schließen"])
+norisbank.de##table[summary="Tabellarische Übersicht Ihrer Konten"] > tbody > tr > td[class^="col03"]
 norisbank.de##img[title="Logo norisbank"]
 ||norisbank.de/dam/norisbank/de/shared/assets/buehnen/infoservice-buehne-*.jpg$image
 ||norisbank.de/dam/norisbank/de/shared/assets/buehnen/tagesgeldkonto-buehne-*.jpg$image
