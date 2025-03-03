@@ -848,6 +848,9 @@ norisbank.de##td:has-text("(Dispositionskredit"):style(color: gray !important)
 norisbank.de##span[id="currentAccountBalance"]:style(color: black !important)
 norisbank.de##div[class="advice"] > p:has-text(" eingeräumte Kontoüberziehung")
 norisbank.de##div[class="formContainer"] > form > p:has-text("/ (E|e)ingeräumte Kontoüberziehung/")
+norisbank.de##div[id="mobileTANStatusContainer"]:has(div[class="statusStatus mTANDisabled"])
+norisbank.de##table[summary="Tabellarische Übersicht Ihrer Finanzen"] > tfoot
+norisbank.de##table[summary="Tabellarische Übersicht Ihrer Finanzen"] > tbody > tr[class="subsequent creditLine"]
 norisbank.de##table[summary="Tabellarische Übersicht Ihrer Konten"] > thead > tr > th[id^="col03"]
 norisbank.de##table[summary="Tabellarische Übersicht Ihrer Konten"] > tbody > tr:has(a[title="Übersicht Ihrer Konten schließen"])
 norisbank.de##table[summary="Tabellarische Übersicht Ihrer Konten"] > tbody > tr > td[class^="col03"]
