@@ -844,6 +844,8 @@ norisbank.de##a[href*="/call.click.for.credit.init.do?subaccountCfc=00&overdraft
 norisbank.de##li:has(a[href$="/authorization/authorization.switch.do?tab=mTAN"])
 norisbank.de##td:has-text("(Dispositionskredit") > sup
 norisbank.de##span:has-text("Dispositionskredit") > sup
+norisbank.de##td:has(span[id="currentAccountBalance"]):style(color: gray !important)
+norisbank.de##span[id="currentAccountBalance"]:style(color: black !important)
 norisbank.de##div[class="advice"] > p:has-text(" eingeräumte Kontoüberziehung")
 norisbank.de##div[class="formContainer"] > form > p:has-text("/ (E|e)ingeräumte Kontoüberziehung/")
 norisbank.de##img[title="Logo norisbank"]
