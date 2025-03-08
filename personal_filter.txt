@@ -537,6 +537,7 @@ tk.de###tkde-socialmedia-navi
 
 ! 2023-11-24 https://discord.com
 discord.com##.layer_ec16dd.theme-dark
+discord.com##div[class^="upsellContainer__"]
 
 ! 2024-01-01 https://www.sueddeutsche.de
 ||vx.sueddeutsche.de/checkout/template/cacheableShow$subdocument
