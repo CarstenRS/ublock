@@ -192,6 +192,9 @@ flaschenpost.de##.optmz_home_hero_banner
 flaschenpost.de##.fp_modal
 flaschenpost.de##div[data-v-070f22c1=""]
 flaschenpost.de##p[data-v-c9ebd152=""]
+flaschenpost.de##a[href="/newsletter"]
+flaschenpost.de##div[class$="flex-column d-flex justify-content-center"]:has(img[src$="/crm_row_mail_full_gray.svg"])
+flaschenpost.de##div[class*="catBanner_subCatId_"]
 flaschenpost.de##button[data-testid="bpytcH0GkAtjmZakRMjs"]
 flaschenpost.de##button[data-testid="I_A3EMPKXYqH7uNqXVM73"]
 ||trws.flaschenpost.de^
@@ -206,6 +209,9 @@ off-campers.com##button[form="cookie-consent-form"][value="acceptAll"]
 
 ! 2023-11-17 https://correctiv.org
 correctiv.org##.corre-popup-faktencheck
+
+! 12.03.2025 https://www.vpnblade.net
+vpnblade.net##.visible.alert-notification
 
 ! 03.02.2025 https://www.verivox.de
 www.verivox.de##li[class="result-item position-zero"]
