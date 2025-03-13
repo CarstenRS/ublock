@@ -527,6 +527,9 @@ startpage.com##a[aria-label="Hol dir die App"]
 startpage.com##div[class^="Firefox-promo"]
 startpage.com##.wiki-qi-container-see-more > .result > .see-more-container
 
+! 13.03.2025 https://www.gruble.de
+gruble.de##a[class="link_on_top_donate"]
+
 ! 2024-04-12 https://www.tk.de
 ||tk.de/resource/image/*/*-*-*.jpg$image
 tk.de##div[data-tk-teaser-name^="Sie haben gekündigt!"]
