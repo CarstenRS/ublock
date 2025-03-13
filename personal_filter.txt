@@ -707,7 +707,7 @@ youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
 youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
 youtube.com##+js(set, Object.prototype.hasAllowedstreamAd, true)
 youtube.com##.yt-spec-icon-badge-shape__badge
-youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope
+!youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope
 m.youtube.com##.feed-nudge-wrapper
 ||gstatic.com/youtube/img/promos/growth/*$image
 
