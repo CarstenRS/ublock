@@ -767,8 +767,10 @@ festung-koenigstein.de###prefooter > .inside
 ! 23.10.2024 https://unbox.at
 ||unbox.at/assets/images/unbox-cover.jpg$image
 
-! 2024-10-29 https://www.paketda.de
-paketda.de##.userMenuNotifications
+! 2024-10-29 paketda.de und postaustausch.de:
+paketda.de,postaustausch.de##div[class="pageHeaderFacade"],div[class="authOtherOptionButtons__separator"]
+paketda.de,postaustausch.de##li[class="thirdPartyLogin"][id="googleAuth"],li[class="thirdPartyLogin"][id="githubAuth"]
+paketda.de,postaustausch.de##.userMenuNotifications
 
 ! 2024-10-31 https://www.promenaden-hauptbahnhof-leipzig.de
 ||promenaden-hauptbahnhof-leipzig.de/fileadmin/user_upload/newsletter-*.jpg$image
