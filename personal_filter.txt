@@ -478,6 +478,8 @@ netzclub.net##section[class^="c-stage c-stage--wave-5 c-stage--pt-"]
 ||mein.fonic.de/assets/webp_images/background_standalone.webp$image
 
 ! 18.11.2024 https://service.freephone.gmx.net
+service.freephone.gmx.net##div[class$=" e-teaser-promotion"]
+service.freephone.gmx.net##a[href="/mytariff/openExternalTariffChangeWithRecommendedInformation"]
 service.freephone.gmx.net##.hide-tablet.appStoerer
 service.freephone.gmx.net##.p-logout-options
 ||imagepool.freephone.gmx.net/*_Header*$image
