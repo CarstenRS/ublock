@@ -78,6 +78,13 @@ navigator.gmx.net,navigator.web.de##a.navigator__item:nth-of-type(7)
 navigator.gmx.net,navigator.web.de##a.navigator__item:nth-of-type(8)
 navigator.gmx.net,navigator.web.de##a.navigator__item:nth-of-type(9)
 
+! 28.03.2025 https://www.ubereats.com
+www.ubereats.com##div[class="gz ag h0 h1 bh h2"]
+www.ubereats.com##div[class^="ex bg fl"]:has(a[href$="BENEFIT_REMINDER"])
+www.ubereats.com##div[class="ex bg h2 h3 ga"]:has(a[href$="BENEFIT_REMINDER"])
+www.ubereats.com##div[class^="ex bg f1"]:has(a[href="/de/invite"])
+www.ubereats.com##div[class="ex bg f1 f2 ga"]:has(div[class="ck al eq bc"])
+
 ! 2024-09-16 Miscellaneous:
 ||com/contents/content_sources/*kinkypath*.gif$image
 com##[href^="https://www.kink.com/"]
