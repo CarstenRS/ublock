@@ -857,6 +857,7 @@ finanzen-zero.net##div[class^="zero-surface"]:has-text("SEPA-Lastschriftverfahre
 norisbank.de##a[title="Link zu 'TAN-Verfahren'"]
 norisbank.de##a[title="Link zu 'Aktionskredit'"]
 norisbank.de##a[title="Link zu 'Tagesgeld'"]
+norisbank.de##a[title="Link zu 'Phishing'"]
 norisbank.de##a[title="Link zu 'InfoServices'"]
 norisbank.de##a[title^="Link zu "][title$="Betrugsmaschen'"]
 norisbank.de##img[title^="Sind Ihre Adressdaten aktuell?"]
