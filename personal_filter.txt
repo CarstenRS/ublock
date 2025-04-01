@@ -878,6 +878,8 @@ norisbank.de##table[summary="Tabellarische Übersicht Ihrer Finanzen"] > tbody >
 norisbank.de##table[summary="Tabellarische Übersicht Ihrer Konten"] > thead > tr > th[id^="col03"]
 norisbank.de##table[summary="Tabellarische Übersicht Ihrer Konten"] > tbody > tr:has(a[title="Übersicht Ihrer Konten schließen"])
 norisbank.de##table[summary="Tabellarische Übersicht Ihrer Konten"] > tbody > tr > td[class^="col03"]
+norisbank.de##table[summary="Tabellarische Übersicht Ihrer Umsätze"] > tbody > tr[class="mctContext"]
+norisbank.de##table[summary="Tabellarische Übersicht Ihrer Umsätze"] > tbody > tr > th[id="lB"]
 norisbank.de##img[title="Logo norisbank"]
 ||norisbank.de/dam/norisbank/de/shared/assets/buehnen/infoservice-buehne-*.jpg$image
 ||norisbank.de/dam/norisbank/de/shared/assets/buehnen/tagesgeldkonto-buehne-*.jpg$image
