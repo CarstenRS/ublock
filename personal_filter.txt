@@ -78,7 +78,7 @@ navigator.gmx.net,navigator.web.de##a.navigator__item:nth-of-type(7)
 navigator.gmx.net,navigator.web.de##a.navigator__item:nth-of-type(8)
 navigator.gmx.net,navigator.web.de##a.navigator__item:nth-of-type(9)
 
-! 28.03.2025 https://www.ubereats.com
+! 2025-03-28 https://www.ubereats.com
 www.ubereats.com##div[class="gz ag h0 h1 bh h2"]
 www.ubereats.com##div[class^="ex bg fl"]:has(a[href$="BENEFIT_REMINDER"])
 www.ubereats.com##div[class="ex bg h2 h3 ga"]:has(a[href$="BENEFIT_REMINDER"])
@@ -109,29 +109,36 @@ promobil.de##.commercial
 ! 2024-08-18 https://www.polarsteps.com
 polarsteps.com##div[class^="get-the-app-banner-module"]
 
-! 08.01.2025 https://www.insa-consulere.de
+! 2025-01-08 https://www.insa-consulere.de
 insa-consulere.de###ccBar.visible
 
 ! 25.09.2024 https://www.heise.de
 www.heise.de##.article-header__image
 
-! 27.01.2025 https://www.viewstats.com
+! 2025-04-11 https://www.mydealz.de
+mydealz.de##.mc-notification-inner--peek
+
+! 2025-04-04 https://www.sklum.com
+sklum.com##.cb-promo-slide__content
+sklum.com##.c-newsletter-bar
+
+! 2025-01-27 https://www.viewstats.com
 www.viewstats.com##.pro-upgrade-banner-wrapper
 
-! 14.01.2025 https://buchen.teilauto.net
+! 2025-01-14 https://buchen.teilauto.net
 buchen.teilauto.net##.loginModal.modal
 
 ! 25.09.2024 https://bankenverband.de
 bankenverband.de##div[class*=" newsletter-popup_overlay_"]
 
-! 24.01.2025 https://www.ibau.de
+! 2025-01-24 https://www.ibau.de
 ||ibau.de/site/assets/files/1226584/adobestock_*-fotowelt_*.webp$image
 ibau.de##.popup--wrapper
 
 ! 30.09.2024 https://www.datenschutz-praxis.de
 www.datenschutz-praxis.de##.visible.newsletter-sticky-cta
 
-! 21.01.2025 https://anwaltsblatt.anwaltverein.de
+! 2025-01-21 https://anwaltsblatt.anwaltverein.de
 anwaltsblatt.anwaltverein.de##[src^="files/banner/content_ad/"]
 anwaltsblatt.anwaltverein.de##.banner_content_ad
 
@@ -201,6 +208,7 @@ flaschenpost.de##div[data-v-070f22c1=""]
 flaschenpost.de##p[data-v-c9ebd152=""]
 flaschenpost.de##a[href="/newsletter"]
 flaschenpost.de##div[class$="flex-column d-flex justify-content-center"]:has(img[src$="/crm_row_mail_full_gray.svg"])
+flaschenpost.de##.show-modal:has-text("Wir schneiden hier alles auf dich zu")
 flaschenpost.de##div[class*="catBanner_subCatId_"]
 flaschenpost.de##button[data-testid="bpytcH0GkAtjmZakRMjs"]
 flaschenpost.de##button[data-testid="I_A3EMPKXYqH7uNqXVM73"]
@@ -217,17 +225,17 @@ off-campers.com##button[form="cookie-consent-form"][value="acceptAll"]
 ! 2023-11-17 https://correctiv.org
 correctiv.org##.corre-popup-faktencheck
 
-! 12.03.2025 https://www.vpnblade.net
+! 2025-03-12 https://www.vpnblade.net
 vpnblade.net##.visible.alert-notification
 
-! 03.02.2025 https://www.verivox.de
+! 2025-02-03 https://www.verivox.de
 www.verivox.de##li[class="result-item position-zero"]
 www.verivox.de##div[data-qa^="content_tariff-"][data-qa$="_banner"]
 
-! 03.02.2025 https://www.check24.de
+! 2025-02-03 https://www.check24.de
 www.check24.de##.c24-cookie-consent-wrapper
 
-! 26.02.2025 https://kabel.vodafone.de
+! 2025-02-26 https://kabel.vodafone.de
 kabel.vodafone.de##.overlay
 kabel.vodafone.de##.preventClickOutside
 
@@ -339,7 +347,7 @@ amazon.de##.prime-popover-link
 amazon.de##div[data-toaster-type="AIS_INGRESS"]
 amazon.com##div[data-toaster-type="AIS_INGRESS"]
 
-! 26.02.2025 https://www.zooplus.de
+! 2025-02-26 https://www.zooplus.de
 www.zooplus.de##div[id="savings-plan-offer-box-wrapper"]
 
 ! 2022-09-29 https://nydus.org
@@ -402,6 +410,7 @@ instagram.com##._abpk
 instagram.com##.x1nhvcw1 > .x11aubdm
 instagram.com##div[class="x1bs97v6 x1q0q8m5 xso031l x11aubdm xnc8uc2"]
 instagram.com##div[class="x8fncvn x10l6tqk x1qiirwl"]
+instagram.com##article:has(div[role="button"]:has-text("Folgen"))
 
 ! 2021-09-14 https://x.com
 x.com##circle
@@ -497,10 +506,10 @@ wbs.legal##.block-inner > .g-0.row > div.col-md-6.col-12
 wbs.legal##.justify-content-center.g-4.row
 wbs.legal##section[id="topbar"]
 
-! 26.02.2025 https://www.lexware.de
+! 2025-02-26 https://www.lexware.de
 www.lexware.de##.frame-listtype-mylexware_announcement
 
-! 28.02.2025 https://www.kirschlolli.de
+! 2025-02-28 https://www.kirschlolli.de
 www.kirschlolli.de##.apopup
 www.kirschlolli.de##.apopup-holder
 www.kirschlolli.de##.apopup-bg
@@ -508,7 +517,7 @@ www.kirschlolli.de##.apopup-bg
 ! 25.07.2024 https://www.finanztip.de
 finanztip.de##.twingle-floating-element
 
-! 21.01.2025 https://www.finanzfluss.de
+! 2025-01-21 https://www.finanzfluss.de
 www.finanzfluss.de##li[id^="in-search-ad-"]
 www.finanzfluss.de##li[id^="Suggest-Search-Ad-"]
 
@@ -535,8 +544,12 @@ startpage.com##span[class^="w-gl-attribution"]:has-text("Web-Ergebnisse")
 startpage.com##a[aria-label="Hol dir die App"]
 startpage.com##div[class^="Firefox-promo"]
 startpage.com##.wiki-qi-container-see-more > .result > .see-more-container
+startpage.com##.mobile-app-promo-banner
 
-! 13.03.2025 https://www.gruble.de
+! 2025-05-04 https://chatgpt.com
+chatgpt.com##.overflow-hidden.max-w-\[100vw\].w-\[100vw\]
+
+! 2025-03-13 https://www.gruble.de
 gruble.de##a[class="link_on_top_donate"]
 
 ! 2024-04-12 https://www.tk.de
@@ -546,11 +559,11 @@ tk.de##.consent-manager
 tk.de##.g-footer__cta
 tk.de###tkde-socialmedia-navi
 
-! 07.02.2025 https://kv365.bkk-firmus.de
+! 2025-02-07 https://kv365.bkk-firmus.de
 ||kv365.bkk-firmus.de/images/site/*.jpg$image
 ||kv365.bkk-firmus.de/images/module_images/firmus/*.jpg$image
 
-! 07.02.2025 https://www.kbs.de
+! 2025-02-07 https://www.kbs.de
 ||www.kbs.de/SharedDocs/Bilder/DE/SMK/Versichert.jpg?__blob=normal&v=2$image
 
 ! 2023-11-24 https://discord.com
@@ -619,6 +632,7 @@ open.spotify.com##.sponsor-container
 open.spotify.com##div[style$="transition-duration: 300ms;"]
 open.spotify.com##div[data-testid="notification-dot"]
 www.spotify.com##div[data-testid="banner"]
+www.spotify.com##div[class^="Overlay-sc-"][class$="-overlay-trigger__overlay"]
 
 ! 2023-11-07 facebook-pings:
 ##button[data-test^="login"][data-test$="facebook"]
@@ -685,6 +699,7 @@ de##body > div > div:has-text("Es konnte keine Verbindung zum reCAPTCHA-Dienst h
 youtube.com##a[title="YouTube Premium"]
 youtube.com##.yt-spec-button-view-model.interstitial-view-model-wiz__flex-item
 youtube.com##ytd-feed-nudge-renderer.ytd-item-section-renderer.style-scope
+youtube.com##yt-pdg-comment-chip-renderer[id="paid-comment-chip"]
 youtube.com###primary-button.ytd-feed-nudge-renderer
 youtube.com##button[aria-label="Kanalmitglied werden"]
 youtube.com##button[aria-label="Erstellen"]
@@ -732,10 +747,10 @@ uni-leipzig.de##a[data-footer^="Senatssitzung"]
 intranet.uni-leipzig.de###footer
 www.uni-leipzig.de###footer
 
-! 24.02.2025 https://wahlergebnis.leipzig.de
+! 2025-02-24 https://wahlergebnis.leipzig.de
 wahlergebnis.leipzig.de##div.text-center.fixed-bottom > div
 
-! 10.02.2025 https://www.tbi.univie.ac.at
+! 2025-02-10 https://www.tbi.univie.ac.at
 ||www.tbi.univie.ac.at/bled/gfx/base/dotbracket_bg.png$image
 
 ! 2024-10-18 https://www.studentenwerk-leipzig.de
@@ -843,6 +858,7 @@ commerzbank.de##p[class^="sublineCard"][class$="--info-text "]
 commerzbank.de##.Table-module_tableFooterAlignRight__tiK4- > .lsgs-577b7--grid-column > .Table-module_balancePerSection__O9GhR
 kunden.commerzbank.de##div[class="lsgs-e286f--grid lsgs-e286f--grid__centered"]
 kunden.commerzbank.de##div[class="lsgs-e286f--subline lsgs-e286f--subline-container"]
+sparda-h.de##.side-nav-icon-bar
 ||awa7.de/files/content/section*/getestet.jpg$image
 ||targobank.de/de/GOPA/Public/images/background.jpg$image
 ||targobank.de/de/GOPA/Public/images/council/*.png$image
@@ -853,7 +869,7 @@ finanzen-zero.net##a[class$=" product ad ng-star-inserted"]
 finanzen-zero.net##ngb-alert:has-text("Deine IBAN für eine Überweisung auf Dein finanzen.net zero Verrechnungskonto lautet:")
 finanzen-zero.net##div[class^="zero-surface"]:has-text("SEPA-Lastschriftverfahren zu Gunsten meines finanzen.net zero Verrechnungskontos")
 
-! 28.02.2025 https://meine.norisbank.de
+! 2025-02-28 https://meine.norisbank.de
 norisbank.de##a[title="Link zu 'TAN-Verfahren'"]
 norisbank.de##a[title="Link zu 'Aktionskredit'"]
 norisbank.de##a[title="Link zu 'Tagesgeld'"]
@@ -881,12 +897,13 @@ norisbank.de##table[summary="Tabellarische Übersicht Ihrer Konten"] > tbody > t
 norisbank.de##table[summary="Tabellarische Übersicht Ihrer Umsätze"] > tbody > tr[class="mctContext"]
 norisbank.de##table[summary="Tabellarische Übersicht Ihrer Umsätze"] > tbody > tr > th[id="lB"]
 norisbank.de##img[title="Logo norisbank"]
+norisbank.de##db-banner-teaser
 ||norisbank.de/dam/norisbank/de/shared/assets/buehnen/infoservice-buehne-*.jpg$image
 ||norisbank.de/dam/norisbank/de/shared/assets/buehnen/tagesgeldkonto-buehne-*.jpg$image
 ||norisbank.de/dam/norisbank/de/shared/assets/buehnen/onlineservices-download-buehne-*.jpg$image
 ||norisbank.de/dam/norisbank/de/shared/assets/buehnen/haeufige-fragen-buehne-*.jpg$image
 
-! 15.01.2025 https://banking.dkb.de
+! 2025-01-15 https://banking.dkb.de
 banking.dkb.de##body:style(overflow: auto !important;)
 ||images.ctfassets.net/*.jpg$image
 
