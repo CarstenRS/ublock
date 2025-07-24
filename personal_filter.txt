@@ -80,10 +80,8 @@ navigator.gmx.net,navigator.web.de##a.navigator__item:nth-of-type(9)
 
 ! 2025-03-28 https://www.ubereats.com
 www.ubereats.com##div[class="gz ag h0 h1 bh h2"]
-www.ubereats.com##div[class^="ex bg fl"]:has(a[href$="BENEFIT_REMINDER"])
-www.ubereats.com##div[class="ex bg h2 h3 ga"]:has(a[href$="BENEFIT_REMINDER"])
+www.ubereats.com##div[class^="ex bg "]:has(a[href$="BENEFIT_REMINDER"])
 www.ubereats.com##div[class^="ex bg f1"]:has(a[href="/de/invite"])
-www.ubereats.com##div[class="ex bg f1 f2 ga"]:has(div[class="ck al eq bc"])
 
 ! 2024-09-16 Miscellaneous:
 ||com/contents/content_sources/*kinkypath*.gif$image
@@ -117,6 +115,9 @@ www.heise.de##.article-header__image
 
 ! 2025-04-11 https://www.mydealz.de
 mydealz.de##.mc-notification-inner--peek
+mydealz.de##.popover-cover
+mydealz.de##section[class*="popover--layout-fixed-bottomSheet "]
+mydealz.de##body:style(overflow: auto !important;)
 
 ! 2025-04-04 https://www.sklum.com
 sklum.com##.cb-promo-slide__content
@@ -540,6 +541,7 @@ startpage.com##.below-the-fold
 startpage.com##.hide-promo
 startpage.com##a[href="https://www.startpage.com/nix-zu-verbergen/"]
 startpage.com##div[class^="pa-bg"]:has-text("Werbeanzeigen")
+startpage.com##div[class^="privacy-indicator-container"]
 startpage.com##span[class^="w-gl-attribution"]:has-text("Web-Ergebnisse")
 startpage.com##a[aria-label="Hol dir die App"]
 startpage.com##div[class^="Firefox-promo"]
@@ -903,6 +905,10 @@ norisbank.de##db-banner-teaser
 ||norisbank.de/dam/norisbank/de/shared/assets/buehnen/tagesgeldkonto-buehne-*.jpg$image
 ||norisbank.de/dam/norisbank/de/shared/assets/buehnen/onlineservices-download-buehne-*.jpg$image
 ||norisbank.de/dam/norisbank/de/shared/assets/buehnen/haeufige-fragen-buehne-*.jpg$image
+||norisbank.de/dam/norisbank/de/shared/assets/service/*.png$image
+||norisbank.de/media/*.jpg$image
+||norisbank.de/*/service-catalogue/assets/images/*.jpg$image
+
 
 ! 2025-01-15 https://banking.dkb.de
 banking.dkb.de##body:style(overflow: auto !important;)
