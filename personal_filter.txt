@@ -93,7 +93,7 @@ com##.op5t
 ! 2023-03-04 Online-Zeitungs-Banner
 ||cmp.*.de/index.html$subdocument
 ||cmp-sp.*.de/index.html$subdocument
-de##div[class*="MinHeightContainerForStickyAd"]
+de##div[class^="Adstyled__MinHeightContainerForStickyAd"]
 de##span[data-testid="paid-icon"]
 de##div[class^="CoBrandHeaderstyled__CoBrandHeader-sc-"]
 de##.licntj.CoBrandHeaderstyled__CoBrandHeader-sc-1fin6qg-0
