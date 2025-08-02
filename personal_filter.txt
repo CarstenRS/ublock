@@ -93,6 +93,7 @@ com##.op5t
 ! 2023-03-04 Online-Zeitungs-Banner
 ||cmp.*.de/index.html$subdocument
 ||cmp-sp.*.de/index.html$subdocument
+de##div[class*="MinHeightContainerForStickyAd"]
 de##span[data-testid="paid-icon"]
 de##div[class^="CoBrandHeaderstyled__CoBrandHeader-sc-"]
 de##.licntj.CoBrandHeaderstyled__CoBrandHeader-sc-1fin6qg-0
@@ -124,7 +125,8 @@ sklum.com##.cb-promo-slide__content
 sklum.com##.c-newsletter-bar
 
 ! 2025-01-27 https://www.viewstats.com
-www.viewstats.com##.pro-upgrade-banner-wrapper
+viewstats.com##.pro-upgrade-banner-wrapper
+viewstats.com##.notification-banner
 
 ! 2025-01-14 https://buchen.teilauto.net
 buchen.teilauto.net##.loginModal.modal
@@ -158,9 +160,6 @@ octopusenergy.de##.cxajZV
 octopusenergy.de##div[size],svg[size],svg[xmlns^="http://www.w3.org/"]
 octopusenergy.de##figure[class^="sc-1ipakth"]
 ||octopusenergy.de/img/*banner*.svg$image
-
-! 24.11.2024 https://www.viewstats.com
-viewstats.com##.notification-banner
 
 ! 24.11.2024 https://chatgpt.com
 chatgpt.com##.bottom-full.absolute
@@ -251,7 +250,6 @@ mdr.de##.Iframe
 
 ! 2024-28-28 https://www.lvz.de
 lvz.de##div[class$=" cXybNF"]
-lvz.de##div[class^="Adstyled__MinHeightContainerForStickyAd"]
 
 ! 2022-11-03 https://www.faz.net
 faz.net##.ctn-PaywallInfo.js-ctn-PaywallInfo
