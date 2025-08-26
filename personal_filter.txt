@@ -114,6 +114,9 @@ insa-consulere.de###ccBar.visible
 ! 25.09.2024 https://www.heise.de
 www.heise.de##.article-header__image
 
+! 02.08.2025 https://www.schufa.de
+schufa.de##.service-footer
+
 ! 2025-04-11 https://www.mydealz.de
 mydealz.de##.mc-notification-inner--peek
 mydealz.de##.popover-cover
@@ -163,6 +166,7 @@ octopusenergy.de##figure[class^="sc-1ipakth"]
 
 ! 24.11.2024 https://chatgpt.com
 chatgpt.com##.bottom-full.absolute
+chatgpt.com##.inset-0.absolute
 
 ! 08.09.2024 https://www.smartzone.de
 smartzone.de##.toast-ad-block-wrapper
@@ -235,9 +239,8 @@ www.verivox.de##div[data-qa^="content_tariff-"][data-qa$="_banner"]
 ! 2025-02-03 https://www.check24.de
 www.check24.de##.c24-cookie-consent-wrapper
 
-! 2025-02-26 https://kabel.vodafone.de
-kabel.vodafone.de##.overlay
-kabel.vodafone.de##.preventClickOutside
+! 25.07.2025 https://www.escapewelt.de
+||escapewelt.de/themes/escape/assets/images/*.svg$image
 
 ! 2023-10-01 https://www.dasoertliche.de
 dasoertliche.de##iframe[data-cmp-src^="https://www.dasoertliche.de/?cmd=teaser"]
@@ -415,7 +418,6 @@ instagram.com##article:has(div[role="button"]:has-text("Folgen"))
 x.com##circle
 x.com##.css-1dbjc4n
 x.com##html:style(overflow: auto !important;)
-x.com###btlw-\{c0ab436e-cfa6-453f-ac48-df20bcce2c07\}
 x.com##a[data-testid="premium-signup-tab"]
 x.com##div[data-testid="BottomBar"]
 
@@ -499,6 +501,11 @@ service.freephone.gmx.net##.hide-tablet.appStoerer
 service.freephone.gmx.net##.p-logout-options
 ||imagepool.freephone.gmx.net/*_Header*$image
 ||imagepool.freephone.gmx.net/*/datenschutz/*-page-datenschutz-*.jpg$image
+
+! 2025-02-26 https://vodafone.de
+kabel.vodafone.de##.overlay
+kabel.vodafone.de##.preventClickOutside
+www.vodafone.de##div[id="adbl"]
 
 ! 2023-08-28 https://www.wbs.legal
 wbs.legal##.block-inner > .g-0.row > div.col-md-6.col-12
@@ -696,6 +703,9 @@ de## div > div:has-text("Es konnte keine Verbindung zum reCAPTCHA-Dienst hergest
 de##body > div > div:has-text("Es konnte keine Verbindung zum reCAPTCHA-Dienst hergestellt werden. Überprüfe deine Internetverbindung und aktualisiere die Seite, um eine reCAPTCHA-Aufgabe zu erhalten.")
 
 ! 2022-11-28 https://www.youtube.com
+youtube.com##grid-shelf-view-model[class="ytGridShelfViewModelHost ytd-item-section-renderer ytGridShelfViewModelHostHasBottomButton"]
+youtube.com##div[id="viewstats-button-mount"]
+youtube.com##yt-formatted-string > span[class="top-right-pill-container"]
 youtube.com##a[title="YouTube Premium"]
 youtube.com##.ytd-movie-renderer
 youtube.com##.yt-spec-button-view-model.interstitial-view-model-wiz__flex-item
@@ -783,6 +793,7 @@ mein.konsum-leipzig.de##.max-w-screen
 ! 2023-06-22 https://www.privateinternetaccess.com
 privateinternetaccess.com###chat-widget-iframe
 privateinternetaccess.com##div[class^="timer-area "][class$="-content-center"]
+privateinternetaccess.com##div[class="modal-mask"]
 
 ! 01.08.2024 https://www.festung-koenigstein.de
 festung-koenigstein.de###prefooter > .inside
@@ -797,6 +808,7 @@ festung-koenigstein.de###prefooter > .inside
 paketda.de,postaustausch.de##div[class="pageHeaderFacade"],div[class="authOtherOptionButtons__separator"]
 paketda.de,postaustausch.de##li[class="thirdPartyLogin"][id="googleAuth"],li[class="thirdPartyLogin"][id="githubAuth"]
 paketda.de,postaustausch.de##.userMenuNotifications
+paketda.de,postaustausch.de##div[style^="position: fixed; top: 0; left: 0; right: 0;"]
 
 ! 2024-10-31 https://www.promenaden-hauptbahnhof-leipzig.de
 ||promenaden-hauptbahnhof-leipzig.de/fileadmin/user_upload/newsletter-*.jpg$image
