@@ -107,6 +107,9 @@ net,de##.paywall.wall
 promobil.de##body:style(overflow: auto !important;)
 promobil.de##.commercial
 
+! 29.08.2025 https://www.oekoloewe.de
+www.oekoloewe.de##div[class$="youtube-wrapper"]
+
 ! 2024-08-18 https://www.polarsteps.com
 polarsteps.com##div[class^="get-the-app-banner-module"]
 
@@ -119,10 +122,14 @@ www.heise.de##.article-header__image
 ! 02.08.2025 https://www.schufa.de
 schufa.de##.service-footer
 
+! 26.08.2025 https://www.duden.de
+duden.de##.breaking
+
 ! 2025-04-11 https://www.mydealz.de
 mydealz.de##.mc-notification-inner--peek
 mydealz.de##.popover-cover
 mydealz.de##section[class*="popover--layout-fixed-bottomSheet "]
+mydealz.de##img[alt^="Slot game"]
 mydealz.de##body:style(overflow: auto !important;)
 
 ! 2025-04-04 https://www.sklum.com
@@ -218,6 +225,11 @@ flaschenpost.de##.show-modal:has-text("Wir schneiden hier alles auf dich zu")
 flaschenpost.de##div[class*="catBanner_subCatId_"]
 flaschenpost.de##button[data-testid="bpytcH0GkAtjmZakRMjs"]
 flaschenpost.de##button[data-testid="I_A3EMPKXYqH7uNqXVM73"]
+flaschenpost.de##div.tw-text-fp-pink:has-text(-){color: rgb(130, 190, 60) !important;}
+flaschenpost.de##span[class*="tw-text-[10px]"][class*="tw-line-through"]
+flaschenpost.de##div[class="tw-h-full tw-w-[4px] tw-absolute tw-left-[-12px]"]
+flaschenpost.de##div[class^="tw-flex tw-flex-col tw-gap-1"]:has-text(Top-Angebot)
+flaschenpost.de##div[class^="tw-flex tw-flex-col tw-gap-1"]:has-text(Dauergünstig)
 ||trws.flaschenpost.de^
 
 ! 2024-09-15 https://shop.deutschepost.de
@@ -727,6 +739,7 @@ youtube.com###middle-row.ytd-watch-metadata
 youtube.com###content.ytd-info-panel-container-renderer
 youtube.com###country-code
 youtube.com###related
+youtube.com##div[id="secondary"][class="style-scope ytd-watch-flexy"]
 youtube.com##ytd-guide-signin-promo-renderer
 youtube.com##ytd-live-chat-frame[collapsed=""]
 youtube.com##div[aria-label="Synchronisiert"]
