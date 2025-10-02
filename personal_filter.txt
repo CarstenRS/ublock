@@ -558,6 +558,7 @@ startpage.com##.css-1pducxn
 startpage.com##.privacy-extension-and-app-widget
 startpage.com##.below-the-fold
 startpage.com##.hide-promo
+startpage.com##.survey-result-cta
 startpage.com##a[href="https://www.startpage.com/nix-zu-verbergen/"]
 startpage.com##div[class^="pa-bg"]:has-text("Werbeanzeigen")
 startpage.com##div[class^="privacy-indicator-container"]
