@@ -505,7 +505,8 @@ netzclub.net##section[class^="c-stage c-stage--wave-5 c-stage--pt-"]
 @@||netzclub.net/img/layout/avatar-*male.svg$image
 @@||netzclub.net/img/netzclub-logo.webp$image
 @@||netzclub.net/img/video-icon.webp$image
-||mein.fonic.de/assets/webp_images/background_standalone.webp$image
+fonic.de##img[src*="banner"]
+fonic.de##a[href="https://www.fonic.de/mein-fonic/auth/tarifwechsel-uebersicht/"]
 ||mein.fonic.de/assets/webp_images/background_standalone.webp$image
 
 ! 18.11.2024 https://service.freephone.gmx.net
@@ -899,6 +900,7 @@ finanzen-zero.net##ngb-alert:has-text("Deine IBAN für eine Überweisung auf Dei
 finanzen-zero.net##div[class^="zero-surface"]:has-text("SEPA-Lastschriftverfahren zu Gunsten meines finanzen.net zero Verrechnungskontos")
 
 ! 2025-02-28 https://meine.norisbank.de
+norisbank.de##db-ad-tip
 norisbank.de##a[title="Link zu 'TAN-Verfahren'"]
 norisbank.de##a[title="Link zu 'Aktionskredit'"]
 norisbank.de##a[title="Link zu 'Tagesgeld'"]
