@@ -720,6 +720,7 @@ de##body > div > div:has-text("Es konnte keine Verbindung zum reCAPTCHA-Dienst h
 
 ! 2022-11-28 https://www.youtube.com
 youtube.com##grid-shelf-view-model[class="ytGridShelfViewModelHost ytd-item-section-renderer ytGridShelfViewModelHostHasBottomButton"]
+youtube.com##ytd-notification-renderer:has(a[class="yt-simple-endpoint style-scope ytd-notification-renderer"][href^="/shorts/"])
 youtube.com##div[id="viewstats-button-mount"]
 youtube.com##yt-formatted-string > span[class="top-right-pill-container"]
 youtube.com##a[title="YouTube Premium"]
