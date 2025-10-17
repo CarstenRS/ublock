@@ -685,6 +685,7 @@ facebook.com##form[action="/logout.php?button_location=settings&button_name=logo
 ! 2023-09-04 https://web.whatsapp.com
 web.whatsapp.com##header:not(._amid)
 web.whatsapp.com##button[aria-label^="Archiviert"]
+web.whatsapp.com##div[aria-label="chat-list-filters"]
 web.whatsapp.com##div[class^="x1ky8ojb"]
 web.whatsapp.com##div[class^="x1c4vz4f xs83m0k xdl72j9 x1g77sc7 x78zum5 xozqiw3 x1oa3qoh x12fk4p8 xeuugli x2lwn1j x1qughib"]
 ||static.whatsapp.net/rsrc.php/v3/*.png$image
@@ -698,6 +699,8 @@ www.google.com##.ssOUyb
 www.google.com##.uU7dJb
 www.google.com##.XDyW0e
 mail.google.com##.aoR
+one.google.com##div[class="GRI55b iJjyLd jc8pSb"]
+one.google.com##div[class="GRI55b iJjyLd Qw98Q"]
 ||google.com/maps/embed$subdocument
 ||accounts.google.com/gsi/iframe/select?*&origin=*twitter.com*$subdocument
 
