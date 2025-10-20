@@ -427,6 +427,7 @@ instagram.com##.x1nhvcw1 > .x11aubdm
 instagram.com##div[class="x1bs97v6 x1q0q8m5 xso031l x11aubdm xnc8uc2"]
 instagram.com##div[class="x8fncvn x10l6tqk x1qiirwl"]
 instagram.com##article:has(div[role="button"]:has-text("Folgen"))
+instagram.com##article:has(img[alt="lvz.des Profilbild"]):has-text("+++ Anzeige +++")
 
 ! 2021-09-14 https://x.com
 x.com##circle
@@ -646,6 +647,10 @@ stackexchange.com###noscript-warning
 stackoverflow.com##li[class="js-recent-tag"]
 stackoverflow.com##li[class^="js-recent-tags-heading"]
 
+! 2025-10-20 https://wiki.lineageos.org
+wiki.lineageos.org##.material-icons
+wiki.lineageos.org##a.glossary::after{ content: none !important; display: none !important; }
+
 ! 2023-08-29 https://open.spotify.com
 open.spotify.com##div[data-testid="popover"]
 open.spotify.com##button[data-testid="upgrade-button"]
@@ -727,6 +732,7 @@ youtube.com##ytd-notification-renderer:has(a[class="yt-simple-endpoint style-sco
 youtube.com##div[id="viewstats-button-mount"]
 youtube.com##yt-formatted-string > span[class="top-right-pill-container"]
 youtube.com##a[title="YouTube Premium"]
+youtube.com##img[alt^="Wir stellen vor:"]
 youtube.com##.ytd-movie-renderer
 youtube.com##.yt-spec-button-view-model.interstitial-view-model-wiz__flex-item
 youtube.com##ytd-feed-nudge-renderer.ytd-item-section-renderer.style-scope
