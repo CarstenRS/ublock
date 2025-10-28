@@ -385,6 +385,7 @@ vermietet.de##.ad-banner
 
 ! 03.12.2024 https://gutschein.coupert.com
 gutschein.coupert.com##.m-go-top-type13
+gutschein.coupert.com##.get-code
 
 ! 2024-11-11 https://jsonformatter.org
 jsonformatter.org###ablocker-big
@@ -773,6 +774,8 @@ youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
 youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
 youtube.com##+js(set, Object.prototype.hasAllowedstreamAd, true)
 youtube.com##.yt-spec-icon-badge-shape__badge
+youtube.com##div[aria-label="Automatisch synchronisiert"]
+youtube.com##div[title="Weitere Videos (v)"]
 !youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope
 m.youtube.com##.feed-nudge-wrapper
 ||gstatic.com/youtube/img/promos/growth/*$image
@@ -902,6 +905,7 @@ sparda-h.de##.side-nav-icon-bar
 ||awa7.de/files/content/section*/getestet.jpg$image
 ||targobank.de/de/GOPA/Public/images/background.jpg$image
 ||targobank.de/de/GOPA/Public/images/council/*.png$image
+finanzen-zero.net##web-design-system-pill[type="new"]
 finanzen-zero.net##td:nth-of-type(5)
 finanzen-zero.net##th:nth-of-type(5)
 finanzen-zero.net##instrument-details-push-hint[class="ng-star-inserted"]
@@ -939,6 +943,8 @@ norisbank.de##table[summary="Tabellarische Übersicht Ihrer Umsätze"] > tbody >
 norisbank.de##table[summary="Tabellarische Übersicht Ihrer Umsätze"] > tbody > tr > th[id="lB"]
 norisbank.de##img[title="Logo norisbank"]
 norisbank.de##db-banner-teaser
+norisbank.de##img[alt="Teaser"]
+norisbank.de##div[data-comp="stageProduct"]
 ||norisbank.de/dam/norisbank/de/shared/assets/buehnen/infoservice-buehne-*.jpg$image
 ||norisbank.de/dam/norisbank/de/shared/assets/buehnen/tagesgeldkonto-buehne-*.jpg$image
 ||norisbank.de/dam/norisbank/de/shared/assets/buehnen/onlineservices-download-buehne-*.jpg$image
