@@ -387,6 +387,15 @@ vermietet.de##.ad-banner
 gutschein.coupert.com##.m-go-top-type13
 gutschein.coupert.com##.get-code
 
+! 25.11.2025 https://www.trustdeals.de
+trustdeals.de##div:remove-class(snippet)
+
+! 25.11.2025 https://apotheker.gutscheine7.de
+gutscheine7.de##.get-code
+
+! 17.11.2025 https://apollo-news.net
+apollo-news.net##div[class="ad-in-article-box"]
+
 ! 2024-11-11 https://jsonformatter.org
 jsonformatter.org###ablocker-big
 
@@ -570,6 +579,7 @@ startpage.com##a[aria-label="Hol dir die App"]
 startpage.com##div[class^="Firefox-promo"]
 startpage.com##.wiki-qi-container-see-more > .result > .see-more-container
 startpage.com##.mobile-app-promo-banner
+startpage.com##.support-banner
 
 ! 2025-05-04 https://chatgpt.com
 chatgpt.com##.overflow-hidden.max-w-\[100vw\].w-\[100vw\]
