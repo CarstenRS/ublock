@@ -22,6 +22,7 @@
 ||puroligert.com^
 
 ! 2023-10-56 Cookie-Pop-Up + riesge Banner:
+##.ad-container
 ##div[class^="wmde-banner-"]
 ##[src^="/img/banner/"]
 ###cookies
@@ -216,6 +217,7 @@ chip.de##.is-shopping
 
 ! 2024-07-12 https://www.flaschenpost.de
 flaschenpost.de##.optmz_home_hero_banner
+flaschenpost.de##div[class^="tw-text-base tw-uppercase "]:has-text("Mehrweg")
 flaschenpost.de##.fp_modal
 flaschenpost.de##div[data-v-070f22c1=""]
 flaschenpost.de##p[data-v-c9ebd152=""]
@@ -252,6 +254,11 @@ www.verivox.de##div[data-qa^="content_tariff-"][data-qa$="_banner"]
 
 ! 2025-02-03 https://www.check24.de
 www.check24.de##.c24-cookie-consent-wrapper
+
+! 19.01.2026 https://receive-smss.com
+||receive-smss.com/wp-content/themes/receive-sms-theme/assets/wallpaper/$image
+receive-smss.com##a[herf^="https://chromewebstore.google.com/detail/temporary-contacts-emails/"]
+receive-smss.com##img[alt="signal"]
 
 ! 25.07.2025 https://www.escapewelt.de
 ||escapewelt.de/themes/escape/assets/images/*.svg$image
@@ -434,6 +441,8 @@ conrad.de##.cmsColumn__default.cmsColumn__layout2-75-25.cmsColumn__wrapper > .cm
 instagram.com##.x3hkoc4
 instagram.com##._abpk
 instagram.com##.x1nhvcw1 > .x11aubdm
+instagram.com##.xm5kwj2.xl56j7k.xt7dq6l.x1iyjqo2.xdt5ytf.x78zum5.x6s0dn4
+instagram.com##.xsjzec5.x1u2x60b.xvr7zsw.x18mw1md.x1is6hmk.xs83m0k.x1iyjqo2.x1r8uery.xeuugli.x193iq5w.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
 instagram.com##div[class="x1bs97v6 x1q0q8m5 xso031l x11aubdm xnc8uc2"]
 instagram.com##div[class="x8fncvn x10l6tqk x1qiirwl"]
 instagram.com##article:has(div[role="button"]:has-text("Folgen"))
@@ -529,6 +538,7 @@ service.freephone.gmx.net##.p-logout-options
 ||imagepool.freephone.gmx.net/*/datenschutz/*-page-datenschutz-*.jpg$image
 
 ! 2025-02-26 https://vodafone.de
+vodafone.de##picture[class$="height-full lazyloaded"]
 kabel.vodafone.de##.overlay
 kabel.vodafone.de##.preventClickOutside
 www.vodafone.de##div[id="adbl"]
@@ -583,6 +593,7 @@ startpage.com##.support-banner
 
 ! 2025-05-04 https://chatgpt.com
 chatgpt.com##.overflow-hidden.max-w-\[100vw\].w-\[100vw\]
+chatgpt.com##.pt-8
 
 ! 2025-03-13 https://www.gruble.de
 gruble.de##a[class="link_on_top_donate"]
@@ -717,6 +728,7 @@ www.google.com##.XDyW0e
 mail.google.com##.aoR
 one.google.com##div[class="GRI55b iJjyLd jc8pSb"]
 one.google.com##div[class="GRI55b iJjyLd Qw98Q"]
+calendar.google.com##div[aria-label^="Seitenleiste"]
 ||google.com/maps/embed$subdocument
 ||accounts.google.com/gsi/iframe/select?*&origin=*twitter.com*$subdocument
 
@@ -751,6 +763,7 @@ youtube.com##yt-pdg-comment-chip-renderer[id="paid-comment-chip"]
 youtube.com###primary-button.ytd-feed-nudge-renderer
 youtube.com##button[aria-label="Kanalmitglied werden"]
 youtube.com##button[aria-label="Erstellen"]
+youtube.com##button[aria-label="Jetzt testen"]
 youtube.com##.sponsorThumbnailLabel
 youtube.com###sponsor-button
 youtube.com###donation-shelf
@@ -788,7 +801,7 @@ youtube.com##div[aria-label="Automatisch synchronisiert"]
 youtube.com##div[title="Weitere Videos (v)"]
 !youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope
 m.youtube.com##.feed-nudge-wrapper
-||gstatic.com/youtube/img/promos/growth/*$image
+||gstatic.com/youtube/img/promos/*.webp$image
 
 ! 2024-04-19 www.uni-leipzig.de
 stura.uni-leipzig.de##.hero
@@ -911,6 +924,9 @@ commerzbank.de##p[class^="sublineCard"][class$="--info-text "]
 commerzbank.de##.Table-module_tableFooterAlignRight__tiK4- > .lsgs-577b7--grid-column > .Table-module_balancePerSection__O9GhR
 kunden.commerzbank.de##div[class="lsgs-e286f--grid lsgs-e286f--grid__centered"]
 kunden.commerzbank.de##div[class="lsgs-e286f--subline lsgs-e286f--subline-container"]
+consorsbank.de##section[aria-labelledby="notification_welcome_headline"]
+consorsbank.de##app-pricing-progress-bar
+consorsbank.de##svg[data-type="new-badge"]
 sparda-h.de##.side-nav-icon-bar
 ||awa7.de/files/content/section*/getestet.jpg$image
 ||targobank.de/de/GOPA/Public/images/background.jpg$image
@@ -922,6 +938,9 @@ finanzen-zero.net##instrument-details-push-hint[class="ng-star-inserted"]
 finanzen-zero.net##a[class$=" product ad ng-star-inserted"]
 finanzen-zero.net##ngb-alert:has-text("Deine IBAN für eine Überweisung auf Dein finanzen.net zero Verrechnungskonto lautet:")
 finanzen-zero.net##div[class^="zero-surface"]:has-text("SEPA-Lastschriftverfahren zu Gunsten meines finanzen.net zero Verrechnungskontos")
+mein.finanzen-zero.net##ngb-modal-window[role="dialog"]
+mein.finanzen-zero.net##ngb-modal-backdrop[class="modal-backdrop fade show"]
+mein.finanzen-zero.net##body:style(overflow: auto !important;)
 
 ! 2025-02-28 https://meine.norisbank.de
 norisbank.de##db-ad-tip
@@ -955,10 +974,8 @@ norisbank.de##img[title="Logo norisbank"]
 norisbank.de##db-banner-teaser
 norisbank.de##img[alt="Teaser"]
 norisbank.de##div[data-comp="stageProduct"]
-||norisbank.de/dam/norisbank/de/shared/assets/buehnen/infoservice-buehne-*.jpg$image
-||norisbank.de/dam/norisbank/de/shared/assets/buehnen/tagesgeldkonto-buehne-*.jpg$image
-||norisbank.de/dam/norisbank/de/shared/assets/buehnen/onlineservices-download-buehne-*.jpg$image
-||norisbank.de/dam/norisbank/de/shared/assets/buehnen/haeufige-fragen-buehne-*.jpg$image
+www.norisbank.de##div[id="stage-area"][class="stage-area"]
+||norisbank.de/dam/norisbank/de/shared/assets/buehnen/*-buehne-*.jpg$image
 ||norisbank.de/dam/norisbank/de/shared/assets/service/*.png$image
 ||norisbank.de/media/*.jpg$image
 ||norisbank.de/*/service-catalogue/assets/images/*.jpg$image
