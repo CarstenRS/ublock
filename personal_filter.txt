@@ -577,6 +577,7 @@ wikipedia.org##.vector-column-end
 ! 2022-11-10 https://www.startpage.com
 startpage.com##.css-1751upu
 startpage.com##.css-1pducxn
+startpage.com##.css-1npobi3
 startpage.com##.privacy-extension-and-app-widget
 startpage.com##.below-the-fold
 startpage.com##.hide-promo
