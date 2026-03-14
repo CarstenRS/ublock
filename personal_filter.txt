@@ -632,6 +632,7 @@ skype.com##.r-nuir7j.css-1dbjc4n
 live.com###GoPremiumButton_container
 
 ! 2023-12-12 https://web.telegram.org
+web.telegram.org##archive-dialog.row-big.chatlist-chat-bigger
 web.telegram.org##.story-toggler-wrapper
 web.telegram.org##div[class^="NewChatButton"]
 web.telegram.org##button[id="StoryToggler"]
@@ -933,12 +934,16 @@ sparda-h.de##.side-nav-icon-bar
 ||targobank.de/de/GOPA/Public/images/background.jpg$image
 ||targobank.de/de/GOPA/Public/images/council/*.png$image
 finanzen-zero.net##web-design-system-pill[type="new"]
-finanzen-zero.net##td:nth-of-type(5)
-finanzen-zero.net##th:nth-of-type(5)
+finanzen-zero.net##th:nth-of-type(6)
+finanzen-zero.net##th:nth-of-type(8)
+finanzen-zero.net##td:nth-of-type(6)
+finanzen-zero.net##td:nth-of-type(8)
 finanzen-zero.net##instrument-details-push-hint[class="ng-star-inserted"]
 finanzen-zero.net##a[class$=" product ad ng-star-inserted"]
 finanzen-zero.net##ngb-alert:has-text("Deine IBAN für eine Überweisung auf Dein finanzen.net zero Verrechnungskonto lautet:")
 finanzen-zero.net##div[class^="zero-surface"]:has-text("SEPA-Lastschriftverfahren zu Gunsten meines finanzen.net zero Verrechnungskontos")
+mein.finanzen-zero.net##div[class="row same-height ng-star-inserted"]:has(home-my-top-instruments)
+mein.finanzen-zero.net##home-multi-order-strategies-slider[class="ng-star-inserted"]
 mein.finanzen-zero.net##ngb-modal-window[role="dialog"]
 mein.finanzen-zero.net##ngb-modal-backdrop[class="modal-backdrop fade show"]
 mein.finanzen-zero.net##body:style(overflow: auto !important;)
