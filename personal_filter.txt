@@ -591,6 +591,7 @@ startpage.com##div[class^="Firefox-promo"]
 startpage.com##.wiki-qi-container-see-more > .result > .see-more-container
 startpage.com##.mobile-app-promo-banner
 startpage.com##.support-banner
+||startpage.com/sp/afs/ads$subdocument
 
 ! 2025-05-04 https://chatgpt.com
 chatgpt.com##.overflow-hidden.max-w-\[100vw\].w-\[100vw\]
