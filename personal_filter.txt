@@ -608,6 +608,8 @@ tk.de##.g-footer__cta
 tk.de###tkde-socialmedia-navi
 
 ! 2025-02-07 https://kv365.bkk-firmus.de
+kv365.bkk-firmus.de##div[class="kasten"]:style(background-color: white !important; box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.3) !important; color:#f29100 !important)
+kv365.bkk-firmus.de##div[class="kasten"] > p:style(color:black !important)
 ||kv365.bkk-firmus.de/images/site/*.jpg$image
 ||kv365.bkk-firmus.de/images/module_images/firmus/*.jpg$image
 
