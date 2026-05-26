@@ -8,6 +8,10 @@
 !gmx.net,web.de#@#.permission-core-iframe
 !fahrschule-dovermann.de#@#div[consent-skip-blocker="1"]
 
+! HaGeZi's Allowlist Referral:
+@@||open.spotify.com^
+
+
 ! 2024-09-17 blocked tracking/ad-domains
 ||web-ads.10sq.net^
 ||trackingworlds.com^
@@ -715,11 +719,10 @@ facebook.com##div[aria-valuetext^="Wird geladen"]
 facebook.com##form[action="/logout.php?button_location=settings&button_name=logout"]
 
 ! 2023-09-04 https://web.whatsapp.com
-web.whatsapp.com##header:not(._amid)
+web.whatsapp.com##button[aria-label="Anzeigen"][type="button"]
 web.whatsapp.com##button[aria-label^="Archiviert"]
 web.whatsapp.com##div[aria-label="chat-list-filters"]
-web.whatsapp.com##div[class^="x1ky8ojb"]
-web.whatsapp.com##div[class^="x1c4vz4f xs83m0k xdl72j9 x1g77sc7 x78zum5 xozqiw3 x1oa3qoh x12fk4p8 xeuugli x2lwn1j x1qughib"]
+web.whatsapp.com##header[data-testid="chatlist-header"][data-tab="2"]
 ||static.whatsapp.net/rsrc.php/v3/*.png$image
 
 ! 2023-12-31 https://faq.whatsapp.com
