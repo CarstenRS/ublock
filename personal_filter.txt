@@ -396,7 +396,8 @@ vermietet.de##.ad-banner
 
 ! 03.12.2024 https://gutschein.coupert.com
 gutschein.coupert.com##.m-go-top-type13
-gutschein.coupert.com##.get-code
+coupert.com##.get-code
+coupert.com##div[class^="CodeButton_cover"]
 
 ! 25.11.2025 https://www.trustdeals.de
 trustdeals.de##div:remove-class(snippet)
