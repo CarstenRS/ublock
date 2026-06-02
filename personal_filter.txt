@@ -115,8 +115,14 @@ promobil.de##.commercial
 ! 29.08.2025 https://www.oekoloewe.de
 www.oekoloewe.de##div[class$="youtube-wrapper"]
 
+! 17.04.2026 https://www.wolframalpha.com
+wolframalpha.com##a[href*="?adref="]
+
 ! 2024-08-18 https://www.polarsteps.com
 polarsteps.com##div[class^="get-the-app-banner-module"]
+
+! 29.03.2026 https://www.meri-sauna.de
+||meri-sauna.de/wp-content/uploads/*.jpg$image
 
 ! 2025-01-08 https://www.insa-consulere.de
 insa-consulere.de###ccBar.visible
@@ -642,6 +648,7 @@ live.com###GoPremiumButton_container
 ! 2023-12-12 https://web.telegram.org
 web.telegram.org##archive-dialog.row-big.chatlist-chat-bigger
 web.telegram.org##.story-toggler-wrapper
+web.telegram.org##.has-stories
 web.telegram.org##div[class^="NewChatButton"]
 web.telegram.org##button[id="StoryToggler"]
 web.telegram.org##.RF4n_8QOkb5FMXcpbmBW.ListItem-button
