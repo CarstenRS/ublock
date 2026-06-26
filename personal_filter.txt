@@ -948,10 +948,10 @@ sparda-h.de##.side-nav-icon-bar
 ||targobank.de/de/GOPA/Public/images/background.jpg$image
 ||targobank.de/de/GOPA/Public/images/council/*.png$image
 finanzen-zero.net##web-design-system-pill[type="new"]
-finanzen-zero.net##th:nth-of-type(6)
-finanzen-zero.net##th:nth-of-type(8)
-finanzen-zero.net##td:nth-of-type(6)
-finanzen-zero.net##td:nth-of-type(8)
+finanzen-zero.net##th:nth-of-type(5)
+finanzen-zero.net##th:nth-of-type(7)
+finanzen-zero.net##td:nth-of-type(5)
+finanzen-zero.net##td:nth-of-type(7)
 finanzen-zero.net##instrument-details-push-hint[class="ng-star-inserted"]
 finanzen-zero.net##a[class$=" product ad ng-star-inserted"]
 finanzen-zero.net##ngb-alert:has-text("Deine IBAN für eine Überweisung auf Dein finanzen.net zero Verrechnungskonto lautet:")
