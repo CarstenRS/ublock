@@ -586,22 +586,25 @@ prosieben.de##.cleverpush-p7-confirm
 wikipedia.org##.vector-column-end
 
 ! 2022-11-10 https://www.startpage.com
-startpage.com##.css-1751upu
-startpage.com##.css-1pducxn
-startpage.com##.css-1npobi3
-startpage.com##.privacy-extension-and-app-widget
-startpage.com##.below-the-fold
-startpage.com##.hide-promo
-startpage.com##.survey-result-cta
-startpage.com##a[href="https://www.startpage.com/nix-zu-verbergen/"]
-startpage.com##div[class^="pa-bg"]:has-text("Werbeanzeigen")
-startpage.com##div[class^="privacy-indicator-container"]
-startpage.com##span[class^="w-gl-attribution"]:has-text("Web-Ergebnisse")
-startpage.com##a[aria-label="Hol dir die App"]
-startpage.com##div[class^="Firefox-promo"]
-startpage.com##.wiki-qi-container-see-more > .result > .see-more-container
-startpage.com##.mobile-app-promo-banner
-startpage.com##.support-banner
+startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion,startpage.com##.css-1751upu
+startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion,startpage.com##.css-1pducxn
+startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion,startpage.com##.css-1npobi3
+startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion,startpage.com##.privacy-extension-and-app-widget
+startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion,startpage.com##.below-the-fold
+startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion,startpage.com##.hide-promo
+startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion,startpage.com##.survey-result-cta
+startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion,startpage.com##a[href="https://www.startpage.com/nix-zu-verbergen/"]
+startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion,startpage.com##div[class^="pa-bg"]:has-text("Werbeanzeigen")
+startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion,startpage.com##div[class^="privacy-indicator-container"]
+startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion,startpage.com##span[class^="w-gl-attribution"]:has-text("Web-Ergebnisse")
+startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion,startpage.com##a[aria-label="Hol dir die App"]
+startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion,startpage.com##div[class^="Firefox-promo"]
+startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion,startpage.com##.wiki-qi-container-see-more > .result > .see-more-container
+startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion,startpage.com##.mobile-app-promo-banner
+startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion,startpage.com##.support-banner
+startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion,startpage.com##.css-6cjynv
+startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion,startpage.com##div[data-darkreader-inline-bgimage=""]
+||startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion/sp/afs/ads$subdocument
 ||startpage.com/sp/afs/ads$subdocument
 
 ! 2025-05-04 https://chatgpt.com
