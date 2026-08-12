@@ -1,4 +1,4 @@
-/// tor-redirect.js
+/// my-tor-redirect.js
 (function() {
   const redirects = {
   // Search
